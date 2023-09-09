@@ -2007,15 +2007,11 @@ test: commits que agregan pruebas.
 
 Proporciona información contextual adicional, si bien es opcional, es bueno colocarlo para que el desarrollador lea un commit más específico. 
 
-**<description>**
 
 Es una parte obligatoria del formato de los commits, siempre debemos usar imperativo y no escribir en mayúsculas. 
 
-**[optional body]**
-
 Debe incluirse la motivación para el cambio y contrastarse con el comportamiento anterior. Es opcional y si lo usa debe usar el imperativo y es ideal para mencionar los identificadores de problemas y sus relaciones.
 
-**[optional footer(s)]**
 
 Cualquier información sobre cambios importantes. Es opcional, puede incluir referencia al problema por su id y en esta sección se incluyen los BREAKING CHANGES: seguido de un espacio o dos satos de línea. 
 
@@ -2597,6 +2593,8 @@ El despliegue del Landing Page de Medicare no pudo ser posible sin utilizar las 
 - GitHub: Plataforma de desarrollo colaborativo.
 
 ![Logotipo de github - Iconos gratis de redes sociales]
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.034.jpeg)
 
 - Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.
 
