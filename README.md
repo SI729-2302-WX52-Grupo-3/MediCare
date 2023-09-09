@@ -1742,4 +1742,929 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 | 29      | HU10          | Cambio de Nombre                                       | Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.                                                                             | 1                                |
 
 
+# 5. Product Implementation, Validation & Deployment
+## 5.1 Software Configuration Management
+A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
+### 5.1.1. Software Development Environment Configuration.
+En esta sección se incluye los links de las aplicaciones, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron. 
+
+Para ello se clasificará en las siguientes secciones:
+
+- Project Management
+- Requirements Management
+- Product UX/UI Design 
+- Software Development
+- Software Testing
+- Software Deployment
+- Software Documentation
+
+Y clasificar los elementos de las secciones si es ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software. 
+
+**Project Management**
+
+Es la disciplina basada en la gestión de los proyectos, la cual tiene como objetivo principal mejorar los procesos y su entorno para alcanzar los resultados esperados.
+
+- Trello: Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application. 
+
+<https://trello.com/es> 
+
+**Requirements Management**
+
+Es el proceso de garantizar que una organización documente verifique y satisfaga las necesidades, expectativas de sus clientes con las partes interesadas internas o externas.
+
+- **Pivotal Tracker:** Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándoles en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparte la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto. <https://www.pivotaltracker.com/n/projects/2603049> 
+
+**Product UX/UI Design** 
+
+Esta herramienta permite desarrollar el modelo en nuestro producto de manera digital y forme parte de la vida del consumidor.  En este caso realizar un modelo de sitio web para computadoras y celulares.
+
+- **Uxpressia:** es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.
+
+<https://uxpressia.com/> 
+
+- **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
+
+<https://miro.com/app/dashboard/> 
+
+- **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.
+
+<https://www.figma.com/design/> 
+
+- **Lucid Chart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
+
+<https://lucid.app/documents#/dashboard> 
+
+- **Structurizr :** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
+
+<https://structurizr.com/> 
+
+**Software Development**
+
+Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso.
+
+- **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. 
+
+<https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3> 
+
+- **Web Storm:** Es un entorno de JetBrains, empresa desarrolladora de Software, orientado en el desarrollo web en JavaScript. Este nos ofrece facilidad en probar nuestro entorno web en navegadores como Google. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS , JavaScript y TypeScript.
+
+<https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&gclid=CjwKCAjwv-GUBhAzEiwASUMm4ncU-aP3HPxUWVYTPMthApgSMowOvvfEAoJMFvwf1O_gQdv0HtWOrhoCdacQAvD_BwE>
+
+- **Visual Studio Code:** Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea <a name="_hlk113961326"></a>más eficiente. Asimismo, se empleará para poder construir el backend de nuestro web Applications.
+
+<https://code.visualstudio.com/> 
+
+- **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web. Asimismo, la disponibilidad de trabajar HTML junto con CSS y JavaScript. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.
+
+<https://www.jetbrains.com/help/webstorm/editing-html-files.html> 
+
+- **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. Además, se puede diseñar un estilo en CSS y compartirlo en el web elaborado en HTML. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.
+
+<https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion> 
+
+- **JavaScript:** Es un lenguaje de programación que es analizado por otros programas. Este trabaja en POO (programación orientada en objetos) para prototipos sin implementación con clases. Este programa permite realizar dinámicas para el usuario a través de la lógica de la programación. Se utilizará para la elaboración de las dinámicas de la plataforma web.
+
+<https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html> 
+
+- **Java:** Es un lenguaje de programación y una plataforma informática mundialmente conocida y favorito de muchos.
+
+<https://www.java.com/es/> 
+
+- **TypeScript:** Es un superset de JavaScript. Este lenguaje nos permite aplicar programas de javaScript, pero cabe resaltar que no funciona al revés. Su principal funcionalidad es que pone a disposición del desarrollador librerías y frameworks que existen para JavaScript.
+
+<https://www.typescriptlang.org/> 
+
+- **Angular:** Framework de TypeScript, de código abierto, utilizado para desarrollar SPA.
+
+<https://angular.io> 
+
+**Software Testing**
+
+Es el acto de examinar los artefactos y el comportamiento del software bajo prueba mediante validación y verificación. 
+
+- **Lenguaje Gherkins:** Es un DSL o Lenguaje Específico de Dominio (Domain-Specific Languaje), es decir, un lenguaje que está creado para resolver un problema. Además de ser interpretado en código, se puede agregar los users stories del programa con sus respectivas partes: Feature, Scenario, Example, Scenario Outline, Given, When, Then y And.
+
+**Software Deployment**
+
+- **Github pages:** Servicio de Github que nos permitió alojar nuestra lading page y nos permitirá alojar nuestro web applications.
+
+[https://pages.github.com/](https://pages.github.com/)
+
+[https://github.com/](https://github.com/)
+
+- **Firebase:** Servicio de firebase para poder alojar nuestra web Application front end.
+
+[**https://firebase.google.com/?hl=es](https://firebase.google.com/?hl=es)** 
+
+**Software Documentation**
+
+Es un tipo de texto escrito o ilustración que acompaña al software de computadora o está incrustado en el código fuente. La documentación explica cómo funciona el software o cómo usarlo.
+
+- **OpenAPI Specification vía Swagger**: Es una especificación para archivos de interfaz legibles por máquina para describir, producir y visualizar servicios web RESTful. 
+
+<https://swagger.io/specification/> 
+
+
+
+### 5.1.2. Source Code Management
+A continuación, se presenta la gestión de código fuente o como es conocido por sus siglas en ingles SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizara a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se empleará como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos **GitHub**.
+
+URL de la Organización: <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3> 
+
+URL del Repositorio del Landing Page: <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3/LandingPage-Medicare> 
+
+URL del Repositorio de Web Services: Por el momento el equipo no ha creado un repositorio, puesto que no comenzamos con la implementación. 
+
+URL del Repositorio de Frontend Web Applications: Por el momento el equipo no ha creado un repositorio, puesto que no se ha comenzado aún el desarrollo a código de este.
+
+URL del Repositorio de las pruebas de aceptación: Por el momento el equipo no ha creado un repositorio, puesto que no comenzamos con la implementación.
+
+**GitFlow**
+
+Es el modelo alternativo de creación de ramas en Git que en los últimos años se ha vuelto una herramienta indispensable para muchos desarrolladores. Este flujo de trabajo de control de versiones utiliza ramas y fue publicado y popularizado por Vincent Driessen. Su principal función es ayudar en la organización de la versión de un código, permitiendo la creación de nuevos Features y Hotfixes de manera organizada. 
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.001.png)
+
+Como se mencionó anteriormente, GitFlow trabaja con branches o ramas. A continuación, se muestran las ramas que se emplearan en el flujo de trabajo de nuestro proyecto.
+
+- Main Branches
+  - main: es la rama principal, a partir de ella se recorrerán todas las ramas y contendrá la última versión y las anteriores creadas por los desarrolladores. Almacenara el historial de publicación oficial.
+  - Develop: Esta rama puede ser creada a partir de la master Branch, contara con todos los Features estables. Esto significa que a través de esta rama el equipo podrá integrar las funciones. 
+- Support Branches
+
+A diferencia de las ramas principales, estas branches tienen un tiempo de vida limitado, ya que se eliminar al realizar el merge con sus ramas primarias.
+
+- Feature: 
+  - Se ramifica de: develop
+  - Debe fusionarse de nuevo en: develop
+
+Se emplean para desarrollar las nuevas funciones que se integraran en una versión siguiente. Cabe resaltar, que esta rama existe mientras este en proceso de desarrollo. Sin embargo, cuando el desarrollador culmine con esa función, se fusionará nuevamente a develop. 
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.002.png)
+
+
+
+- Realease: 
+  - Se ramifica de: develop
+  - Debe fusionarse de nuevo en: develop / master
+
+Son aquellas que admiten la preparación de una nueva versión de producción. A través de esta rama, se permite corregir errores menores que surgieron en la etapa de desarrollo y preparar metadatos para su lanzamiento. Esto último genera que la develop Branch se autoriza para recibir nuevas funciones para la próxima versión, pues se generara cuando se acerque una fecha de publicación determinada. 
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.003.png)
+
+- Hotfix
+  - Se ramifica de: master
+  - Debe fusionarse de nuevo en: develop y master
+
+Estas ramas son muy similares a las reléase branches, ya que también están destinadas para una nueva versión de producción, pero con la diferencia que se ramifican de master y no de develop. Son llamadas como ramas de mantenimiento, corrección o soo hotfix. Su principal función, es reparar rápidamente las publicaciones de producción. Al terminar la corrección, debe fusionarse con master y esta debe etiquetarse con un nuevo número de versión. 
+
+
+**Principales motivos por los que el equipo empleara GitFlow.**
+
+- Este flujo de trabajo es ideal para el equipo, puesto que nuestro proyecto se basa en publicaciones en un determinado sprint.
+- Esta centralizado como subversión (SVN) y descentralizado, que permite que el equipo trabaje individualmente. Pues no todos tienen el mismo horario. Sin embargo, todos deben mantener las actualizaciones en el repositorio central en GitHub.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.004.png)
+
+**Convenciones para nombrar los Features, reléase y hotfix branches:**
+
+**Feature Branch:** feature/name
+
+**Example:** 
+
+1. feature/welcome, 
+1. feature/about, 
+1. feature/myfeature
+
+Antes de mostrar las convenciones para nombrar los reléase and hotfix branches. We have to mostrar cómo es que funciona el **Semantic Versioning Specification.** 
+
+Este es un sistema de versiones, cuyo uso ha ido aumentando con el transcurso del tiempo por los desarrolladores. Con ello, developers pueden visualizar la extensión de los cambios en el código fuente del proyecto.
+
+Inicialmente, la versión se basa de MAJOR.MINOR.PATCH (X.Y.Z). Asimismo, para comenzar a usar este sistema de versiones debemos declarar una API publica precisa y comprensible. Esta forma debe aumentar numéricamente según lo desarrollado por el equipo de software. 
+
+El proyecto inicia su desarrollo con la versión 0.y.z, luego pasara a ser 1.0.0 cuando se defina la API pública. Siguientemente, se seguirán los criterios mostrados a continuación para incrementar la versión. 
+
+**Patch version** (Z), debe incrementarse si solo se introducen correcciones de errores compatibles con versiones anteriores.
+
+**Minor version** (Y), debe incrementarse si el equipo integra una nueva funcionalidad compatible con versiones anteriores en la API pública. Si alguna funcionalidad es obsoleta o si se introducen nuevas funcionalidades en el código privado. 
+
+Si se incrementa, la version del parche debe volver a 0.
+
+**Major version** (X), debe incrementarse si se generan cambios deslindados a versiones anteriores en la API pública. 
+
+Si se incrementa, Patch version y la minor version debe volver a 0.
+
+Existen etiquetas adicionales para los metadatos de compilación. 
+
+**Ejemplo:**  MAJOR.MINOR. PATCH (X.Y.Z)
+
+1. 1.9.0
+1. 1.10.0
+1. 2.0.0
+1. 1.0.0-alfa
+
+**Release Branch:**  release-\* (\* se cambia por la versión semántica).
+
+**Ejemplo:** release-1.2.0
+
+**Hotfix Branch:**  hotfix-\* (\* se cambia por la versión semántica).
+
+**Ejemplo:** hotfix-1.2.1
+
+**Conventional Commits**
+
+El commit debe estructurarse de la siguiente manera:
+
+**<type>[optional scope]: <description>**
+
+**[optional body]**
+
+**[optional footer(s)]**
+
+Cabe recalcar que debe estar en “lower case”.
+
+**Type:** 
+
+feat: Cuando se agrega un nuevo feature.
+
+fix: cuando corriges un error.
+
+build: cuando afectan los componentes de compilación como la herramienta de compilación, las dependencias o la version del proyecto.
+
+chore: modificaciones privadas del código.
+
+docs: commits que afectan solo a la documentación.
+
+refractor: commits que reescriben o reestructura el código, pero no cambia el comportamiento.
+
+perf: commits especiales que mejoran el rendimiento. 
+
+style: commits que no afectan el programa. (espacios en blanco, formato, puntos o comas faltantes).
+
+test: commits que agregan pruebas.
+
+**Scope**
+
+Proporciona información contextual adicional, si bien es opcional, es bueno colocarlo para que el desarrollador lea un commit más específico. 
+
+**<description>**
+
+Es una parte obligatoria del formato de los commits, siempre debemos usar imperativo y no escribir en mayúsculas. 
+
+**[optional body]**
+
+Debe incluirse la motivación para el cambio y contrastarse con el comportamiento anterior. Es opcional y si lo usa debe usar el imperativo y es ideal para mencionar los identificadores de problemas y sus relaciones.
+
+**[optional footer(s)]**
+
+Cualquier información sobre cambios importantes. Es opcional, puede incluir referencia al problema por su id y en esta sección se incluyen los BREAKING CHANGES: seguido de un espacio o dos satos de línea. 
+
+` `Ejemplos:
+
+1. feat(welcome): add welcome section
+1. build(release): bump version to 1.0.0
+1. style: remove empty line
+1. feat(sign up): add the button to sign up
+1. feat ! : send an email to the costumer when product is shipped
+1. feat: remove ticket list endpoint
+
+refers to JIRA-1337
+
+BREAKING CHANGES: ticket enpoints no longer supports list all entites.
+
+
+### 5.1.3. Source Code Style Guide & Conventions
+En esta sección se mostrarán las pautas, convenciones, estilos y principios que se utilizarán para cada uno de los lenguajes que se emplearán en la creación de nuestra aplicación, Medicare. La práctica de este conjunto de reglas es de suma importancia, ya que estas tienen el propósito de conservar la calidad estructural del software, dar una mayor legibilidad al código fuente y facilitar el mantenimiento del código.
+
+Dado que en este proyecto se utilizarán HTML, CSS y JavaScript para la codificación de la plataforma web y Gherkins para el proceso de prueba del programa; a continuación, se nombrarán y describirán las reglas y recomendaciones generales que tomaremos en cuenta al momento de usarlos.
+
+**Nomenclatura General**
+
+A los nombres de las variables, objetos, elementos y funciones que se utilicen, se les designarán términos en inglés que estén relacionados y puedan describir a lo que están representando. No se usarán mayúsculas porque de acuerdo con W3Schools (s.f.), la mezcla de estas con las letras minúsculas luce mal y, además, el uso exclusivo de minúsculas otorga mayor legibilidad al código.
+
+Ejemplo de nomenclatura estándar según Google (s.f.):
+
+.gallery {}
+
+.video {}
+
+.login {}
+
+**Sangría**
+
+En el momento de utilizar HTML, CSS y/o JavaScript se aplicará un espaciado antes de cada línea que se encuentre dentro de un bloque. Este espacio debe ser de dos y según W3Schools (s.f.) no se debe hacer uso de la tecla “Tabulación”.
+
+Ejemplo de nomenclatura estándar de la sangría en HTML según W3Schools (s.f.):
+
+<table>
+`  `<tr>
+`    `<th>Name</th>
+`    `<th>Description</th>
+
+`  `</tr>
+</table>
+
+Ejemplo de nomenclatura estándar de la sangría en CSS según W3Schools (s.f.):
+
+html {
+`  `background: #fff;
+`  `color: #404;
+}
+
+Ejemplo de nomenclatura estándar de la sangría en JavaScript según W3Schools (s.f.):
+
+function toCelsius(fahrenheit) {
+`  `return (5 / 9) \* (fahrenheit - 32);
+}
+
+Seguidamente, explicaremos las reglas específicas que se necesitan en cada lenguaje para entender el código de nuestro programa, Medicare.  
+
+**HTML**
+
+Llamado así por las siglas del nombre en inglés HyperText Markup Language. HTML es un lenguaje de marcado que define la estructura de una página web. Además, cuenta con funciones capaces de determinar el comportamiento de distintas partes del contenido de la página, tales como el cambiar el tamaño del texto, aplicar cursiva, entre otros. Nosotros emplearemos HTML5, y las características y pautas a seguir para hacer uso de este lenguaje son las siguientes:
+
+
+- **Declare Document Type**
+
+El tipo de documento debe declararse en la primera línea de código. De acuerdo con Google (s.f.) HTML5 es de preferencia la mejor sintaxis para todo documento HTML, para declararla sólo es necesario copiar lo siguiente:
+
+<!DOCTYPE html> 
+
+- **Blank Lines** 
+
+Cada vez que, luego de un bloque, lista o tabla de gran longitud se inicie uno nuevo, se debe saltar la siguiente línea y dejarla en blanco para brindar mayor legibilidad y amenidad, así manifiesta W3Schools (s.f.).  
+
+Ejemplo:
+
+<body>
+
+<h1>Famous Cities</h1>
+
+<h2>Tokyo</h2>
+<p>Tokyo is the capital of Japan, the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+
+<h2>London</h2>
+<p>London is the capital city of England. It is the most populous city in the United Kingdom.</p>
+
+<h2>Paris</h2>
+<p>Paris is the capital of France. The Paris area is one of the largest population centers in Europe.</p>
+
+</body>
+
+- **Quote Attribute Values**
+
+Para los valores de los atributos se utilizan comillas dobles alrededor. De acuerdo con W3Schools (s.f.) Aunque esta característica no sea obligatoria, le da más legibilidad al código y es muy frecuente entre los desarrolladores.
+
+Ejemplo:
+<table class="striped">
+
+
+
+- **Multimedia Fallback**
+
+Asegurar un acceso alterno a los objetos multimedia por si este fallara al cargar. De la misma forma, según la W3Schools (s.f.), es recomendable añadir las dimensiones del elemento porque así los navegadores guardan el espacio que utilizará antes de comenzar a cargarlo.
+
+Ejemplo:
+
+<img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+
+- **Never Skip the <tittle> Element**
+
+El elemento <tittle> permite que las páginas aparezcan en la lista de resultados al momento de buscar en un navegador web. Asimismo, esta es la que da el nombre de la página si se la añade a favoritos.
+
+Ejemplo:
+
+<title>HTML Style Guide and Coding Conventions</title>
+
+- **HTML Line-Wrapping**
+
+El hecho de que en un documento HTML no haya un límite de palabras por línea, no quiere decir que sea recomendable generar líneas muy extensas de código. Al contrario, esto dificulta la lectura del código. Para pasar a la siguiente línea es necesario utilizar al menos cuatro espacios para diferenciar de elementos hijos.
+
+Ejemplo según Google (s.f.):
+
+><button mat-icon-button color="primary" class="menu-button"(click)= "openMenu()"><mat-icon>menu< /mat-icon>< /button>
+
+
+
+**CSS**
+
+Llamado así por las siglas del nombre en inglés Cascading Style Sheets. CSS es un lenguaje de marcado que se centra en definir y mejorar la presentación de un documento que se basa en HTML. Las pautas que a seguir al momento de usar CSS son las siguientes:
+
+
+
+- **Shorthand Properties**
+
+Hay que utilizar abreviación de propiedades, declarar los campos de los elementos en la menor cantidad de líneas posibles. De acuerdo con Google (s.f.), esto aumenta la eficacia del código y lo hace más entendible. De la misma manera, debemos evitar el colocar las unidades luego del valor cero.
+
+Ejemplo:
+
+border-top: 0;
+
+font: 100%/1.6 palatino, georgia, serif; 
+
+padding: 0 1em 2em;
+
+- **Declaration Stops**
+
+Hay que colocar un punto y coma luego de cada declaración al igual que gran parte de lenguajes de programación. Según Google (s.f.). esta característica ayuda a que haya más consistencia en el código
+
+Ejemplo:
+
+html {
+`  `background: #fff;
+`  `color: #404;
+}
+
+
+
+- **Property Name Stops**
+
+Debe existir un espacio entre los dos puntos que están luego del nombre de una propiedad y el valor ingresado. Siempre solo un espacio luego de los dos puntos, mas no antes.
+
+Ejemplo estándar según Google (s.f.):
+
+html {
+`  `background: #fff;
+`  `color: #404;
+}
+
+- **Declaration Block Separation**
+
+El uso de un separador de un espacio es necesario luego del nombre de un elemento seleccionado y la llave que inicia un bloque. Además, esta llave tiene que estar en la misma línea.
+
+Ejemplo estándar según Google (s.f.):
+
+html {
+`  `background: #fff;
+`  `color: #404;
+}
+
+- **CSS Quotation Marks**
+
+No se deben emplear las comillas dobles (“”), solo están permitidas las simples (‘’) para el uso exclusivo de selectores de atributos y valores de propiedades.
+
+Ejemplo estándar según Google (s.f.):
+
+html {
+`  `font-family: ‘open sans’, arial, sans-serif;
+}
+
+
+
+**JavaScript**
+
+Es un lenguaje de programación que otorga la posibilidad de indicar exactamente las acciones que debe ejecutar el navegador, indicando el orden de las tareas y el número de veces que se realizarán. Las indicaciones para usar JavaScript en nuestro proyecto son las siguientes:
+
+- **Spaces around operators**
+
+Se debe colocar un espacio alrededor de cada operador matemático que se introduzca en el código. Esto también aplica a las comas.
+
+Ejemplo estándar según W3Schools (s.f.):
+
+let x = y + z;
+const myArray = ["Volvo", "Saab", "Fiat"];
+
+- **Simple Statement’s End**
+
+Una indicación simple debe terminar en un punto y coma, esto se cumple también en muchos otros lenguajes de programación.
+
+Ejemplo estándar según W3Schools (s.f.):
+
+let x = y + z;
+const myArray = ["Volvo", "Saab", "Fiat"];
+
+- **Beginning and End of a Function**
+
+Un bloque de función debe contar con una llave al final de la primera línea, para que el cierre de esta se encuentre sola en la última. Una función termina en llave y no en punto y coma. Lo mismo aplica para condicionales o bucles.
+
+Ejemplo estándar según W3Schhol (s.f):
+
+function toCelsius(fahrenheit) {
+`  `return (5 / 9) \* (fahrenheit - 32);
+}
+
+
+
+- **Object Rules**
+
+Para la construcción de un objeto, al igual que en una función, se comienza con una llave al final de la primera línea, pero, esta vez, la llave de cierre debe estar acompañada de un punto y coma. Para las propiedades, se colocan dos puntos y un espacio para indicar su valor, el cual debe estar entre comillas dobles si este es un *string*.
+
+Ejemplo estándar según W3School (s.f.):
+
+const person = {
+`  `firstName: "John",
+`  `lastName: "Doe",
+`  `age: 50,
+`  `eyeColor: "blue"
+};
+
+**Gherkin**
+
+Es un Lenguaje Específico de Dominio (DSL por sus siglas en inglés) que tiene como objetivo la resolución de un problema en específico. Para ello, se generan casos para la validación de la característica en distintos escenarios. Gherkin cuenta con múltiples elementos, de los cuales, los más famosos y, además, más utilizados son *Feature, Scenario, Example, Scenario, Given, When* y *Then.* Las indicaciones para tomar en cuenta en el uso de Gherkin en nuestro código son las siguientes.
+
+- **Discernible Given-When-Then Blocks**
+
+Aplicar sangría para los elementos que indiquen pasos a seguir del escenario. En el caso de *And*, aplicar dos veces. De acuerdo con Keiblinger (2021), Esto ayuda a detectar rápidamente las partes que forman un escenario.
+
+Ejemplo:
+
+`    `Scenario: Ingreso los requisitos con claridad
+
+`        `Given que en el formulario de ingreso de oferta laboral
+
+`        `When escribo claramente los requisitos
+
+`        `Then se mostrará el mensaje 
+
+`        `And mi oferta solo aparecerá a quienes cumplan con estos      
+
+`        `And se habilita la opción
+
+- **Step with Tables**
+
+Según Keiblinger (2021), para las partes del escenario que necesiten la introducción de valores, hay que agregar una tabla o crear un propio formulario que recree esa parte del escenario. Antes de esta representación se deben colocar dos puntos. 
+
+Ejemplo:
+
+`        `Then se mostrará el mensaje:
+
+| mensaje                                          |                        
+
+| Se completaron los requisitos adecuadamente      | 
+
+- **Reducing Noise**
+
+Con el fin de reducir la acumulación de demasiadas líneas de código en un escenario, se deben colocar valores por defecto dentro de los pasos para los campos que no sean muy relevantes para este. Los valores “estándar” que coloquemos, deben ir entre comillas simples. De acuerdo con Keiblinger (2021), esta acción reduce considerablemente el tamaño del código.
+
+Ejemplo:
+
+`        `When escribo claramente los requisitos ‘dominio en C’
+
+- **Scenarios Separator**
+
+Para la separación de dos escenarios, se debe insertar un salto de línea y, según Keiblinger (2021), de ser posible, hay que agregar una línea de comentario para facilitar la visualización de estos. De esta forma se halla rápidamente el inicio y fin de un escenario.
+
+
+
+Ejemplo:
+
+`          `#-----------------------------------------------------------------------------------
+
+`    `Scenario: Ingreso los requisitos con claridad
+
+`        `Given que en el formulario de ingreso de oferta laboral
+
+`        `When escribo claramente los requisitos
+
+`        `Then se mostrará el mensaje 
+
+`        `And mi oferta solo aparecerá a quienes cumplan con estos      
+
+`        `And se habilita la opción
+
+
+
+`          `#-----------------------------------------------------------------------------------
+
+`    `Scenario: Ingreso los requisitos con claridad
+
+`        `Given que en el formulario de ingreso de oferta laboral
+
+`        `When escribo claramente los requisitos
+
+`        `Then se mostrará el mensaje 
+
+`        `And mi oferta solo aparecerá a quienes cumplan con estos      
+
+`        `And se habilita la opción
+
+**TypeScript**
+
+El equipo usara los siguientes estilos para determinadas categorías:
+
+**UpperCamelCase:** clase/interfaz/tipo/enum/decorador/parámetros de tipo
+
+**lowerCamelCase**: variable / parámetro / función / método / propiedad / alias de módulo 
+
+**CONSTANT\_CASE:** valores constantes globales, incluidos los valores de enumeración
+
+\*Nunca se utilizan identificadores privados.
+
+- Variables y Funciones
+
+**Mala Nomenclatura:**
+
+- let RandomName: string = ‘Juan’;
+- function RandomFunction() {}
+
+**Buena Nomenclatura:**
+
+- let randomName: string = ‘Juan’;
+- function randomFunction() {}
+
+- Clases
+
+**Mala Nomenclatura:**
+
+- class view{}
+
+**Buena Nomenclatura:**
+
+- class View{}
+
+Propiedades y métodos de la clase
+
+**Mala Nomenclatura:**
+
+- class test{
+
+Name: string;
+
+GetFullName(){}
+
+}
+
+**Buena Nomenclatura:**
+
+- class test{
+
+name: string;
+
+getFullName(){}
+
+}
+
+- Interfaces 
+
+No emplear el prefijo I para nombrar interfaces
+
+**Mala Nomenclatura:**
+
+- interface IPerson{
+
+Name:string;
+
+}
+
+**Buena Nomenclatura:**
+
+- interface Person{
+
+name:string;
+
+}
+
+- Enums 
+
+No emplear el prefijo I para nombrar interfaces
+
+**Mala Nomenclatura:**
+
+- enum clientType{
+
+person = “p”;
+
+business = “b”;
+
+}
+
+**Buena Nomenclatura:**
+
+- enum ClientType{
+
+Person = “P”;
+
+Age = “A”;
+
+}
+
+- Visibility 
+
+Restringir la visibilidad de propiedades, métodos y tipos ayudaran a mantener el código desacoplado.
+
+**Mala Nomenclatura:**
+
+- enum clientType{
+
+person = “p”;
+
+business = “b”;
+
+}
+
+**Buena Nomenclatura:**
+
+- enum ClientType{
+
+Person = “P”;
+
+Age = “A”;
+
+}
+
+- Getters and Setters
+
+Se pueden utilizar los getters y setters para los miembros de la clase. También son útiles como medio para restringir la visibilidad de los detalles de implementación internos, aplicando la Programación Orientada a Objetos;
+
+**Nomenclatura:**
+
+- Class Foo {
+
+constructor(private readonly someService:SomeService) {}
+
+get someMember():string{
+
+return this.someService.someVariable;
+
+}
+
+set someMember(newValue:string){
+
+`  `this.someService.someVariable = newValue;
+
+}
+
+- Variables
+
+Uso de const o let para declarar variables. Utilice const de forma predeterminada, a menos que sea necesario reasignar una variable.
+
+No usar var para declarar variables. 
+
+**Nomenclatura:**
+
+- const foo = otherValue;  // Use if "foo" never changes.
+- let bar = someValue;     // Use if "bar" is ever assigned into later on.
+
+- Imports                  Nomenclatura 
+
+**Module**:	        import \* as foo from '...';
+
+**Destructuring**:  import {SomeThing} from '...';	
+
+**Default**:	        import SomeThing from '...';	
+
+**Side-effect:**	        import '...';	Only to import libraries for their side-effects on load (such as custom elements)
+
+**Angular**
+
+Angular es un marco de diseño de aplicaciones y una plataforma de desarrollo para crear aplicaciones de una sola página eficientes y sofisticadas. Se usará Angular siguiendo las siguientes características y pautas.
+
+- **Naming Components:**
+
+Se utilizará un formato estándar para el nombre de los componentes dentro del proyecto. Los nombres de los componentes serán separados por dots (puntos) y dashes (-). Y su estructura sería “feature.type.**ts**”.
+
+Un ejemplo estándar sería:
+
+Para el Feature de Information: “Information.component.ts”.
+
+Para la selección de componentes en el código se usará la estructura “dased-case” él tiene como estructura: “feature-case.component”.
+
+
+
+- **Naming Services:**
+
+Se utilizará un formato estándar para el nombre de los servicios. Se agregará el sufijo de “Service” y además cada palabra iniciará con mayúscula, por ejemplo “DataService” o “PaymentService”.
+
+- **Unit Test File Names** 
+
+Se utilizará el mismo formato de Component para la creación de Test Files, con la diferencia que estos tendrán un “.spec” antes del “ts” al final.
+
+Un ejemplo de la estructura sería:
+
+Feature Information Unit Test: “Information.component.spec.ts”.
+
+**Java**
+
+Angular es un lenguaje de promagración ampliamente utilizado para programación web. Se utilizará Java junto a:
+
+- **Function Declaratons**
+
+Se seguirán las siguientes características para declarar una function:
+
+- Siempre especifique la visibilidad del método (público, protegido o privado).
+- En caso de múltiples operadores, especifique el orden usando corchetes.
+- Evite escribir “this.” cuando sea posible. 
+
+Un ejemplo correcto de la declaración de una función sería:
+
+public void setGroupNames (Group group, String name)
+
+- **Wrapping Lines**
+
+Cuando una expresión no alcance en una sola línea de código se seguirán las siguientes características:
+
+- Salto después de una coma.
+- Romper antes de un operador.
+- Alinee la nueva línea con el comienzo de la expresión al mismo nivel en la línea anterior.
+- Si las reglas anteriores conducen a un código confuso o a un código que se aprieta contra el margen derecho, solo agregar una sangría de 8 espacios en su lugar.
+- **Loop Counters**
+
+Las variables locales en Loop siempre deberán llamarse **i, j, k, l** en todos los casos.
+**
+
+
+### 5.1.4. Software Deployment Configuration.
+Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: https://meditech-open-source-wx52-grupo-3.github.io/LandingPage-Medicare/public/ 
+
+Para el desarrollo del Landing Page de Medicare se han utilizado las siguientes herramientas: 
+
+- Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
+
+Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual. 
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.005.png)
+
+- Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale. 
+
+Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html. 
+
+![ref1]
+
+
+
+- JS: Nos ayudó a desarrollar la lógica necesaria para el Landing Page
+
+Evidencia: Se muestra el documento main.js.
+
+![ref2]
+
+El despliegue del Landing Page de Medicare no pudo ser posible sin utilizar las siguientes tecnologías:
+
+- Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page. 
+
+![Logo Git PNG transparente - StickPNG]
+
+- GitHub: Plataforma de desarrollo colaborativo.
+
+![Logotipo de github - Iconos gratis de redes sociales]
+
+- Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.
+
+- Git Hub Pages: Servicio de Github que nos permitió alojar nuestra Landing page.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.010.jpeg)
+
+Asimismo, se han realizado los siguientes pasos: 
+
+- **Dirigirse al repositorio de la página**
+
+Dado que se ha empleado Github, debemos ir al repositorio creado en este sitio web para publicar el Landing Page que ha desarrollado el equipo. Desde aquí, se podrá iniciar la configuración del vínculo de la página dirigiéndonos al apartado de Settings.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.011.png)
+
+- **Ir a la opción de páginas**
+
+Una vez presentes la configuración del repositorio, debemos dirigirnos a la sección de Pages. Esto se debe a que ahí se encuentran todas las opciones de configuración de publicación de la página en un link o vínculo.
+
+![ref3]
+
+- **Elección de rama y carpeta de guardado**
+
+Dentro de pages, se debe seleccionar la rama o branch que se va a publicar en el vínculo. De la misma manera, se tiene que elegir la carpeta donde se localizará esta publicación a realizar. Finalmente podremos acceder a nuestra página con el link que aparece en la parte superior de este apartado de configuración, solo se tiene que añadir lo siguiente: public/
+
+![ref4]
+
+Siguiendo este proceso, obtuvimos el siguiente enlace: <https://meditech-open-source-wx52-grupo-3.github.io/LandingPage-Medicare/public/> 
+
+
+
+**Evidencia de Deployment**
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.014.png)Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x. 
+
+Se muestran las acciones realizadas en el github para el lanzamiento del Landing Page.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.015.png)
+
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning
+
+|Sprint |Sprint 1|
+| :- | :- |
+|Sprint Planning Background||
+|Date|2023-09-09|
+|Time|04:00 PM|
+|Location|Servidor de Discord del Equipo|
+|Prepared By|Clara Angie Valverde Salazar|
+|Attendees (to planning meeting|Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar|
+| Sprint n Review Summary|En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.|
+|Sprint n Retrospective Summary|En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.|
+|Sprint Goal & User Stories||
+|Sprint 1 Goal|La meta de este Sprint es la planificacion de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa.|
+| Sprint 1 Velocity| 7 Velocity|
+| Sum of Story Points| 7 Story points|
+
+#### 5.2.1.2. Sprint Backlog 1
+
+En esta primera iteración, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.016.png)
+
+[ref1]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.006.png
+[ref2]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.007.png
+[Logo Git PNG transparente - StickPNG]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.008.png
+[Logotipo de github - Iconos gratis de redes sociales]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.009.png
+[ref3]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.012.png
+[ref4]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.013.png
 
