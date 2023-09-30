@@ -3672,6 +3672,43 @@ En esta primera iteración, tuvimos como objetivo implementar el diseño de nues
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.016.png)
 
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+En esta sección, se presentará la evidencia del progreso y desarrollo del software. Se incluirán detalles sobre las características específicas que se han implementado durante el sprint actual, destacando cualquier avance significativo en la plataforma.
+
+![](assets/Equipo.PNG)
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+
+Aquí se proporcionará información sobre las pruebas realizadas durante el sprint. Se detallarán las pruebas funcionales, de rendimiento y de seguridad que se han llevado a cabo para garantizar la calidad del software. Se incluirán los resultados de estas pruebas y cualquier corrección o mejora realizada en función de los hallazgos.
+
+![](assets/documentacion_git.PNG)
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Esta sección se centrará en la ejecución de la aplicación durante el sprint. Se describirá cómo los usuarios han interactuado con la plataforma, incluyendo su experiencia de usuario y cualquier problema o retroalimentación que hayan proporcionado. Además, se destacarán las mejoras en la usabilidad y la interfaz de usuario.
+
+![](assets/commits_documentacion.PNG)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Aquí se presentará la documentación relacionada con los servicios de atención médica ofrecidos a través de la plataforma. Esto puede incluir perfiles de profesionales de salud, detalles sobre las tarifas de consulta y paquetes disponibles, así como información sobre las referencias de pacientes anteriores.
+
+![](assets/vista_documentacion.PNG)
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En esta sección, se describirá el proceso de implementación del software en un entorno de producción o pruebas. Se destacarán los hitos clave alcanzados en términos de despliegue y disponibilidad de la plataforma para los usuarios finales.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.016.png)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprin
+
+Se proporcionarán detalles sobre la colaboración y la comunicación dentro del equipo de desarrollo durante el sprint. Esto incluirá la coordinación de esfuerzos entre los miembros del equipo, la resolución de problemas y la gestión de tareas. También se destacarán las lecciones aprendidas y las oportunidades de mejora en la colaboración.
+
+![](assets/reunion_documentacion.jpg)
+
 [ref1]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.006.png
 [ref2]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.007.png
 [Logo Git PNG transparente - StickPNG]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.008.png
@@ -3679,3 +3716,35 @@ En esta primera iteración, tuvimos como objetivo implementar el diseño de nues
 [ref3]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.012.png
 [ref4]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.013.png
 
+### 5.2.2.	Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+|Sprint |Sprint 2|
+| :- | :- |
+|Sprint Planning Background||
+|Date|2023-09-25|
+|Time|04:00 PM|
+|Location|Servidor de Discord del Equipo|
+|Prepared By|Clara Angie Valverde Salazar|
+|Attendees (to planning meeting|Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar|
+| Sprint n Review Summary|Observacion en el formato de la documentacion para el proyecto.|
+|Sprint n Retrospective Summary|Se corrigió los errores del anterior del anterior sprint.|
+|Sprint Goal & User Stories||
+|Sprint 1 Goal|La meta de este Sprint es el despliegue de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. Además, se realizó los wireframes y mockups para la aplicación web del proyecto |
+| Sprint 2 Velocity| 11 Velocity|
+| Sum of Story Points| 20 Story points|
+
+#### 5.2.2.2. Sprint Backlog 2
+
+
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+
+
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
