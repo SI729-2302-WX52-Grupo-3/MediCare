@@ -3737,14 +3737,36 @@ Se proporcionarán detalles sobre la colaboración y la comunicación dentro del
 
 #### 5.2.2.2. Sprint Backlog 2
 
+En esta segunda entrega, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm y la elaboracion de wireframes y mockups del software. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
 
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.016.png)
 
 ##### 5.2.2.3. Development Evidence for Sprint Review
 
+En esta sección, se presentará la evidencia del progreso y desarrollo del software. Se incluirán detalles sobre las características específicas que se han implementado durante el sprint actual, destacando cualquier avance significativo en la plataforma.
 
+Aquí podemos observar el despliegue de nuestra landing page en la version escritorio.
+![](assets/landingpage_sprint2.PNG)
+
+
+Aquí podemos observar el despliegue de nuestra landing page en la version móvil.
+![](assets/landingpage_mobile_sprint2.PNG)
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
+Se realizó las pruebas funcionales sobre la aplicación web del proyecto.
+
+Se realizó la validación de ingreso de caracteres válidos sobre el campo nombre para la aplicación web.
+![](assets/validacion_sprint2.PNG)
+
+Se realizó la validación de ingreso de caracteres válidos sobre el campo correo para la aplicación web.
+![](assets/validacion2_sprint2.PNG)
+
+Se realizó la validación de ingreso de caracteres válidos sobre el campo contraseña para la aplicación web.
+![](assets/validacion3_sprint2.PNG)
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
+
+A continuación, observamos una evidencia del perfil de un doctor para la actualización de datos del usuario.
+![](assets/profile_doctor_sprint2.PNG)
