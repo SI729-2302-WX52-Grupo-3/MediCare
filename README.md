@@ -199,6 +199,7 @@ Nuestra misión actual es encontrar la forma más viable e innovadora de ayudar 
     <td colspan="2" rowspan="5">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="2" rowspan="5">MediCare
 <br>
+<img src="assets/logo.png" width="100" height="70" >
 </td>
     <td rowspan="5">MedicApp
 <br>
@@ -1759,7 +1760,7 @@ El nombre del software identificado es DocSeeker. Originalmente surgió a partir
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
-![Imagen de Branding](/assets/branding.png)
+![Imagen de Branding](/assets/logo.png)
 
 **Typography**
 
@@ -2421,13 +2422,13 @@ Link: https://lucid.app/lucidspark/587ceaf6-87a8-4ada-9d27-11b6501079c9/edit?vie
 
 ![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%201.png)
 
-Link: https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-id=0%3A1&t=06XmpO8E5TvHVIro-1
+Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=design&node-id=0%3A1&mode=design&t=7vGrKimkJOv1wYyG-1
 
 **Segmento Objetivo profesionales de la salud**
  
 ![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%202.png)![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%203.png)
  
-Link: https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-id=1%3A7467&t=06XmpO8E5TvHVIro-1
+Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=design&node-id=0%3A1&mode=design&t=7vGrKimkJOv1wYyG-1
  
 
 **Mobile**
