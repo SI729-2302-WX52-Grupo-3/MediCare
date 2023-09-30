@@ -1,185 +1,197 @@
+# INTRODUCTION
 
+## 1.1. Startup Profile
 
-# INTRODUCTION 
-## 1.1.	Startup Profile
- A continuación, procederemos a informar sobre a lo que se dedica nuestra empresa “MEDICARE”.
+A continuación, procederemos a informar sobre a lo que se dedica nuestra empresa “MEDICARE”.
 
-### 1.1.1.	 Descripción de la Startup
-En la actualidad existe un número exorbitante de personas que necesitan ayuda para poder mantener o mejorar su calidad de vida. Específicamente en Lima, Perú. Se ha identificado que realizar un buen cuidado de personas discapacitadas, vulnerables o con una enfermedad grave, es una labor demasiado difícil. Asimismo, los familiares de estos individuos son directamente afectados por las condiciones en las que se encuentran, pues su cuidado requiere demasiado tiempo y, del mismo modo, un gran esfuerzo físico. Además, después de la aparición del COVID-19 en el país, las personas se han acostumbrado a tener una solución a sus problemas de forma remota sin tener que salir de casa. 
+### 1.1.1. Descripción de la Startup
+
+En la actualidad existe un número exorbitante de personas que necesitan ayuda para poder mantener o mejorar su calidad de vida. Específicamente en Lima, Perú. Se ha identificado que realizar un buen cuidado de personas discapacitadas, vulnerables o con una enfermedad grave, es una labor demasiado difícil. Asimismo, los familiares de estos individuos son directamente afectados por las condiciones en las que se encuentran, pues su cuidado requiere demasiado tiempo y, del mismo modo, un gran esfuerzo físico. Además, después de la aparición del COVID-19 en el país, las personas se han acostumbrado a tener una solución a sus problemas de forma remota sin tener que salir de casa.
 Por esta razón, hemos decidido crear un startup llamado “MEDICARE”. Somos una empresa emergente con grandes posibilidades de crecimiento. A una primera instancia, no contamos con una gran cantidad de clientes, pero con el transcurso del tiempo estamos enfocados en crecer en el mercado aplicando el potencial de las tecnologías.
 Nuestra misión actual es encontrar la forma más viable e innovadora de ayudar a las personas que tienen familiares que padecen de enfermedades graves o limitaciones físicas o de otra índole, apoyándolos en su cuidado diario y facilitando esta tarea. Donde crearemos un software que ofrezca la ayuda de distintos enfermeros o doctores confiables para que realicen una visita médica a la casa del cliente. Al mismo tiempo, nuestra visión es convertirnos en un startup líder en el desarrollo de soluciones con la ventaja competitiva de emplear la tecnología para que ayuden a resolver distintas problemáticas médicas en el Perú.
 
-## 1.2.	Solution Profile
- En este punto del informe, pasaremos a la explicación detallada de nuestro producto software, tanto su factor innovador y la forma en la cual será monetizada.
+## 1.2. Solution Profile
+
+En este punto del informe, pasaremos a la explicación detallada de nuestro producto software, tanto su factor innovador y la forma en la cual será monetizada.
 
 **Product Name**
- Se decidió llamar a nuestro producto “MEDICARE”, ya que, en el lenguaje inglés, ‘Medi’ es una abreviación de médico y ‘Care’, cuidado; por lo que el nombre completo se traduce como “Atención Medica”. Del mismo modo, se eligió este idioma porque, además de generar más atractivo hacia el público, es el idioma más hablado del mundo, lo cual vuelve más comercial a nuestra aplicación.
+Se decidió llamar a nuestro producto “MEDICARE”, ya que, en el lenguaje inglés, ‘Medi’ es una abreviación de médico y ‘Care’, cuidado; por lo que el nombre completo se traduce como “Atención Medica”. Del mismo modo, se eligió este idioma porque, además de generar más atractivo hacia el público, es el idioma más hablado del mundo, lo cual vuelve más comercial a nuestra aplicación.
 
 **Product Description**
- Este software es innovador ya que ofreceremos la posibilidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole. En esta aplicación, los contratantes podrán visualizar una larga lista de personal de salud altamente calificado. Asimismo, se presentarán las referencias de pacientes o contratantes anteriores junto con la tarifa estándar de consulta y diferentes paquetes que se adecuen al área médica correspondiente a cada profesional. Con el registro del usuario y la elección del médico o enfermero se podrá dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante. 
+Este software es innovador ya que ofreceremos la posibilidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole. En esta aplicación, los contratantes podrán visualizar una larga lista de personal de salud altamente calificado. Asimismo, se presentarán las referencias de pacientes o contratantes anteriores junto con la tarifa estándar de consulta y diferentes paquetes que se adecuen al área médica correspondiente a cada profesional. Con el registro del usuario y la elección del médico o enfermero se podrá dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante.
 
 **Monetization**
- Nuestro servicio podrá ser adquirido de manera gratuita. Sin embargo, los profesionales de la salud registrados tendrán una retención entre el 5% y 10% de sus ingresos mensuales por conceptos de captación de pacientes a través de nuestra plataforma. 
-### 1.2.1.	Antecedentes y problemática del producto 
+Nuestro servicio podrá ser adquirido de manera gratuita. Sin embargo, los profesionales de la salud registrados tendrán una retención entre el 5% y 10% de sus ingresos mensuales por conceptos de captación de pacientes a través de nuestra plataforma.
+
+### 1.2.1. Antecedentes y problemática del producto
+
 **Descripción de la problemática**
- Este software se enfoca en el sector de salud, ya que se ha evidenciado que hay leve incremento en pacientes insatisfechos con las citas brindadas por las clínicas.  Es por esta razón que “MediCare” busca cubrir las necesidades de la comunicación, seguridad y eficacia a la mayor cantidad de personas posibles en su domicilio.
+Este software se enfoca en el sector de salud, ya que se ha evidenciado que hay leve incremento en pacientes insatisfechos con las citas brindadas por las clínicas. Es por esta razón que “MediCare” busca cubrir las necesidades de la comunicación, seguridad y eficacia a la mayor cantidad de personas posibles en su domicilio.
 
 **Objetivos**
- Este software tiene el principal objetivo de cubrir las necesidades básicas de atención médica a domicilio de las personas con limitaciones físicas o mentales que no puedan acudir a un centro médico. Por otro lado, lograr ser una empresa reconocida y contar con un producto sostenible económicamente es un objetivo general de MediCare. 
+Este software tiene el principal objetivo de cubrir las necesidades básicas de atención médica a domicilio de las personas con limitaciones físicas o mentales que no puedan acudir a un centro médico. Por otro lado, lograr ser una empresa reconocida y contar con un producto sostenible económicamente es un objetivo general de MediCare.
 
 **Restricciones**
- Una principal restricción que delimita el alcance del proyecto es que el equipo desarrollador es nuevo en estas tendencias o técnicas a aplicar para lanzar nuestra aplicación. Por ello, es que puede ser una restricción de alcanzar el mejor escenario. Sin embargo, el equipo pondrá de su parte para lograr alcanzar el nivel deseable de cada entregable. 
+Una principal restricción que delimita el alcance del proyecto es que el equipo desarrollador es nuevo en estas tendencias o técnicas a aplicar para lanzar nuestra aplicación. Por ello, es que puede ser una restricción de alcanzar el mejor escenario. Sin embargo, el equipo pondrá de su parte para lograr alcanzar el nivel deseable de cada entregable.
 
 **Antecedentes**
- Como se mencionó anteriormente, nuestro producto software “MediCare.” tiene la capacidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole y además dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante. Es por ello por lo que, teniendo en cuenta el funcionamiento de nuestro producto, realizamos la búsqueda de posibles competidores, obteniendo como resultado dos productos software:
-*	MedicApp:
-    *	 Es una aplicación en la cual una persona puede agendar por medio de llamada o WhatsApp, una cita a domicilio de Médico o Enfermero. Cuenta con un horario limitado de lunes a sábados de 8 am a 8 pm. Asimismo, ofrece tele consultas y pruebas de descarte de la COVID-19. Cuenta con una alianza con una institución dedicada al transporte de pacientes con situaciones graves, ambulancias.Sin embargo, la principal diferencia que separa a MediCare.  de MedicApp es que, en nuestra aplicación, es posible contactar con un doctor específico que le brinde confianza al usuario. Por otro lado, en la aplicación MedicApp, los doctores son brindados según la disponibilidad que tiene la aplicación y el usuario no interactúa de manera constante en el proceso de selección. Asimismo, no mantienen, en la aplicación, un registro virtual de todas las citas que ha tenido el paciente ni de las recomendaciones brindadas. 
-*	MediQuo:
-    *  Es una aplicación donde se puede realizar consultas, gestionar citas mediante el chat que está disponible en su web, además que tiene seguimiento registrado en la aplicación móvil. Sin embargo, una de las diferencias que existe entre MediCare  y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en MediCare se tiene contacto directo. Además, al contrario que la aplicación MediQuo, MediCare puede generar un historial médico virtual que varía dependiendo de cada contratante.
+Como se mencionó anteriormente, nuestro producto software “MediCare.” tiene la capacidad de contratar profesionales de salud que se encarguen de cuidar a personas con limitaciones físicas o de otra índole y además dar seguimiento continuo al beneficiario, el cual será similar a un historial médico virtual que se adecue a la frecuencia de visita elegida por el contratante. Es por ello por lo que, teniendo en cuenta el funcionamiento de nuestro producto, realizamos la búsqueda de posibles competidores, obteniendo como resultado dos productos software:
+
+- MedicApp:
+  - Es una aplicación en la cual una persona puede agendar por medio de llamada o WhatsApp, una cita a domicilio de Médico o Enfermero. Cuenta con un horario limitado de lunes a sábados de 8 am a 8 pm. Asimismo, ofrece tele consultas y pruebas de descarte de la COVID-19. Cuenta con una alianza con una institución dedicada al transporte de pacientes con situaciones graves, ambulancias.Sin embargo, la principal diferencia que separa a MediCare. de MedicApp es que, en nuestra aplicación, es posible contactar con un doctor específico que le brinde confianza al usuario. Por otro lado, en la aplicación MedicApp, los doctores son brindados según la disponibilidad que tiene la aplicación y el usuario no interactúa de manera constante en el proceso de selección. Asimismo, no mantienen, en la aplicación, un registro virtual de todas las citas que ha tenido el paciente ni de las recomendaciones brindadas.
+- MediQuo:
+  - Es una aplicación donde se puede realizar consultas, gestionar citas mediante el chat que está disponible en su web, además que tiene seguimiento registrado en la aplicación móvil. Sin embargo, una de las diferencias que existe entre MediCare y MediQuo es que, mientras en MediQuo solo se hacen consultas digitales, en MediCare se tiene contacto directo. Además, al contrario que la aplicación MediQuo, MediCare puede generar un historial médico virtual que varía dependiendo de cada contratante.
 
 **Herramienta 5W y 2H**
-* What - ¿Cuál es el problema?
-    *  El problema identificado es la cantidad exorbitante de personas de edad avanzada y/o que sufren de limitaciones físicas o de otra índole. Es decir, que no pueden mantener un cuidado autónomo y requieren de la asistencia de otro individuo para mantener una salud estable.
-* When - ¿Cuándo sucede el problema?
-    *  Cuando es necesaria la supervisión o tratamiento de un médico para individuos con capacidades limitadas, o simplemente cuando se requiere de personas extras para el cuidado de los pacientes y los familiares que carecen de tiempo o son incapaces de atenderlos sin ayuda.
 
-* Where - ¿Dónde surge el problema?
-    *  El problema surge en los distintos hogares de la capital, pues día a día las personas deben salir a ejercer sus obligaciones laborales y no cuentan con el tiempo suficiente y la ayuda necesaria para mantener la calidad de vida y cuidado de sus familiares con limitaciones físicas o mentales.
-* Who - ¿Quiénes son afectados por el problema?
-    *  Los principales afectados son las personas de la tercera edad y aquellas que presentan enfermedades que precisan de atención inmediata.
-* Why - ¿Cuál es la causa del problema?
-    *  La causa del problema es principalmente la falta de tiempo por parte de los familiares de personas de edad avanzada y/o con discapacidades físicas o de otra índole para cuidarlos y mantenerlos con un estado de salud estable.
-* How - ¿Cómo se llevan a cabo los hechos?
-    *  Cuando una familia cuenta con un integrante que requiere de supervisión constante, los demás miembros tienen que brindar gran parte de su tiempo para su cuidado. Además, el encontrar personas de confianza y que estén capacitadas para la atención del individuo es complicado, lo cual solo genera que la situación sea más difícil, y esto empeora si el paciente requiere de uso de medicina. Por eso, es necesaria una forma fácil y sencilla de contactar con la ayuda necesaria para la atención de los familiares vulnerables.
-* How much - ¿Cuál es la magnitud del problema?
-    *  Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros.
+- What - ¿Cuál es el problema?
+  - El problema identificado es la cantidad exorbitante de personas de edad avanzada y/o que sufren de limitaciones físicas o de otra índole. Es decir, que no pueden mantener un cuidado autónomo y requieren de la asistencia de otro individuo para mantener una salud estable.
+- When - ¿Cuándo sucede el problema?
 
-### 1.2.2.	Lean UX Process 
-#### 1.2.2.1.	Lean UX Problem Statement
-**Problem Statement** 
+  - Cuando es necesaria la supervisión o tratamiento de un médico para individuos con capacidades limitadas, o simplemente cuando se requiere de personas extras para el cuidado de los pacientes y los familiares que carecen de tiempo o son incapaces de atenderlos sin ayuda.
 
- Con respecto a la atención médica en centros médicos públicos y privados, se evidencia el incremento de insatisfacción por el servicio brindado para los pacientes, ya sea por la mala atención, complicaciones para generar citas, incomodidad en las instalaciones y/o complicaciones de movilidad para desplazar al paciente a estos centros médicos.
- Hemos identificado una problemática en este proceso, los pacientes y sus familiares optan por no acudir a los centros de salud, pues el tiempo y el esfuerzo que les genera es mayor al tiempo que dura su consulta. En consecuencia, los profesionales de la salud se vieron obligados a recurrir a las teles consultas para registrar la condición del paciente. Sin embargo, no todos emplean este medio de atención porque no se ofrece un chequeo inmersivo. De esta manera, el número de pacientes ha disminuido y personas mayores con alguna discapacidad prefieren mantener el cuidado en casa con el apoyo de algún familiar.
- ¿Cómo podemos hacer que los pacientes reciban una atención íntegra, eficaz y beneficiosa para su salud en un ambiente en el que se sienta cómodo, como su domicilio sin la necesidad de realizar un gran traslado que tome demasiado tiempo y así los médicos tengan una mayor cantidad de pacientes y no vean perjudicados sus ingresos económicos?
+- Where - ¿Dónde surge el problema?
+  - El problema surge en los distintos hogares de la capital, pues día a día las personas deben salir a ejercer sus obligaciones laborales y no cuentan con el tiempo suficiente y la ayuda necesaria para mantener la calidad de vida y cuidado de sus familiares con limitaciones físicas o mentales.
+- Who - ¿Quiénes son afectados por el problema?
+  - Los principales afectados son las personas de la tercera edad y aquellas que presentan enfermedades que precisan de atención inmediata.
+- Why - ¿Cuál es la causa del problema?
+  - La causa del problema es principalmente la falta de tiempo por parte de los familiares de personas de edad avanzada y/o con discapacidades físicas o de otra índole para cuidarlos y mantenerlos con un estado de salud estable.
+- How - ¿Cómo se llevan a cabo los hechos?
+  - Cuando una familia cuenta con un integrante que requiere de supervisión constante, los demás miembros tienen que brindar gran parte de su tiempo para su cuidado. Además, el encontrar personas de confianza y que estén capacitadas para la atención del individuo es complicado, lo cual solo genera que la situación sea más difícil, y esto empeora si el paciente requiere de uso de medicina. Por eso, es necesaria una forma fácil y sencilla de contactar con la ayuda necesaria para la atención de los familiares vulnerables.
+- How much - ¿Cuál es la magnitud del problema?
+  - Según el INEI (2018), se recopiló a nivel de Lima metropolitana que el 84,9% de los adultos mayores femeninas y 67,3% de los adultos mayores masculinos presentan enfermedades crónicas como artritis, hipertensión, diabetes, etc. De esta manera, se identifica que existe un gran porcentaje de adultos mayores con necesidad de un cuidado médico. Cabe resaltar que en el presente informe del INEI (2018), se menciona que esta población mayor de 60 años con limitaciones o discapacidades físicas o mentales, no asistieron a un establecimiento para atenderse (72,7%) y un poco más de la cuarta parte (25,6%) no acudió a un establecimiento de salud porque le queda lejos, no le genera confianza o se demoran en la atención. Así, se identifica que hay una necesidad de atención médica a domicilio, pues es el lugar donde estas personas se sienten más cómodos y seguros.
 
-#### 1.2.2.2.	Lean UX Assumptions
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statement
+
+**Problem Statement**
+
+Con respecto a la atención médica en centros médicos públicos y privados, se evidencia el incremento de insatisfacción por el servicio brindado para los pacientes, ya sea por la mala atención, complicaciones para generar citas, incomodidad en las instalaciones y/o complicaciones de movilidad para desplazar al paciente a estos centros médicos.
+Hemos identificado una problemática en este proceso, los pacientes y sus familiares optan por no acudir a los centros de salud, pues el tiempo y el esfuerzo que les genera es mayor al tiempo que dura su consulta. En consecuencia, los profesionales de la salud se vieron obligados a recurrir a las teles consultas para registrar la condición del paciente. Sin embargo, no todos emplean este medio de atención porque no se ofrece un chequeo inmersivo. De esta manera, el número de pacientes ha disminuido y personas mayores con alguna discapacidad prefieren mantener el cuidado en casa con el apoyo de algún familiar.
+¿Cómo podemos hacer que los pacientes reciban una atención íntegra, eficaz y beneficiosa para su salud en un ambiente en el que se sienta cómodo, como su domicilio sin la necesidad de realizar un gran traslado que tome demasiado tiempo y así los médicos tengan una mayor cantidad de pacientes y no vean perjudicados sus ingresos económicos?
+
+#### 1.2.2.2. Lean UX Assumptions
 
 **Business Outcomes**
-*  Generar una plataforma intuitiva, eficaz y óptima que genere ingresos a partir de la contratación de profesionales de la salud dispuestos a brindar sus servicios al domicilio de nuestros usuarios con limitaciones físicas o mentales.
-*  Establecer nuestra posición en el mercado, a través de resultados efectivos de los pacientes que generará confianza en el público objetivo, calidad del servicio de los profesionales de salud y un sistema web sólido como práctico.
-*  Producir una rentabilidad económica al servicio de los profesionales de salud, con precios económicos y variables dependiendo de la necesidad del usuario, en el servicio de consultas vía sitio web o por un profesional, y la publicidad de nuestra plataforma con el fin de generar mayores ingresos que costos.
-*  Sentar una tasa de retención por determinado periodo, para verificar si nuestros usuarios siguen utilizando nuestro servicio, con campañas de marketing, servicio que cumple sus necesidades con funciones de la plataforma, y si no se cumple, identificar cuáles serían las razones del abandono del servicio.
 
-**Users** 
-*  Público adulto mayor o personas con discapacidades físicas o mentales y sus familiares.
-*  Profesionales de la Salud.
+- Generar una plataforma intuitiva, eficaz y óptima que genere ingresos a partir de la contratación de profesionales de la salud dispuestos a brindar sus servicios al domicilio de nuestros usuarios con limitaciones físicas o mentales.
+- Establecer nuestra posición en el mercado, a través de resultados efectivos de los pacientes que generará confianza en el público objetivo, calidad del servicio de los profesionales de salud y un sistema web sólido como práctico.
+- Producir una rentabilidad económica al servicio de los profesionales de salud, con precios económicos y variables dependiendo de la necesidad del usuario, en el servicio de consultas vía sitio web o por un profesional, y la publicidad de nuestra plataforma con el fin de generar mayores ingresos que costos.
+- Sentar una tasa de retención por determinado periodo, para verificar si nuestros usuarios siguen utilizando nuestro servicio, con campañas de marketing, servicio que cumple sus necesidades con funciones de la plataforma, y si no se cumple, identificar cuáles serían las razones del abandono del servicio.
 
-**User Outcomes** 
-*  Identificar el proceso de mejora de la limitación física o mental del familiar, e implementarlo a través de la atención adecuada por un profesional de la salud.
-*  Generar confianza por el desarrollo constante de la salud del paciente, para que el familiar pueda tener seguridad en dejar cargo al profesional y concentrarse en sus demás actividades.
-*  Solventar las dudas del familiar acerca de cómo se puede dar una mejora de la salud del paciente a través de las consultas médicas que dispone la plataforma.
-*  Producir una mejora de la condición económica del profesional a través de propuestas de establecer su sector de pacientes con el tipo de especialidad que tenga, con paga en acuerdo mutuo, y una propuesta de proyección del trabajo en la que esté incluido(a).
+**Users**
+
+- Público adulto mayor o personas con discapacidades físicas o mentales y sus familiares.
+- Profesionales de la Salud.
+
+**User Outcomes**
+
+- Identificar el proceso de mejora de la limitación física o mental del familiar, e implementarlo a través de la atención adecuada por un profesional de la salud.
+- Generar confianza por el desarrollo constante de la salud del paciente, para que el familiar pueda tener seguridad en dejar cargo al profesional y concentrarse en sus demás actividades.
+- Solventar las dudas del familiar acerca de cómo se puede dar una mejora de la salud del paciente a través de las consultas médicas que dispone la plataforma.
+- Producir una mejora de la condición económica del profesional a través de propuestas de establecer su sector de pacientes con el tipo de especialidad que tenga, con paga en acuerdo mutuo, y una propuesta de proyección del trabajo en la que esté incluido(a).
 
 **Features**
-*  Información del paciente y registro de su condición actual para que el profesional de la salud pueda identificar el mejor tratamiento.
-*  Sección para visualizar a los profesionales de la salud con sus reseñas y sus precios definidos por los conceptos de atención a domicilio.
-*  Plan de atención por parte del médico.
 
+- Información del paciente y registro de su condición actual para que el profesional de la salud pueda identificar el mejor tratamiento.
+- Sección para visualizar a los profesionales de la salud con sus reseñas y sus precios definidos por los conceptos de atención a domicilio.
+- Plan de atención por parte del médico.
 
- **1. Creo que mis usuarios necesitan**, empezando por los pacientes, recibir rápidamente una atención médica a su domicilio y tener la información de sus resultados al alcance de sus manos. Por otro lado, los profesionales de la salud necesitan realizar una revisión médica más íntegra e inmersiva para los pacientes que son atendidos desde su domicilio.
+**1. Creo que mis usuarios necesitan**, empezando por los pacientes, recibir rápidamente una atención médica a su domicilio y tener la información de sus resultados al alcance de sus manos. Por otro lado, los profesionales de la salud necesitan realizar una revisión médica más íntegra e inmersiva para los pacientes que son atendidos desde su domicilio.
 
- **2. Estas necesidades se pueden resolver con** una plataforma que permita contactar a un profesional de la salud para que realice los análisis necesarios y publique los resultados en nuestra plataforma de manera rápida y eficaz. Por otro lado, que le permita al profesional a cargo acceder a la información del historial clínico, actualizado por un profesional anterior, del paciente.
+**2. Estas necesidades se pueden resolver con** una plataforma que permita contactar a un profesional de la salud para que realice los análisis necesarios y publique los resultados en nuestra plataforma de manera rápida y eficaz. Por otro lado, que le permita al profesional a cargo acceder a la información del historial clínico, actualizado por un profesional anterior, del paciente.
 
- **3. Mis clientes iniciales son (o serán)** los pacientes que desean o necesitan ser atendidos por un profesional de la salud y presentan alguna dificultad de movimiento y, los profesionales de la salud que trabajan en el servicio a domicilio.
+**3. Mis clientes iniciales son (o serán)** los pacientes que desean o necesitan ser atendidos por un profesional de la salud y presentan alguna dificultad de movimiento y, los profesionales de la salud que trabajan en el servicio a domicilio.
 
- **4. El valor #1 que un cliente quiere de mi** servicio es, empezando por los pacientes, recibir atención médica de un profesional de la salud a su domicilio de manera cómoda, rápida y personalizada. Por otro lado, los profesionales de la salud desean mejorar la calidad de atención/servicio que se le puede ofrecer a un paciente que no cuenta con la facilidad de transportarse a un centro de salud.
+**4. El valor #1 que un cliente quiere de mi** servicio es, empezando por los pacientes, recibir atención médica de un profesional de la salud a su domicilio de manera cómoda, rápida y personalizada. Por otro lado, los profesionales de la salud desean mejorar la calidad de atención/servicio que se le puede ofrecer a un paciente que no cuenta con la facilidad de transportarse a un centro de salud.
 
- **5. El usuario también puede obtener beneficios adicionales**, empezando por los pacientes, como la visualización del avance en su tratamiento, los resultados de sus análisis y las recomendaciones del profesional de salud. Asimismo, los profesionales de la salud podrán colocar su propia tarifa de pago, generar su horario médico virtual y que su servicio pueda ser calificado y recomendado por los usuarios. 
+**5. El usuario también puede obtener beneficios adicionales**, empezando por los pacientes, como la visualización del avance en su tratamiento, los resultados de sus análisis y las recomendaciones del profesional de salud. Asimismo, los profesionales de la salud podrán colocar su propia tarifa de pago, generar su horario médico virtual y que su servicio pueda ser calificado y recomendado por los usuarios.
 
- **6. Voy a adquirir la mayoría** de mis clientes a través de marketing en los medios de comunicación más frecuentados como Facebook, Instagram o entre otros; con la publicación de casos de éxito con los pacientes que utilizan nuestra plataforma. Asimismo, demostrando las funcionalidades médicas y de apoyo para el profesional de la salud.
+**6. Voy a adquirir la mayoría** de mis clientes a través de marketing en los medios de comunicación más frecuentados como Facebook, Instagram o entre otros; con la publicación de casos de éxito con los pacientes que utilizan nuestra plataforma. Asimismo, demostrando las funcionalidades médicas y de apoyo para el profesional de la salud.
 
- **7. Vamos a subvencionar el app a través de** la retención del 5% - 10% de los ingresos mensuales de los profesionales de la salud inscritos en nuestra plataforma por conceptos de captación de pacientes y publicidad de nuestros auspiciadores.
+**7. Vamos a subvencionar el app a través de** la retención del 5% - 10% de los ingresos mensuales de los profesionales de la salud inscritos en nuestra plataforma por conceptos de captación de pacientes y publicidad de nuestros auspiciadores.
 
- **8. Mi competencia principal en el mercado serán** las aplicaciones que brindan funciones similares al público objetivo o programas propios de un centro de salud. 
+**8. Mi competencia principal en el mercado serán** las aplicaciones que brindan funciones similares al público objetivo o programas propios de un centro de salud.
 
- **9. Los venceremos debido a** la diferenciación de nuestros beneficios para los pacientes, como seguimiento de los análisis, contacto casi inmediato con un profesional de la salud y visualización de las recomendaciones de este mismo. Asimismo, del lado de los profesionales de la salud, por la personalización de nuestras funcionalidades como registrar una tarifa propia, registrar/consultar el cuadro clínico de un paciente para acceder rápidamente a la información, recibir valoraciones de los usuarios para retroalimentarse y/u obtener más citas médicas.
+**9. Los venceremos debido a** la diferenciación de nuestros beneficios para los pacientes, como seguimiento de los análisis, contacto casi inmediato con un profesional de la salud y visualización de las recomendaciones de este mismo. Asimismo, del lado de los profesionales de la salud, por la personalización de nuestras funcionalidades como registrar una tarifa propia, registrar/consultar el cuadro clínico de un paciente para acceder rápidamente a la información, recibir valoraciones de los usuarios para retroalimentarse y/u obtener más citas médicas.
 
- **10. Mi mayor riesgo de producto son** las fallas en el sistema de la plataforma, ya que los bugs o huecos de información impedirían al paciente revisar su progreso/tratamiento y, al profesional de la salud, realizar su servicio de manera efectiva.
+**10. Mi mayor riesgo de producto son** las fallas en el sistema de la plataforma, ya que los bugs o huecos de información impedirían al paciente revisar su progreso/tratamiento y, al profesional de la salud, realizar su servicio de manera efectiva.
 
- **11. Resolveremos esto a través de** una inversión constante en nuestra plataforma: formar un equipo profesional dedicado al mantenimiento de la plataforma y la solución de sus posibles fallos a través de las actualizaciones.
+**11. Resolveremos esto a través de** una inversión constante en nuestra plataforma: formar un equipo profesional dedicado al mantenimiento de la plataforma y la solución de sus posibles fallos a través de las actualizaciones.
 
 1.  **¿Quién es el usuario?**
- Nuestros usuarios son aquellas personas que tienen algún impedimento para movilizarse y necesitan atención médica profesional, o familiares preocupados por ellos. Asimismo, también lo son los profesionales de la salud que brindan atención médica a domicilio. 
+    Nuestros usuarios son aquellas personas que tienen algún impedimento para movilizarse y necesitan atención médica profesional, o familiares preocupados por ellos. Asimismo, también lo son los profesionales de la salud que brindan atención médica a domicilio.
 
-2.  **¿Dónde encaja nuestro producto en su trabajo o vida?** 
- En el caso de los pacientes, en los días que necesiten tratar alguna enfermedad, seguir una terapia o simplemente un monitoreo de rutina. En el caso de los profesionales de la salud, encaja dentro de su ámbito laboral, específicamente durante el proceso de registro de pacientes, consulta médica y prescripción del tratamiento a seguir.
+2.  **¿Dónde encaja nuestro producto en su trabajo o vida?**
+    En el caso de los pacientes, en los días que necesiten tratar alguna enfermedad, seguir una terapia o simplemente un monitoreo de rutina. En el caso de los profesionales de la salud, encaja dentro de su ámbito laboral, específicamente durante el proceso de registro de pacientes, consulta médica y prescripción del tratamiento a seguir.
 
 3.  **¿Cómo y cuándo es usado nuestro producto?**
- Para los pacientes, será usado a través de una aplicación o sitio web como un apoyo de interconexión médico-paciente, con la previa inscripción a nuestra plataforma, cuando el usuario requiera de un análisis a su estado de salud actual o quiera darle seguimiento a su tratamiento. Para los profesionales de la salud, será usado como una plataforma de apoyo para la recopilación de información médica relevante del paciente, cuando la cita agendada se realice de forma a domicilio.
+    Para los pacientes, será usado a través de una aplicación o sitio web como un apoyo de interconexión médico-paciente, con la previa inscripción a nuestra plataforma, cuando el usuario requiera de un análisis a su estado de salud actual o quiera darle seguimiento a su tratamiento. Para los profesionales de la salud, será usado como una plataforma de apoyo para la recopilación de información médica relevante del paciente, cuando la cita agendada se realice de forma a domicilio.
 
 4.  **¿Qué problema tendría nuestro producto y cómo se pueden resolver?**
- Nuestro producto está desarrollado en plataformas digitales, por lo que, al ser personas de tercera edad la mayoría de los pacientes, se pueden generar complicaciones al momento de entender el correcto funcionamiento de ella. Asimismo, al ser desarrollado también para un entorno sanitario puede carecer de las especificaciones reglamentarias necesarias para su uso, en otras palabras, las acciones realizadas por un profesional de la salud deben seguir un orden y proceso adecuado permitido por la ley, si no se cumple con ello nuestra plataforma sería inoperable. Sin embargo, esto se puede resolver con profesionales de diseño que hagan más intuitiva nuestra plataforma, así como también con profesionales especializados en el ámbito legal y la asesoría de los profesionales de la salud para la implementación de las funcionalidades adecuadas.
+    Nuestro producto está desarrollado en plataformas digitales, por lo que, al ser personas de tercera edad la mayoría de los pacientes, se pueden generar complicaciones al momento de entender el correcto funcionamiento de ella. Asimismo, al ser desarrollado también para un entorno sanitario puede carecer de las especificaciones reglamentarias necesarias para su uso, en otras palabras, las acciones realizadas por un profesional de la salud deben seguir un orden y proceso adecuado permitido por la ley, si no se cumple con ello nuestra plataforma sería inoperable. Sin embargo, esto se puede resolver con profesionales de diseño que hagan más intuitiva nuestra plataforma, así como también con profesionales especializados en el ámbito legal y la asesoría de los profesionales de la salud para la implementación de las funcionalidades adecuadas.
 
 5.  **¿Qué características son importantes?**
- Debe ser intuitiva, las opciones que tendrá la plataforma deben ser específicas y prácticas para que el usuario no tenga complicaciones en su uso. A su vez, el tiempo de respuesta en cuanto a la atención al cliente u recomendaciones para su tratamiento deben ser atendidas con prontitud. Asimismo, la organización y distribución de las funcionalidades deben estar avaladas por la ley. Finalmente, la seguridad también será un factor importante porque estaremos trabajando con información confidencial del paciente.
+    Debe ser intuitiva, las opciones que tendrá la plataforma deben ser específicas y prácticas para que el usuario no tenga complicaciones en su uso. A su vez, el tiempo de respuesta en cuanto a la atención al cliente u recomendaciones para su tratamiento deben ser atendidas con prontitud. Asimismo, la organización y distribución de las funcionalidades deben estar avaladas por la ley. Finalmente, la seguridad también será un factor importante porque estaremos trabajando con información confidencial del paciente.
 
-6.  **¿Cómo debe verse nuestro servicio y cómo debe comportarse?** 
- Nuestro producto debe verse práctico, moderno y con contrastes de colores suaves; todo esto con la finalidad de hacer más satisfactoria la experiencia de usuario. Asimismo, debe comportarse como una interfaz fluida y con un manejo eficaz de la información.
+6.  **¿Cómo debe verse nuestro servicio y cómo debe comportarse?**
+    Nuestro producto debe verse práctico, moderno y con contrastes de colores suaves; todo esto con la finalidad de hacer más satisfactoria la experiencia de usuario. Asimismo, debe comportarse como una interfaz fluida y con un manejo eficaz de la información.
 
-#### 1.2.2.3.	Lean UX Hypothesis Statements
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
 **1st Hypothesis Statement**
 
- **Creemos que** el uso de nuestra plataforma facilitará la comunicación entre el usuario y el profesional de salud; y así desarrollar una interacción práctica.
+**Creemos que** el uso de nuestra plataforma facilitará la comunicación entre el usuario y el profesional de salud; y así desarrollar una interacción práctica.
 
- **Sabremos que** hemos tenido éxito,
+**Sabremos que** hemos tenido éxito,
 
- **Cuando** veamos que el 70% de los usuarios están satisfechos con la prontitud que se contacta a un profesional médico a través de sus reseñas positivas en nuestra plataforma.
+**Cuando** veamos que el 70% de los usuarios están satisfechos con la prontitud que se contacta a un profesional médico a través de sus reseñas positivas en nuestra plataforma.
 
- **2nd Hypothesis Statement**
+**2nd Hypothesis Statement**
 
- **Creemos que** publicar los resultados de sus análisis en la plataforma permitirá a los usuarios hacer un seguimiento de su progreso con el tratamiento y su estado de salud actual.
+**Creemos que** publicar los resultados de sus análisis en la plataforma permitirá a los usuarios hacer un seguimiento de su progreso con el tratamiento y su estado de salud actual.
 
- **Sabremos que** hemos tenido éxito,
+**Sabremos que** hemos tenido éxito,
 
- **Cuando** veamos que un 60% de los usuarios mantienen un progreso constante con cada análisis.
+**Cuando** veamos que un 60% de los usuarios mantienen un progreso constante con cada análisis.
 
 **3rd Hypothesis Statement**
 
- **Creemos que** publicar las recomendaciones del profesional de la salud para el tratamiento de los pacientes ayudará a estos últimos a conseguir mejores resultados en su tratamiento.
+**Creemos que** publicar las recomendaciones del profesional de la salud para el tratamiento de los pacientes ayudará a estos últimos a conseguir mejores resultados en su tratamiento.
 
- **Sabremos que** hemos tenido éxito,
+**Sabremos que** hemos tenido éxito,
 
- **Cuando** veamos que un 50% de nuestros usuarios utilizan las recomendaciones del profesional de la salud y obtengan resultados óptimos.
+**Cuando** veamos que un 50% de nuestros usuarios utilizan las recomendaciones del profesional de la salud y obtengan resultados óptimos.
 
+#### 1.2.2.4. Lean UX Canvas
 
+![visual studio code logo](assets/Imagen1.png)
 
+## 1.3. Segmento Objetivo
 
-#### 1.2.2.4.	Lean UX Canvas
+De acuerdo con el INEI (2020), en el Perú se encuentran más de 3.3 millones de personas con alguna discapacidad, de los cuales el 31.2% están ubicados en la capital del país, lo que convierte a Lima en el departamento con más personas que tienen alguna limitación física o mental en nuestra nación. Por eso, se escogió a Lima Metropolitana como la provincia en la cual nuestra aplicación comenzará a funcionar. De la misma manera, los adultos mayores son los que forman la mayor parte de este grupo de individuos con alguna discapacidad y, además, ellos necesitan de ayuda de terceros en su día a día, ya que no pueden valerse por sí mismos. Igualmente, el último reporte del INEI también menciona que el 52.2% del sector de personas limitadas se encontraron o se encuentran con la necesidad de acudir a centros de salud, tales como el MINSA, Essalud, entre otros. Esto evidencia que hay un menester de médicos o enfermeros para apoyar al cuidado de personas con discapacidad y no es posible que solo uno de los familiares se encargue de estos, pues en palabras de Pérez (2016), el cuidado informal de personas limitadas genera problemas de salud y alteraciones emocionales en los cuidadores principales y también en los que los rodean. En otras palabras, todos los miembros de una familia son afectados directamente cuando uno de ellos presenta algún tipo de limitación.
+En el siguiente gráfico se muestra un aproximado del porcentaje de aumento de personas con discapacidad según sexo y edad.
 
-![visual studio code logo](assets/Imagen1.png) 
+![visual studio code logo](assets/Imagen2.png)
 
-## 1.3.	Segmento Objetivo
+Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un aumento en el porcentaje de adultos mayores, lo que conlleva a que crezca la demanda de enfermeros o médicos para su supervisión también se elevará en los próximos años. Además, en los mismos datos se evidencia que disminuirá la población de entre 20 a 45 años, lo que implica que los cuidados informales de personas discapacitadas se reducirán de igual manera. Por todo esto, llegamos a la conclusión de que los segmentos objetivos de nuestra aplicación son los siguientes.
 
- De acuerdo con el INEI (2020), en el Perú se encuentran más de 3.3 millones de personas con alguna discapacidad, de los cuales el 31.2% están ubicados en la capital del país, lo que convierte a Lima en el departamento con más personas que tienen alguna limitación física o mental en nuestra nación.  Por eso, se escogió a Lima Metropolitana como la provincia en la cual nuestra aplicación comenzará a funcionar. De la misma manera, los adultos mayores son los que forman la mayor parte de este grupo de individuos con alguna discapacidad y, además, ellos necesitan de ayuda de terceros en su día a día, ya que no pueden valerse por sí mismos. Igualmente, el último reporte del INEI también menciona que el 52.2% del sector de personas limitadas se encontraron o se encuentran con la necesidad de acudir a centros de salud, tales como el MINSA, Essalud, entre otros. Esto evidencia que hay un menester de médicos o enfermeros para apoyar al cuidado de personas con discapacidad y no es posible que solo uno de los familiares se encargue de estos, pues en palabras de Pérez (2016), el cuidado informal de personas limitadas genera problemas de salud y alteraciones emocionales en los cuidadores principales y también en los que los rodean. En otras palabras, todos los miembros de una familia son afectados directamente cuando uno de ellos presenta algún tipo de limitación. 
- En el siguiente gráfico se muestra un aproximado del porcentaje de aumento de personas con discapacidad según sexo y edad.
+- Personas mayores que requieran supervisión o Personas discapacitadas o con alguna otra dificultad para movilizarse
 
-![visual studio code logo](assets/Imagen2.png) 
+![visual studio code logo](assets/Imagen3.png)
 
- Tal como se puede apreciar en el gráfico, se estima que hasta el 2050 habrá un aumento en el porcentaje de adultos mayores, lo que conlleva a que crezca la demanda de enfermeros o médicos para su supervisión también se elevará en los próximos años. Además, en los mismos datos se evidencia que disminuirá la población de entre 20 a 45 años, lo que implica que los cuidados informales de personas discapacitadas se reducirán de igual manera. Por todo esto, llegamos a la conclusión de que los segmentos objetivos de nuestra aplicación son los siguientes.
-*  Personas mayores que requieran supervisión o Personas discapacitadas o con alguna otra dificultad para movilizarse
+![visual studio code logo](assets/Imagen4.png)
 
-![visual studio code logo](assets/Imagen3.png) 
+- Profesionales de la salud
 
-![visual studio code logo](assets/Imagen4.png) 
+![visual studio code logo](assets/Imagen5.jpg)
 
+# 2. REQUIREMENTS ELICITATION & ANALYSIS
 
-*  Profesionales de la salud
+## 2.1. Competidores.
 
-![visual studio code logo](assets/Imagen5.jpg)  
-
-# 2.	REQUIREMENTS ELICITATION & ANALYSIS
-## 2.1.	Competidores.
-### 2.1.1.	Análisis Competitivo.
+### 2.1.1. Análisis Competitivo.
 
 <table>
 <thead>
@@ -439,188 +451,201 @@ Nuestra misión actual es encontrar la forma más viable e innovadora de ayudar 
 </tbody>
 </table>
 
-### 2.1.2.	Estrategias y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores.
 
-1.	Aplicaremos una estrategia de supervisión de los indicadores de desempeño para evaluar el porcentaje de éxito en cada contratación del profesional de salud para medir las métricas de rendimiento de nuestra aplicación y sugerir cambios para el beneficio del usuario.
-2.	La segunda estrategia es desarrollar un ataque en cadena, como estamos inmersos en un ámbito tecnológico, no puedes atacar directamente al competidor más potente, pues cuenta con más medios que nosotros y podría ser contraproducente. Entonces debemos ir obteniendo mayor participación en el mercado atacando los mercados más pequeños y posicionándonos directamente en ellos.
-3.	La tercera estrategia por desarrollar es la maniobra envolvente, nosotros debemos evidenciar las debilidades de cada competidor y tomarlas en cuenta para mejorar nuestro producto.
-4.  Finalmente, emplearemos la estrategia competitiva de diferenciación, consta en ofrecer un producto diferente con una interfaz única y con mejoras totalmente pensadas en la satisfacción del usuario.
+1. Aplicaremos una estrategia de supervisión de los indicadores de desempeño para evaluar el porcentaje de éxito en cada contratación del profesional de salud para medir las métricas de rendimiento de nuestra aplicación y sugerir cambios para el beneficio del usuario.
+2. La segunda estrategia es desarrollar un ataque en cadena, como estamos inmersos en un ámbito tecnológico, no puedes atacar directamente al competidor más potente, pues cuenta con más medios que nosotros y podría ser contraproducente. Entonces debemos ir obteniendo mayor participación en el mercado atacando los mercados más pequeños y posicionándonos directamente en ellos.
+3. La tercera estrategia por desarrollar es la maniobra envolvente, nosotros debemos evidenciar las debilidades de cada competidor y tomarlas en cuenta para mejorar nuestro producto.
+4. Finalmente, emplearemos la estrategia competitiva de diferenciación, consta en ofrecer un producto diferente con una interfaz única y con mejoras totalmente pensadas en la satisfacción del usuario.
 
-## 2.2.	Entrevistas.
+## 2.2. Entrevistas.
 
 En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos.
 
-### 2.2.1.	Diseño de entrevistas.
+### 2.2.1. Diseño de entrevistas.
 
 En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivos.
 
 **Preguntas principales y complementarias para la entrevista**
 
-**1.	Personas con dificultad para movilizarse o sus familiares:**
+**1. Personas con dificultad para movilizarse o sus familiares:**
 
-**a.	Preguntas principales:**
-*	¿Cuáles son los principales motivos por el cual usted contrataría el servicio de un profesional de la salud a domicilio?
-*   ¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva cuidando a su familiar?
-*	¿Cuáles son las dificultades que ha encontrado en el servicio de clínica en la atención a su familiar?
-*	¿Confiaría usted en una aplicación que le ayude a obtener un profesional de la salud calificado para cuidar a su familiar?
-*	¿Cuáles serían los factores que determinan su confianza en un sistema web de atención a domicilio?
-*	¿Qué tan importante es para usted tener el control de elegir (personalizar) a su profesional de la salud?
-*	¿Considera una ventaja tener un registro actualizado de cada análisis que se le realiza a su familiar con limitación para un monitoreo más íntegro?
-*	¿Considera que su trabajo u otras áreas de su vida se ven afectadas por el tiempo que debe dedicar a cuidar a su familiar?
+**a. Preguntas principales:**
 
-**b.	Preguntas complementarias:**
-*	¿Cuántos años tiene?
-*	¿En qué distrito reside?
-*   ¿Cuál es su estado civil?
-*	¿Cuál es su ocupación?
-*	Mencione algunas de sus habilidades, por favor.
-*	¿Cuáles son sus dispositivos de preferencia?
-*	¿Cuáles son sus principales frustraciones?
-*	¿Cuánto tiempo le toma el cuidado de su familiar discapacitado diariamente?
-*	¿Su familiar requiere de algún medicamento o tratamiento? y si así fuera ¿Quién es el responsable de administrar su medicina?
+- ¿Cuáles son los principales motivos por el cual usted contrataría el servicio de un profesional de la salud a domicilio?
+- ¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva cuidando a su familiar?
+- ¿Cuáles son las dificultades que ha encontrado en el servicio de clínica en la atención a su familiar?
+- ¿Confiaría usted en una aplicación que le ayude a obtener un profesional de la salud calificado para cuidar a su familiar?
+- ¿Cuáles serían los factores que determinan su confianza en un sistema web de atención a domicilio?
+- ¿Qué tan importante es para usted tener el control de elegir (personalizar) a su profesional de la salud?
+- ¿Considera una ventaja tener un registro actualizado de cada análisis que se le realiza a su familiar con limitación para un monitoreo más íntegro?
+- ¿Considera que su trabajo u otras áreas de su vida se ven afectadas por el tiempo que debe dedicar a cuidar a su familiar?
 
-**2.	Personal de la salud:**
+**b. Preguntas complementarias:**
 
-**a.	Preguntas principales:**
-*	¿Cuál es el factor principal por el cual los adultos mayores optan por no acudir a los centros médicos?
-*	¿Cuánta experiencia tiene usted como cuidador de personas mayores y/o personas con limitaciones físicas o mentales?
-*	¿Con cuánta frecuencia atiende a personas con alguna discapacidad física, mental o de otra índole?
-*	¿Cuál es el problema más frecuente que se da cuando familiares no capacitados se encargan de administrar el tratamiento médico de algún paciente con limitaciones físicas, mentales o con presencia de enfermedades crónicas?
-*	¿Cuáles son las diferencias de ser un médico de casa a uno de clínica?
-*	¿Qué características/opciones le gustaría que tuviera nuestra plataforma?
-*	¿Qué opina acerca de que usted pueda colocar su propia tarifa de servicio?
-*	¿Considera una ventaja para usted que en una plataforma se le pueda valorar su servicio a través de reseñas o puntuaciones?
-*	¿Cuál sería el porcentaje apropiado que estaría dispuesto a descontar de sus ingresos mensuales por conceptos de captación de pacientes a través de una aplicación?
+- ¿Cuántos años tiene?
+- ¿En qué distrito reside?
+- ¿Cuál es su estado civil?
+- ¿Cuál es su ocupación?
+- Mencione algunas de sus habilidades, por favor.
+- ¿Cuáles son sus dispositivos de preferencia?
+- ¿Cuáles son sus principales frustraciones?
+- ¿Cuánto tiempo le toma el cuidado de su familiar discapacitado diariamente?
+- ¿Su familiar requiere de algún medicamento o tratamiento? y si así fuera ¿Quién es el responsable de administrar su medicina?
 
+**2. Personal de la salud:**
 
-**b.	Preguntas complementarias:**
-*	¿Cuántos años tiene?
-*	¿En qué distrito reside?
-*	¿Cuál es su estado civil?
-*	¿Cuál es su ocupación?
-*	¿Cuáles son sus dispositivos de preferencia?
-*	¿Cuáles son sus principales frustraciones?
-*	¿Cómo reacciona ante situaciones de gran estrés o cómo maneja eficazmente el estrés personal en su trabajo como profesional de la salud?
-*	¿Cómo le han ayudado sus habilidades de escucha a entender y diagnosticar correctamente las necesidades de sus pacientes?
+**a. Preguntas principales:**
+
+- ¿Cuál es el factor principal por el cual los adultos mayores optan por no acudir a los centros médicos?
+- ¿Cuánta experiencia tiene usted como cuidador de personas mayores y/o personas con limitaciones físicas o mentales?
+- ¿Con cuánta frecuencia atiende a personas con alguna discapacidad física, mental o de otra índole?
+- ¿Cuál es el problema más frecuente que se da cuando familiares no capacitados se encargan de administrar el tratamiento médico de algún paciente con limitaciones físicas, mentales o con presencia de enfermedades crónicas?
+- ¿Cuáles son las diferencias de ser un médico de casa a uno de clínica?
+- ¿Qué características/opciones le gustaría que tuviera nuestra plataforma?
+- ¿Qué opina acerca de que usted pueda colocar su propia tarifa de servicio?
+- ¿Considera una ventaja para usted que en una plataforma se le pueda valorar su servicio a través de reseñas o puntuaciones?
+- ¿Cuál sería el porcentaje apropiado que estaría dispuesto a descontar de sus ingresos mensuales por conceptos de captación de pacientes a través de una aplicación?
+
+**b. Preguntas complementarias:**
+
+- ¿Cuántos años tiene?
+- ¿En qué distrito reside?
+- ¿Cuál es su estado civil?
+- ¿Cuál es su ocupación?
+- ¿Cuáles son sus dispositivos de preferencia?
+- ¿Cuáles son sus principales frustraciones?
+- ¿Cómo reacciona ante situaciones de gran estrés o cómo maneja eficazmente el estrés personal en su trabajo como profesional de la salud?
+- ¿Cómo le han ayudado sus habilidades de escucha a entender y diagnosticar correctamente las necesidades de sus pacientes?
 
 **Respuestas a las preguntas complementarias por cada entrevistado:**
-1.	**Segmento 1: Personas con dificultad para movilizarse o sus familiares**
 
-**a.	Entrevistado 1 – Alexis Frogoziolo:**
-*	Edad: 25 años
-*	Residencia: Comas
-*	Estado Civil: Soltero
-*	Ocupación: Estudiante
-*	Dispositivos de preferencia: Celular y Laptop
-*	Habilidades: Buen manejo de situaciones difíciles.
-*	Frustraciones: No tener a nadie que supervise a su familiar.
+1. **Segmento 1: Personas con dificultad para movilizarse o sus familiares**
 
-**b.	Entrevistado 1 – Nicolas Haro:**
-*	Edad: 22 años
-*	Residencia: Surco
-*	Estado Civil: Soltero
-*	Ocupación: Estudiante
-*	Dispositivos de preferencia: Celular y Laptop
-*	Habilidades: Buen manejo de situaciones difíciles.
-*	Frustraciones: Ninguno.
+**a. Entrevistado 1 – Alexis Frogoziolo:**
 
+- Edad: 25 años
+- Residencia: Comas
+- Estado Civil: Soltero
+- Ocupación: Estudiante
+- Dispositivos de preferencia: Celular y Laptop
+- Habilidades: Buen manejo de situaciones difíciles.
+- Frustraciones: No tener a nadie que supervise a su familiar.
 
-2.	**Segmento 2: Profesionales de la salud**
+**b. Entrevistado 1 – Nicolas Haro:**
 
-**a.   Entrevistado 2 – Nicoll Abarca:**
-*	Edad: 26 años
-*	Residencia: Miraflores
-*	Estado civil: Soltera
-*	Ocupación: Fisioterapeuta
-*	Dispositivos de preferencia: Laptop.
-*	Habilidades: Manejo adecuado de estrés, angustia en las situaciones.
-*	Frustraciones: Ninguna.
+- Edad: 22 años
+- Residencia: Surco
+- Estado Civil: Soltero
+- Ocupación: Estudiante
+- Dispositivos de preferencia: Celular y Laptop
+- Habilidades: Buen manejo de situaciones difíciles.
+- Frustraciones: Ninguno.
 
-**b.  Entrevistado 2 – Julio Cesías:**
-*	Edad: 50 años.
-*	Residencia: San Miguel
-*	Estado civil: Conviviente
-*	Ocupación: Médico Oftalmólogo
-*	Dispositivos de preferencia: Laptop, Tablet.
-*	Habilidades: Paciencia.
-*	Frustraciones: Ninguno.
+2. **Segmento 2: Profesionales de la salud**
 
-**c.  Entrevistado 3 – Zaira Salazar:**
-*	Edad: 51 años.
-*	Residencia: Lima
-*	Estado civil: Casada
-*	Ocupación: Enfermera Hospital del Niño
-*	Dispositivos de preferencia: Celular.
-*	Habilidades: Paciencia.
-*	Frustraciones: Ninguno.
+**a. Entrevistado 2 – Nicoll Abarca:**
 
-### 2.2.2.	Registro de entrevistas.
+- Edad: 26 años
+- Residencia: Miraflores
+- Estado civil: Soltera
+- Ocupación: Fisioterapeuta
+- Dispositivos de preferencia: Laptop.
+- Habilidades: Manejo adecuado de estrés, angustia en las situaciones.
+- Frustraciones: Ninguna.
+
+**b. Entrevistado 2 – Julio Cesías:**
+
+- Edad: 50 años.
+- Residencia: San Miguel
+- Estado civil: Conviviente
+- Ocupación: Médico Oftalmólogo
+- Dispositivos de preferencia: Laptop, Tablet.
+- Habilidades: Paciencia.
+- Frustraciones: Ninguno.
+
+**c. Entrevistado 3 – Zaira Salazar:**
+
+- Edad: 51 años.
+- Residencia: Lima
+- Estado civil: Casada
+- Ocupación: Enfermera Hospital del Niño
+- Dispositivos de preferencia: Celular.
+- Habilidades: Paciencia.
+- Frustraciones: Ninguno.
+
+### 2.2.2. Registro de entrevistas.
+
 **Segmento 1: Personas con dificultad para movilizarse o sus familiares**
-1.	Entrevistado 1:
-      *	Nombres y Apellidos: Alexis Frogoziolo Lujan.
-      * Edad: 25 años
-      *	Distrito: Comas
-      *	Evidencia de la reunión:
-      * ![](assets/entre1.png)
-      *	URL de stream: https://web.microsoftstream.com/video/5c81c331-6307-4c7a-a2e5-148e2ff388d7
-      *	Timing y duración: 0:00 – 4:43
-      *	Resumen sobre la entrevista:
-      
-      La entrevista fue realizada a Alexis Frogoziolo Lujan, tiene 25 años y reside en Comas. Es un estudiante universitario, soltero y sus dispositivos de preferencia son su celular y su laptop. Sus principales canales digitales de interacción son WhatsApp e Instagram. Cuenta con habilidades como saber actuar en momentos difíciles. Además, cuenta con ciertas frustraciones como el estrés por el tiempo que cuida a su familiar discapacitado y no poder ayudar en todo a su abuela. Como se mencionó, él es una de las personas que se encargan del cuidado de un familiar con discapacidades, la cual necesita siempre de la compañía de alguien para su supervisión. Por ello, Alexis menciona que la ayuda o atención de un profesional de la salud en su domicilio le facilita el cuidado de su abuela, ya que ella requiere de constante observación y no puede realizar sus labores diarias sin preocuparse por si su familiar sigue con vida. Además, nos comentó que ha habido ciertas dificultades cuando lleva a su familiar a los hospitales, las cuales son como la demora de atención a los pacientes. De igual forma, Alexis asegura que son solo los familiares quienes se encargan de aplicar los medicamentos que son necesarios en el cuidado de su familiar. Por otro lado, con respecto a las plataformas de salud virtuales, él menciona que el principal factor de confianza en un doctor es que este sea verificado con papeles que avalen sus estudios, también piensa que el poder visualizar las recomendaciones, opiniones o experiencias de otros pacientes le sería de gran ayuda. Además, el entrevistado considera fundamental monitorear y controlar los análisis médicos hechos a su familiar.
 
+1. Entrevistado 1:
+
+   - Nombres y Apellidos: Alexis Frogoziolo Lujan.
+   - Edad: 25 años
+   - Distrito: Comas
+   - Evidencia de la reunión:
+   - ![](assets/entre1.png)
+   - URL de stream: https://web.microsoftstream.com/video/5c81c331-6307-4c7a-a2e5-148e2ff388d7
+   - Timing y duración: 0:00 – 4:43
+   - Resumen sobre la entrevista:
+
+   La entrevista fue realizada a Alexis Frogoziolo Lujan, tiene 25 años y reside en Comas. Es un estudiante universitario, soltero y sus dispositivos de preferencia son su celular y su laptop. Sus principales canales digitales de interacción son WhatsApp e Instagram. Cuenta con habilidades como saber actuar en momentos difíciles. Además, cuenta con ciertas frustraciones como el estrés por el tiempo que cuida a su familiar discapacitado y no poder ayudar en todo a su abuela. Como se mencionó, él es una de las personas que se encargan del cuidado de un familiar con discapacidades, la cual necesita siempre de la compañía de alguien para su supervisión. Por ello, Alexis menciona que la ayuda o atención de un profesional de la salud en su domicilio le facilita el cuidado de su abuela, ya que ella requiere de constante observación y no puede realizar sus labores diarias sin preocuparse por si su familiar sigue con vida. Además, nos comentó que ha habido ciertas dificultades cuando lleva a su familiar a los hospitales, las cuales son como la demora de atención a los pacientes. De igual forma, Alexis asegura que son solo los familiares quienes se encargan de aplicar los medicamentos que son necesarios en el cuidado de su familiar. Por otro lado, con respecto a las plataformas de salud virtuales, él menciona que el principal factor de confianza en un doctor es que este sea verificado con papeles que avalen sus estudios, también piensa que el poder visualizar las recomendaciones, opiniones o experiencias de otros pacientes le sería de gran ayuda. Además, el entrevistado considera fundamental monitorear y controlar los análisis médicos hechos a su familiar.
 
 2. Entrevistado 2:
-    *	Nombres y Apellidos: Nicolas Haro
-    *	Edad: 22 años
-    *	Distrito: Surco
-    *	Evidencia de la reunión:
-    * ![](assets/entre2.png)
-    *	URL del Stream: https://web.microsoftstream.com/video/fb420e56-41aa-4d79-bca6-7e4f05c4b69e
-    *	Timing y duración: 0:00 – 4:49
-    *	Resumen sobre la entrevista:
+
+   - Nombres y Apellidos: Nicolas Haro
+   - Edad: 22 años
+   - Distrito: Surco
+   - Evidencia de la reunión:
+   - ![](assets/entre2.png)
+   - URL del Stream: https://web.microsoftstream.com/video/fb420e56-41aa-4d79-bca6-7e4f05c4b69e
+   - Timing y duración: 0:00 – 4:49
+   - Resumen sobre la entrevista:
 
    Esta entrevista fue realizada a Nicolas Haro, el cual tiene 22 años y reside en Surco- Lima. Actualmente soltero y estudiante de la UPC. Su dispositivo de preferencia es el celular. Las habilidades con las que se describe son que aprende muy rápido, se explaya con bastante facilidad y es muy hábil socialmente hablando. Nos cuenta que se siente frustrado por la poca empatía que hay en la sociedad con las personas discapacitadas, dice que en la ciudad de Lima debido al tránsito de personas no se les toma mucha importancia a las personas discapacitadas. En su experiencia con las clínicas, el siente que no se les da mucha importancia, ya que, si bien están en una situación delicada, no es tomada como de riesgo. Con respecto a nuestra aplicación, nos comenta que, debido a su situación, no es muy cómodo andarse moviendo de un lugar a otro como en este caso las clínicas, por ello siente que sería mucho mejor si le asistieran personalmente en su domicilio. Finalmente comenta que el factor que determinaría su confianza en nuestro sistema web es poder ver el trabajo que han realizado o curricular de los trabajadores de nuestra aplicación.
 
 **Segmento 2: Profesionales de la salud**
+
 1. Entrevistado 1:
-    *	Nombres y Apellidos:  Nicoll Abarca Cabrera
-    *	Edad: 26 años
-    *   Distrito: Miraflores
-    *	Evidencia de la reunión:
-    *   ![](assets/entre3.png)
-    *	URL de stream: https://web.microsoftstream.com/video/2b0f8d77-6af1-48d3-87cc-c592eb680c18
-    *	Timing y duración: 0:00 – 7:14
-    *	Resumen sobre la entrevista:
+
+   - Nombres y Apellidos: Nicoll Abarca Cabrera
+   - Edad: 26 años
+   - Distrito: Miraflores
+   - Evidencia de la reunión:
+   - ![](assets/entre3.png)
+   - URL de stream: https://web.microsoftstream.com/video/2b0f8d77-6af1-48d3-87cc-c592eb680c18
+   - Timing y duración: 0:00 – 7:14
+   - Resumen sobre la entrevista:
 
    La entrevistada Nicoll Abarca Cabrera labora actualmente en la clínica FisioProgres. Reside en el Miraflores, se encuentra soltera y tiene 26 años, sus dispositivos de preferencia son los dispositivos móviles como su celular. Nicoll nos cuenta de que el estrés en su trabajo es muy frecuente por lo que ella hace ejercicio en casa para sobrellevar el estrés del trabajo. La entrevistada nos comenta que una de las razones principales por las cuales los adultos mayores no quieren ir a los centros médicos es debido a que muchos de ellos no quieren ser una carga para sus familias y también por la situación de la pandemia. Además, Ella tiene 3 años de experiencia cuidando a personas con discapacidad física o mental, y adultos mayores, usualmente ella los atiende 3 días a la semana. Según Nicoll, ella piensa que automedicar a un paciente sin una receta médica es muy negligente por parte de los familiares, ya que en algunos casos estos empeoran y algunas hasta llegan a morir por tomar los medicamentos y las dosis inadecuadas. Así también, la entrevistada considera que un médico de casa suele ofrecer atención médica general y preventiva, mientras que un médico de clínica puede tener una especialización y ofrecer servicios más especializados y complejos en un entorno de atención médica más amplio.
 
-
 2. Entrevistado 2:
-    *	Nombres y Apellidos: Julio César Cesías López
-    *	Edad: 50 años
-    *	Distrito: San Miguel
-    *	Evidencia de la reunión:
-         ![](assets/entre4.png)
-    *	URL de stream: https://web.microsoftstream.com/video/e3af4971-58d3-40e4-b21f-32b7f169c4bb
-    *	Duración: 0:00 – 12:14
-    *	Resumen sobre la entrevista:
+
+   - Nombres y Apellidos: Julio César Cesías López
+   - Edad: 50 años
+   - Distrito: San Miguel
+   - Evidencia de la reunión:
+     ![](assets/entre4.png)
+   - URL de stream: https://web.microsoftstream.com/video/e3af4971-58d3-40e4-b21f-32b7f169c4bb
+   - Duración: 0:00 – 12:14
+   - Resumen sobre la entrevista:
 
    El entrevistado es el médico oftalmólogo Julio César Cesías López de 50 años, procedente de Lima, San Miguel y actualmente trabaja en Minsa. Sus dispositivos de preferencia son laptop y tablet. Mencionó que tiene mucha experiencia con el cuidado a personas, en este caso cuidados del tipo oftalmológicos a sus pacientes. Nos comenta que la principal razón que logró visualizar a el por qué las personas no asisten a sus citas es, en primer lugar, la distancia desde su hogar al destino y, en segundo lugar, sería su estado económico. Luego mencionó que la gran parte de personas adultas mayores tratan de automedicarse y eso en muchos casos en lugar de solucionar el problema lo empeoran. De igual manera mencionó que le parece muy importante conocer la opinión de sus clientes sobre cómo se sintieron mientras estuvieron en la cita. Finalmente, comentó que si estaría dispuesto por pagar tarifas en sus consultas, solo si la herramienta le proporciona realmente lo necesario y en correcto funcionamiento.
 
-
 3. Entrevistado 3:
-    *	Nombres y Apellidos: Ruth Zaira Salazar
-    *	Edad: 51 años
-    *	Distrito: Lima
-    *	Evidencia de la reunión:
-    *   ![](assets/entre5.png)
-    *	URL de stream: https://web.microsoftstream.com/video/4e58e484-c56a-4af7-96e9-57bd5605f1db
-    *	Duración: 0:00 – 8:23
-    *	Resumen sobre la entrevista:
+
+   - Nombres y Apellidos: Ruth Zaira Salazar
+   - Edad: 51 años
+   - Distrito: Lima
+   - Evidencia de la reunión:
+   - ![](assets/entre5.png)
+   - URL de stream: https://web.microsoftstream.com/video/4e58e484-c56a-4af7-96e9-57bd5605f1db
+   - Duración: 0:00 – 8:23
+   - Resumen sobre la entrevista:
 
    La entrevistada Ruth Zaira Salazar Elliott labora actualmente en el Hospital del Niño. Reside en Lima, se encuentra casada y tiene 51 años, sus dispositivos de preferencia son los dispositivos móviles. La entrevistada nos cuenta que tiene habilidad del manejo de estrés y angustia en los horarios de trabajo. La señora Ruth comenta que la razón principal por la que los adultos mayores optan por no ir a los centros médicos se debe al tiempo que esto les consume y el costo de estos servicios. Además, sus años de experiencia laboral le han permitido estar familiarizada a conocer más a fondo a sus pacientes, debido a que en todos los días de trabajo tiene que cuidar a pacientes con limitaciones físicas y/o mentales. Según la enfermera Ruth, ella considera que el problema más frecuente cuando los familiares se encargan del cuidado de los pacientes es que estos no están capacitados y no saben cuáles son los cuidados necesarios que se deben realizar, además, que se encuentran desesperados y ansiosos, no tienen técnicas para manejar el estrés, por lo que terminan dando un tratamiento indebido o servir la cantidad incorrecta de dosis en los medicamentos recetados a los pacientes. Así también, la entrevistada considera que la mayor diferencia entre un médico de casa a uno de clínica es que al ser uno de casa, el cuidado que se brindará será exclusivamente al paciente en específico, pudiendo dedicar las 8 horas laborales directamente a este paciente, por lo que le brindarán un cuidado más privilegiado y cuidadoso. En cuanto a la idea de que pueda colocar su propia tarifa por sus servicios médicos, se encuentra de acuerdo. En cuanto a la idea de la posibilidad de dejar una puntuación y reseña del servicio realizado considera que está bien para una plataforma, y en esa misma clase de plataforma la señora Ruth estaría dispuesta a dar un 5% o hasta 10% de sus ganancias mensuales a dicha plataforma que la ayude en la captación de pacientes.
 
-### 2.2.3.	Análisis de entrevistas.
+### 2.2.3. Análisis de entrevistas.
 
 A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada.
 
@@ -629,31 +654,40 @@ A continuación, se desarrolla una estrategia en conjunto con el equipo para ide
 **Segmento 1: Personas con dificultad para movilizarse o sus familiares**
 
 **¿Cuáles son los principales motivos por el cual usted contrataría el servicio de un profesional de la salud a domicilio?**
-*	El 100% de los entrevistados concuerdan en que el principal motivo por el cual contratan el servicio de un profesional de la salud a domicilio es para que se ocupen de todas las necesidades médicas de su familiar en la comodidad de su hogar, ya que es muy riesgoso y cansado para ellos el movilizarse.
+
+- El 100% de los entrevistados concuerdan en que el principal motivo por el cual contratan el servicio de un profesional de la salud a domicilio es para que se ocupen de todas las necesidades médicas de su familiar en la comodidad de su hogar, ya que es muy riesgoso y cansado para ellos el movilizarse.
 
 **¿Cuál es la mayor dificultad que ha identificado en el tiempo que lleva cuidando a su familiar?**
-*	El 100% de los entrevistados coinciden en que la mayor dificultad al momento de cuidar de un familiar con limitaciones es la mala atención en los centros de salud, sobre todo en los públicos.
+
+- El 100% de los entrevistados coinciden en que la mayor dificultad al momento de cuidar de un familiar con limitaciones es la mala atención en los centros de salud, sobre todo en los públicos.
 
 **¿Cuánto tiempo le toma el cuidado de su familiar discapacitado diariamente?**
-*	En base a las entrevistas, se deduce que el tiempo que se invierte en el cuidado del familiar varía entre 4 a 12 horas dependiendo de las actividades que se tengan que realizar en el día. Sin embargo, les cuesta realizar sus actividades normales debido al miedo de que sus familiares resulten lastimados cuando estén solos.
+
+- En base a las entrevistas, se deduce que el tiempo que se invierte en el cuidado del familiar varía entre 4 a 12 horas dependiendo de las actividades que se tengan que realizar en el día. Sin embargo, les cuesta realizar sus actividades normales debido al miedo de que sus familiares resulten lastimados cuando estén solos.
 
 **¿Su familiar requiere de algún medicamento o tratamiento? y si así fuera ¿Quién es el responsable de administrar su medicina?**
-*	El 50% de los entrevistados indica que sus familiares requieren la administración de medicamento constantemente, la cual es brindada por el familiar que se encuentre en casa.
+
+- El 50% de los entrevistados indica que sus familiares requieren la administración de medicamento constantemente, la cual es brindada por el familiar que se encuentre en casa.
 
 **¿Cuáles son las dificultades que ha encontrado en el servicio de clínica en la atención a su familiar?**
-*	El 50% de los entrevistados afirma que el tiempo de espera es muy lento, lo cual no satisface las necesidades del enfermo.
+
+- El 50% de los entrevistados afirma que el tiempo de espera es muy lento, lo cual no satisface las necesidades del enfermo.
 
 **¿Cuáles serían los factores que determinan su confianza en un sistema web de atención a domicilio?**
-*	El 100% de los entrevistados consideran que la seguridad de los datos, como su curriculum o las opiniones de los pacientes anteriores. es uno de los factores que determinarían su confianza en una plataforma digital.
+
+- El 100% de los entrevistados consideran que la seguridad de los datos, como su curriculum o las opiniones de los pacientes anteriores. es uno de los factores que determinarían su confianza en una plataforma digital.
 
 **¿Qué tan importante es para usted tener el control de elegir (personalizar) a su profesional de la salud?**
-*	El 100% de los entrevistados coinciden en que es de suma importancia poder elegir al profesional de la salud que acudirá a su domicilio. Sin embargo, les parece más importante que la aplicación te recomiende los profesionales de salud según los síntomas que presenten.
+
+- El 100% de los entrevistados coinciden en que es de suma importancia poder elegir al profesional de la salud que acudirá a su domicilio. Sin embargo, les parece más importante que la aplicación te recomiende los profesionales de salud según los síntomas que presenten.
 
 **¿Considera una ventaja tener un registro actualizado de cada análisis que se le realiza a su familiar con limitación para un monitoreo más íntegro?**
-*	El 100% de los entrevistados opina que el registro actualizado de cada análisis que se le realiza a su familiar es de suma importancia, pues permite acceder a la información sobre la condición actual del paciente.
+
+- El 100% de los entrevistados opina que el registro actualizado de cada análisis que se le realiza a su familiar es de suma importancia, pues permite acceder a la información sobre la condición actual del paciente.
 
 **¿Considera que su trabajo u otras áreas de su vida se ven afectadas por el tiempo que debe dedicar a cuidar a su familiar?**
-*	El 100% de los entrevistados afirma que varios aspectos de su vida se ven afectados por esto ya que reduce el tiempo disponible durante el día para realizar sus labores cotidianas.
+
+- El 100% de los entrevistados afirma que varios aspectos de su vida se ven afectados por esto ya que reduce el tiempo disponible durante el día para realizar sus labores cotidianas.
 
 Análisis General de las entrevistas del Segmento objetivo **Familiares de personas con dificultad para movilizarse o alguna limitación física o mental:**
 
@@ -662,46 +696,58 @@ Haciendo un análisis general de las entrevistas se puede evidenciar lo siguient
 **Segmento 2: Profesionales de la salud**
 
 **¿Cuál es el factor principal por el cual los adultos mayores optan por no acudir a los centros médicos?**
-*	Un 100% de los entrevistados menciona que la razón principal es debido al tiempo y costo que este les ocasiona al tener que viajar cada vez que necesitan de atención médica.
+
+- Un 100% de los entrevistados menciona que la razón principal es debido al tiempo y costo que este les ocasiona al tener que viajar cada vez que necesitan de atención médica.
 
 **¿Cuánta experiencia tiene usted como cuidador de personas mayores y/o personas con limitaciones físicas o mentales?**
-*	El 100% de los entrevistados tiene mucha experiencia médica sobre el cuidado de personas con limitaciones físicas y/o mentales.
+
+- El 100% de los entrevistados tiene mucha experiencia médica sobre el cuidado de personas con limitaciones físicas y/o mentales.
 
 **¿Con cuánta frecuencia atiende a personas con alguna discapacidad física, mental o de otra índole?**
-*	El 66,6% de los entrevistados mencionan que atienden con frecuencia a personas con alguna discapacidad, que en su mayoría presentan limitaciones físicas.
+
+- El 66,6% de los entrevistados mencionan que atienden con frecuencia a personas con alguna discapacidad, que en su mayoría presentan limitaciones físicas.
 
 **¿Cuál es el problema más frecuente que se da cuando familiares no capacitados se encargan de administrar el tratamiento médico de algún paciente con limitaciones físicas, mentales o con presencia de enfermedades crónicas?**
-*	El 100% de los entrevistados asegura que el desconocimiento del familiar, a cargo del cuidado del paciente, perjudica su condición. En otras palabras, no controlar o tratar la enfermedad de forma incorrecta puede agravar la condición del paciente.
-*	Un 33.3% de los entrevistados mencionó que hay algunos adultos mayores que no tienen de cuidadores y terminan automedicándose, ocasionando que empeore su estado actual.
-*	Además, el 100% de los entrevistados mencionan que los familiares desconocen cómo llevar un tratamiento. Por ejemplo, tienen dificultades cuando necesitan medir la cantidad de las dosis de los medicamentos y tampoco saben cómo dárselo al paciente cuando este se rehúsa a tomarlo.
+
+- El 100% de los entrevistados asegura que el desconocimiento del familiar, a cargo del cuidado del paciente, perjudica su condición. En otras palabras, no controlar o tratar la enfermedad de forma incorrecta puede agravar la condición del paciente.
+- Un 33.3% de los entrevistados mencionó que hay algunos adultos mayores que no tienen de cuidadores y terminan automedicándose, ocasionando que empeore su estado actual.
+- Además, el 100% de los entrevistados mencionan que los familiares desconocen cómo llevar un tratamiento. Por ejemplo, tienen dificultades cuando necesitan medir la cantidad de las dosis de los medicamentos y tampoco saben cómo dárselo al paciente cuando este se rehúsa a tomarlo.
 
 **¿Cuáles son las diferencias de ser un médico de casa a uno de clínica?**
-*	El 100% de entrevistados coincide en que, a diferencia del médico de clínica, el médico de casa genera una mayor conexión con el familiar, por el tiempo que tiene para solo un paciente.
-*	Además, los entrevistados afirman que otra diferencia ventajosa para el paciente, es que la identificación entre paciente y médico es más abierta lo que permite que exista mayor comodidad para ambos. La atención es preferencial y existe una ayuda más efectiva, porque el médico de casa solo está enfocado en una persona.
+
+- El 100% de entrevistados coincide en que, a diferencia del médico de clínica, el médico de casa genera una mayor conexión con el familiar, por el tiempo que tiene para solo un paciente.
+- Además, los entrevistados afirman que otra diferencia ventajosa para el paciente, es que la identificación entre paciente y médico es más abierta lo que permite que exista mayor comodidad para ambos. La atención es preferencial y existe una ayuda más efectiva, porque el médico de casa solo está enfocado en una persona.
 
 **¿Qué opina acerca de que usted pueda colocar su propia tarifa de servicio?**
-*	El 100% de los entrevistados está de acuerdo en poder colocar su propia tarifa. Así los clientes tendrán variedad para escoger al profesional de su preferencia.
-*	Además, mencionan que es una medida justa y adecuada, ya que, dependiendo cada paciente que se les es asignado, el esfuerzo y los conocimientos que deben poseer y aplicar pueden variar. Por ejemplo, un paciente que puede caminar requiere de menos cuidados que un paciente con alguna discapacidad física.
+
+- El 100% de los entrevistados está de acuerdo en poder colocar su propia tarifa. Así los clientes tendrán variedad para escoger al profesional de su preferencia.
+- Además, mencionan que es una medida justa y adecuada, ya que, dependiendo cada paciente que se les es asignado, el esfuerzo y los conocimientos que deben poseer y aplicar pueden variar. Por ejemplo, un paciente que puede caminar requiere de menos cuidados que un paciente con alguna discapacidad física.
 
 **¿Considera una ventaja para usted que en una plataforma se le pueda valorar su servicio a través de reseñas o puntuaciones?**
-*	El 100% de los entrevistados creen que es una característica positiva en el servicio, ya que podrán adquirir recomendaciones por el buen trabajo que realicen.
+
+- El 100% de los entrevistados creen que es una característica positiva en el servicio, ya que podrán adquirir recomendaciones por el buen trabajo que realicen.
 
 **¿Cómo reacciona ante situaciones de gran estrés o cómo maneja eficazmente el estrés personal en su trabajo como profesional de la salud?**
-*	El 66,6% de los entrevistados, mencionan que ponen en práctica actividades de control de estrés como por ejemplo reflexionar de lo que debe y puede hacer o acudir a terapia para relajarse y buscar soluciones efectivas.
-*	El 33,3% de los entrevistados mencionan que ponen en práctica sus habilidades de inteligencia emocional y siempre se mantienen serenos antes situaciones altamente estresantes. También, tienen un buen manejo de emociones.
+
+- El 66,6% de los entrevistados, mencionan que ponen en práctica actividades de control de estrés como por ejemplo reflexionar de lo que debe y puede hacer o acudir a terapia para relajarse y buscar soluciones efectivas.
+- El 33,3% de los entrevistados mencionan que ponen en práctica sus habilidades de inteligencia emocional y siempre se mantienen serenos antes situaciones altamente estresantes. También, tienen un buen manejo de emociones.
 
 **¿Cómo le han ayudado sus habilidades de escucha, a entender y diagnosticar correctamente las necesidades de sus pacientes?**
-*	El 100% de los entrevistados considera que las habilidades de escuchar les ayudan a comprender mejor a sus pacientes y diagnosticarlos de manera eficaz.
+
+- El 100% de los entrevistados considera que las habilidades de escuchar les ayudan a comprender mejor a sus pacientes y diagnosticarlos de manera eficaz.
 
 **¿Cuál sería el porcentaje apropiado que estaría dispuesto a descontar de sus ingresos mensuales por conceptos de captación de pacientes a través de una aplicación?**
-*	El 100% de los entrevistados está dispuesto a pagar entre el 5% al 10% de su sueldo mensual por el concepto de captación de cliente. Es importante recalcar, que la entrevistada menciona que este porcentaje debe variar dependiendo el monto que se le va a pagar.
+
+- El 100% de los entrevistados está dispuesto a pagar entre el 5% al 10% de su sueldo mensual por el concepto de captación de cliente. Es importante recalcar, que la entrevistada menciona que este porcentaje debe variar dependiendo el monto que se le va a pagar.
 
 Análisis General de las entrevistas del Segmento objetivo **Profesionales de la salud:**
 
 Haciendo un análisis general de las entrevistas se puede evidenciar lo siguiente. La totalidad de los entrevistados cuenta con bastante experiencia respecto al cuidado de personas con limitaciones físicas y/o mentales. Asimismo, consideran que es peligroso que una persona no experimentada, familiar del paciente en este contexto o ellos mismos realizando automedicación, aplique los tratamientos o medicamentos al paciente ya que no tienen el conocimiento adecuado. Por otro lado, están de acuerdo en que nuestra plataforma les permita colocar su propia tarifa por concepto de atentación ya que de esta forma los usuarios podrán elegir al profesional de la salud que mejor le convenga y, después de realizado el tratamiento se le pueda calificar a través de reseñas o puntuaciones, esto no solo les permitiría obtener una retroalimentación de su servicio sino también una oportunidad de que los demás usuarios lo conozcan y elijan para tratar a sus familiares. Sin embargo, una gran parte de ellos (66,6%) no está dispuesto a tener una retención del 10% de sus ingresos mensuales. Por otro lado, 2 de los 3 entrevistados fueron mujeres, el margen de edades iba desde los 26 hasta los 51 años, 1 vive en Lima, 1 en Miraflores y 1 en San Miguel, los 3 trabajan en alguna rama de la medicina, 2 de los 3 ya se encontraban casados, 2 de los 3 utilizaban laptop y celular, los 3 utilizan WhatsApp, 2 de los 3 saben actuar en momentos de estrés y, para terminar, los 3 tienen distintas frustraciones.
 
-## 2.3.	Needfinding
-### 2.3.1.	User Personas.
+## 2.3. Needfinding
+
+### 2.3.1. User Personas.
+
 A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas; principalmente, los que muestran los objetivos, motivaciones y frustraciones con las que cuentan cada uno de los sectores que conforman al público al que va dirigida la aplicación. Es decir, se presentará tanto un estereotipo de un familiar de una persona discapacitada, como uno de un profesional de la salud.
 
 **User Persona – Familiares de pacientes con discapacidad o alguna limitación.**
@@ -712,7 +758,8 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 ![](assets/userpersona2.png)
 
-### 2.3.2.	User Task Matrix.
+### 2.3.2. User Task Matrix.
+
 En esta etapa nos enfocaremos en las tareas que los User Personas familiares de adultos mayores o personas con limitación física o mental, representados por Juan Mercedes. Asimismo, el segundo User Persona que son los profesionales de la salud, representados por Alejandra Mendoza. realizan para alcanzar su propósito, teniendo como segmentos objetivos a los pacientes con dificultades para movilizarse o sus familiares y, los profesionales de la salud.
 
 <table>
@@ -797,15 +844,16 @@ En esta etapa nos enfocaremos en las tareas que los User Personas familiares de 
 </table>
 
 **Tareas con mayor frecuencia e importancia:**
-*	**Frecuencia:** Las tareas con mayor frecuencia son aquellas relacionadas con la rutina diaria del paciente: supervisión de las acciones que realiza, ayuda para movilizarse y aplicar sus medicamentos. La primera, implica estar en constante supervisión del paciente ya que a menudo intenta realizar movimientos o desplazamientos que comprometen su condición. La segunda, corresponde a una ayuda continua para movilizarnos y, de esta forma, evitar que se lastimen. La tercera, es de suma importancia durante el proceso de recuperación del paciente porque se deben utilizar las dosis y los procedimientos adecuados en los horarios correspondientes.
-*	**Importancia:** Como tareas de mayor importancia tenemos que supervisar el comportamiento del paciente, realizar los exámenes médicos correspondientes, buscar y contratar al personal médico adecuado y, obtener una unidad médica para el transporte. La primera, es considerada de gran importancia porque cualquier descuido hacia el paciente puede acabar en una complicación mayor. La segunda, implica conocer el estado actual y la evolución del cuadro clínico del paciente para realizar el siguiente paso en su tratamiento. La tercera, está relacionada con la calidad del trato que un personal médico puede otorgar ya que algunos de ellos son bruscos o carecen del conocimiento necesario. La cuarta, si bien no es muy frecuente ya que se utiliza cuando el cuadro clínico del paciente es grave, es vital que se pueda conseguir prontamente para que el paciente reciba una atención oportuna. Finalmente, una tarea de suma importancia es registrar la condición del paciente, ya que de esta manera se podrá saber el progreso de la enfermedad o la mejoría del paciente.
+
+- **Frecuencia:** Las tareas con mayor frecuencia son aquellas relacionadas con la rutina diaria del paciente: supervisión de las acciones que realiza, ayuda para movilizarse y aplicar sus medicamentos. La primera, implica estar en constante supervisión del paciente ya que a menudo intenta realizar movimientos o desplazamientos que comprometen su condición. La segunda, corresponde a una ayuda continua para movilizarnos y, de esta forma, evitar que se lastimen. La tercera, es de suma importancia durante el proceso de recuperación del paciente porque se deben utilizar las dosis y los procedimientos adecuados en los horarios correspondientes.
+- **Importancia:** Como tareas de mayor importancia tenemos que supervisar el comportamiento del paciente, realizar los exámenes médicos correspondientes, buscar y contratar al personal médico adecuado y, obtener una unidad médica para el transporte. La primera, es considerada de gran importancia porque cualquier descuido hacia el paciente puede acabar en una complicación mayor. La segunda, implica conocer el estado actual y la evolución del cuadro clínico del paciente para realizar el siguiente paso en su tratamiento. La tercera, está relacionada con la calidad del trato que un personal médico puede otorgar ya que algunos de ellos son bruscos o carecen del conocimiento necesario. La cuarta, si bien no es muy frecuente ya que se utiliza cuando el cuadro clínico del paciente es grave, es vital que se pueda conseguir prontamente para que el paciente reciba una atención oportuna. Finalmente, una tarea de suma importancia es registrar la condición del paciente, ya que de esta manera se podrá saber el progreso de la enfermedad o la mejoría del paciente.
 
 **Diferencias y Similitudes:**
 La principal diferencia identificadas entre los User persona es que Juan Mercedes, representante de los familiares contratantes, no puede realizar exámenes médicos pues no cuenta con la instrucción necesaria para ejercer esa función. En cambio, Alejandra Mendoza si lo puede realizar pues es una doctora o enfermera certificada con experiencia en técnicas inmersivas. Otra diferencia, es que Juan Mercedes contrata a un profesional, y Alejandra mercedes es la contratada para brindar sus servicios de atención médica a domicilio. Finalmente, Juan Mercedes no registra la condición de su familiar con limitación por motivos de ignorancia en el tema, pues solo se encarga de las necesidades básicas de su familiar como alimentación o aseo. En cambio, Alejandra Mendoza se encarga de registrar toda la información necesaria para establecer la condición actual del paciente para tomar acciones de prevención y solución.
 
 Algunas de las similitudes identificadas son que ambos User personas supervisan el comportamiento del paciente durante el tiempo que estén con él. Asimismo, ambos ayudan a movilizar al paciente con fines de aplicar un tratamiento o terapia.
 
-### 2.3.3.	User Journey Mapping.
+### 2.3.3. User Journey Mapping.
 
 El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a graficar un mapa con las etapas, canales, elementos e interacciones por las que pasa nuestro usuario durante el ciclo de uso del servicio.
 
@@ -815,14 +863,14 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
          alt="">
 </figure>
 
-
 <figure style="text-align: center">
     <figcaption >Segmento 2: Profesional de la Salud.</figcaption>
     <img src="assets/userjourney2.png" 
          alt="">
 </figure>
 
-### 2.3.4.	Empathy Mapping.
+### 2.3.4. Empathy Mapping.
+
 En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.
 
 <figure style="text-align: center">
@@ -837,7 +885,8 @@ En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivo
          alt="">
 </figure>
 
-### 2.3.5.	As-is Scenario Mapping.
+### 2.3.5. As-is Scenario Mapping.
+
 En esta sección, se identificó las fases que podría presentar a nuestros User persona, del cómo se afrontó, sus pensamientos, sus sentimientos para identificar qué soluciones son las más adecuadas para satisfacer sus inquietudes.
 
 <figure style="text-align: center">
@@ -1743,11 +1792,14 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 | 29      | HU10          | Cambio de Nombre                                       | Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.                                                                             | 1                                |
 
 # CHAPTER 4
+
 # PRODUCT DESIGN
-## 4.1.	Style Guidelines.
+
+## 4.1. Style Guidelines.
+
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
 
-### 4.1.1.	General Style Guidelines.
+### 4.1.1. General Style Guidelines.
 
 **Brand Overview**
 
@@ -1756,7 +1808,7 @@ Nuestra solución (DocSeeker), nace en la misma necesidad de atención médica a
 
 **Brand Name**
 
-El nombre del software identificado es DocSeeker. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal médico especializado y por ello se optó por búsqueda de doctores. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. El equipo espera que la gente vincule a los doctores y el proceso de búsqueda cuando escuche el nombre de la solución, para que tenga una idea de que encontrara en nuestra interfaz. 
+El nombre del software identificado es DocSeeker. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal médico especializado y por ello se optó por búsqueda de doctores. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. El equipo espera que la gente vincule a los doctores y el proceso de búsqueda cuando escuche el nombre de la solución, para que tenga una idea de que encontrara en nuestra interfaz.
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
@@ -1868,7 +1920,7 @@ La tipografía es necesaria para estructurar y organizar el lenguaje visual de t
 
 **Tono de comunicación y lenguaje aplicado**
 
-**Color Primario:** Representa el color del uniforme básico de los profesionales de la salud, así generamos un ambiente de confianza entre el contratante y el personal médico, pues al usar nuestra aplicación percibirá este color como amigable y cuando vea al doctor o enfermero en su domicilio le parecerá amigable también a una primera impresión. 
+**Color Primario:** Representa el color del uniforme básico de los profesionales de la salud, así generamos un ambiente de confianza entre el contratante y el personal médico, pues al usar nuestra aplicación percibirá este color como amigable y cuando vea al doctor o enfermero en su domicilio le parecerá amigable también a una primera impresión.
 
 **Color Secundario:** Genera un efecto hipnótico sobre la vista y la mente. Es un color sustentador de la vida y este color encarna la alegría y el anhelo de volver a conectar con sus seres queridos. Entonces, este color aumenta la perspectiva del usuario en los beneficios que pueda obtener.
 
@@ -1876,40 +1928,38 @@ La tipografía es necesaria para estructurar y organizar el lenguaje visual de t
 
 **Negro:** Color serio y elegante.
 
-Siguientemente, el lenguaje a utilizar será serio, formal, respetuoso mezclado con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que avivarán las perspectivas del usuario. 
+Siguientemente, el lenguaje a utilizar será serio, formal, respetuoso mezclado con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que avivarán las perspectivas del usuario.
 Se tomaron en cuenta algunos elementos de diseño para optimizar la interfaz, pensando en los usuarios finales.
 
-
-### 4.1.2.	Web Style Guidelines.
+### 4.1.2. Web Style Guidelines.
 
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
 
 ![Imagen de Introduccion](/assets/4.1.2%20Introduccion.png)
 
-Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos como como About, Reserve su cita o el área de configuración.  Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto.
+Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos como como About, Reserve su cita o el área de configuración. Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto.
 
 ![Imagen de Patron z](/assets/4.1.2%20patron%20z%20.png)
 
-Siguientemente, el diseño de nuestra aplicación contara con colores que motiven al usuario a seguir interactuando con la plataforma. Asimismo, se contará con sombras y espacios que favorezcan la lectura de la información y limiten el contenido para no abrumar al navegante. 
+Siguientemente, el diseño de nuestra aplicación contara con colores que motiven al usuario a seguir interactuando con la plataforma. Asimismo, se contará con sombras y espacios que favorezcan la lectura de la información y limiten el contenido para no abrumar al navegante.
 Se emplearán algunos de los siguientes elementos:
 
 ![Imagen de Cuadros de Seleccion](/assets/4.1.2%20cuadros%20de%20seleccion.png)
 ![Imagen de Botones](/assets/4.1.2%20botones.png)
 
-
 ![Imagen de Elementos Grandes](/assets/4.1.2%20elementos%20grandes.png)
 
 ![Imagen](/assets/4.1.2%20tarjetas.png)
 
-Link para visualizar el figma con el Style Guidelines general: 
+Link para visualizar el figma con el Style Guidelines general:
 [https://www.figma.com/file/TJyGTgCV9lIF2z9YxlJOCi/Web-%26-Mobile-Style-Guidelines?node-id=1%3A152&t=2yc9uFV3BG287eKC-1](https://www.figma.com/file/TJyGTgCV9lIF2z9YxlJOCi/Web-%26-Mobile-Style-Guidelines?node-id=1%3A152&t=2yc9uFV3BG287eKC-1)
 
+## 4.2. Information Architecture
 
-
-## 4.2.	Information Architecture
 En esta sección, definiremos la estructuración de nuestro producto para cada uno de nuestros segmentos objetivo. Abarcaremos diversos componentes que permitirán al usuario a organizar y encontrar su contenido: Organization systems, Labeling systems, SEO Tags and Meta Tags, Searching systems y Navigation systems.
 
-### 4.2.1.	Organization Systems.
+### 4.2.1. Organization Systems.
+
 A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como también en cuales se utiliza algún tipo de categorización.
 
 **Segmento 1: Personas con dificultad para movilizarse**
@@ -1936,15 +1986,15 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 - **Lista de pacientes**: El profesional podrá visualizar los pacientes que debe atender durante el día a través de una lista de ellos. Esta información estará categorizada cronológicamente (en base al horario más próximo).
 
--	**Ingresos:** El profesional podrá llevar una bitácora de sus ingresos/transacciones por parte de la plataforma. Esta información estará categorizada por tópicos (Aprobado, Pendiente, Cancelado).
+- **Ingresos:** El profesional podrá llevar una bitácora de sus ingresos/transacciones por parte de la plataforma. Esta información estará categorizada por tópicos (Aprobado, Pendiente, Cancelado).
 
--	**Perfil del paciente:** El profesional podrá acceder al perfil del paciente para revisar su historial clínico. Esta información estará organizada de acuerdo con su relevancia.
+- **Perfil del paciente:** El profesional podrá acceder al perfil del paciente para revisar su historial clínico. Esta información estará organizada de acuerdo con su relevancia.
 
--	**Agenda de citas:** En esta sección el profesional podrá visualizar los pacientes que deba atender en ciertos días. Esta información se mostrará en una lista dónde el profesional podrá seleccionar la información de sus citas programadas.
+- **Agenda de citas:** En esta sección el profesional podrá visualizar los pacientes que deba atender en ciertos días. Esta información se mostrará en una lista dónde el profesional podrá seleccionar la información de sus citas programadas.
 
 **Secuencial:**
 
--	**Subir receta/tratamiento:** Este proceso deberá realizarse según ciertos pasos a seguir. Entre dichos pasos se incluyen la selección del paciente, descripción de los resultados del diagnóstico, receta/tratamiento a seguir, recomendaciones y la espera de la confirmación por la información puesta junto con un resumen de esta.  
+- **Subir receta/tratamiento:** Este proceso deberá realizarse según ciertos pasos a seguir. Entre dichos pasos se incluyen la selección del paciente, descripción de los resultados del diagnóstico, receta/tratamiento a seguir, recomendaciones y la espera de la confirmación por la información puesta junto con un resumen de esta.
 
 Cabe señalar que existen funcionalidades que comparten ambos públicos objetivos, entre las cuales tenemos:
 
@@ -1955,19 +2005,19 @@ Cabe señalar que existen funcionalidades que comparten ambos públicos objetivo
 
 **Matricial:**
 
-- **Menú de opciones:** Los 2 segmentos objetivo accederán a su menú principal respectivo dónde cada uno tendrá la libertad de seleccionar las funciones que deseen realiza en ese momento. Estas opciones no siguen un orden especifico, pero estarán bajo una categorización por tópicos ya que cada opción tiene una función diferente. 
--	**Sección de noticias:** Los 2 segmentos objetico tendrán acceso a una lista de noticias desplegada en forma de mosaicos. Estas noticias estarán bajo una categorización por tópicos (Ultimas noticias, Recomendaciones, etc.)
+- **Menú de opciones:** Los 2 segmentos objetivo accederán a su menú principal respectivo dónde cada uno tendrá la libertad de seleccionar las funciones que deseen realiza en ese momento. Estas opciones no siguen un orden especifico, pero estarán bajo una categorización por tópicos ya que cada opción tiene una función diferente.
+- **Sección de noticias:** Los 2 segmentos objetico tendrán acceso a una lista de noticias desplegada en forma de mosaicos. Estas noticias estarán bajo una categorización por tópicos (Ultimas noticias, Recomendaciones, etc.)
 
-### 4.2.2.	Labeling Systems.
+### 4.2.2. Labeling Systems.
 
 A continuación, se mostrará el sistema de etiquetado que permitirá a nuestros visitantes recibir la información que nuestra Landing page ofrece a través de una sola palabra.
 
 Contamos con cuatro “headings” con fuente sans-serif ubicadas en la parte superior del Landing page:
 
 - **Home:** Sección seleccionada por defecto dónde los usuarios verán la información más relevante, la cual captará su atención.
--	**About:** Sección dónde el cliente podrá ver nuestra misión, visión, quienes somos y qué hacemos.
--	**Services:** Sección enfocada en listar y detallar los servicios que ofrecemos.
--	**Contact:** Sección dónde se detalla cuáles son nuestros canales de comunicación y nuestra ubicación.
+- **About:** Sección dónde el cliente podrá ver nuestra misión, visión, quienes somos y qué hacemos.
+- **Services:** Sección enfocada en listar y detallar los servicios que ofrecemos.
+- **Contact:** Sección dónde se detalla cuáles son nuestros canales de comunicación y nuestra ubicación.
 
 En el caso del Web Aplication para pacientes contamos con cinco “headings” con fuente Lato ubicadas en el menú principal de la parte lateral izquierda:
 
@@ -1979,19 +2029,21 @@ En el caso del Web Aplication para pacientes contamos con cinco “headings” c
 
 En el caso del Web Aplication para profesionales de la salud contamos con cinco “headings” con fuente Lato ubicadas en el menú principal de la parte lateral izquierda:
 
--	**Home:** Sección seleccionada por defecto dónde se encuentran algunas noticias de gran importancia junto con las opciones principales dirigidas al profesional de salud.
--	**My profile:** Sección dónde se encuentran los datos personales del profesional de la salud.
--	**News:** Sección dónde el paciente puede visualizar noticias relacionadas con la salud.
--	**Reviews:** Sección dónde se muestran las reseñas recibidas por parte de los pacientes que el profesional ha atendido.
--	**Configuration:** Sección dónde el paciente puede realizar cambios en la configuración por defecto de la plataforma.
- 
-### 4.2.3.	SEO Tags and Meta Tags
+- **Home:** Sección seleccionada por defecto dónde se encuentran algunas noticias de gran importancia junto con las opciones principales dirigidas al profesional de salud.
+- **My profile:** Sección dónde se encuentran los datos personales del profesional de la salud.
+- **News:** Sección dónde el paciente puede visualizar noticias relacionadas con la salud.
+- **Reviews:** Sección dónde se muestran las reseñas recibidas por parte de los pacientes que el profesional ha atendido.
+- **Configuration:** Sección dónde el paciente puede realizar cambios en la configuración por defecto de la plataforma.
 
-A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing Page con el propósito de aumentar su visibilidad en los motores de búsqueda. 
+
+
+### 4.2.3. SEO Tags and Meta Tags
+
+A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing Page con el propósito de aumentar su visibilidad en los motores de búsqueda.
 
 Landing Page:
 
-~~~
+```
 <!DOCTYPE html>
 
 <html lang="en">
@@ -2021,13 +2073,13 @@ Landing Page:
 
 </head>
 
-~~~
+```
 
-### 4.2.4.	Searching Systems.
+### 4.2.4. Searching Systems.
 
 A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar la información que están buscando.
 
-Para el Landing Page, no se ha implementado un sistema de búsqueda, ya que la información esta segmentada y enlaza con el menú principal. Por esto mismo, podrán buscar toda la información necesaria para poder identificar lo más importante de nuestra solución, como a que nos dedicamos o cuales son nuestros servicios o principalmente podrán buscar los contactos para que puedan comunicarse con nosotros. 
+Para el Landing Page, no se ha implementado un sistema de búsqueda, ya que la información esta segmentada y enlaza con el menú principal. Por esto mismo, podrán buscar toda la información necesaria para poder identificar lo más importante de nuestra solución, como a que nos dedicamos o cuales son nuestros servicios o principalmente podrán buscar los contactos para que puedan comunicarse con nosotros.
 
 Para el caso del Web Application:
 
@@ -2049,11 +2101,11 @@ Para el caso del Web Application:
 
 - **Sección de noticias:** Es esta sección ambos segmentos objetivo podrán buscar la noticia de su interés a través de una barra de búsqueda dónde deberán ingresar el nombre de la noticia o algunas palabras clave. Las noticias serán filtradas en base a las palabras clave ingresadas o si se ingresó el nombre correcto de la noticia.
 
-### 4.2.5.	Navigation Systems.
+### 4.2.5. Navigation Systems.
 
 A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.
 
-Como se mencionó anteriormente en el Labeling Systems, contamos con cuatro “headings” en el Landing Page entre los cuales tenemos a Home, About, Services y Contact. Estas secciones son ubicadas como un menú global horizontal a lo largo de la parte superior del Landing page, se dividió la información en estas cuatro secciones con la finalidad de que el cliente no estuviera recorriendo hacia abajo, a través de la barra de desplazamiento vertical, la inmensidad de información disponible. Esto le facilitaría movilizarse a través de nuestro contenido. Por supuesto, la estrategia es que revise primero el Home, dónde se encuentra la información más relevante y la que llamará más su atención, y luego viaje a través del resto del menú de izquierda a derecha. 
+Como se mencionó anteriormente en el Labeling Systems, contamos con cuatro “headings” en el Landing Page entre los cuales tenemos a Home, About, Services y Contact. Estas secciones son ubicadas como un menú global horizontal a lo largo de la parte superior del Landing page, se dividió la información en estas cuatro secciones con la finalidad de que el cliente no estuviera recorriendo hacia abajo, a través de la barra de desplazamiento vertical, la inmensidad de información disponible. Esto le facilitaría movilizarse a través de nuestro contenido. Por supuesto, la estrategia es que revise primero el Home, dónde se encuentra la información más relevante y la que llamará más su atención, y luego viaje a través del resto del menú de izquierda a derecha.
 
 Por otro lado, en el caso del Web Application, se tiene una barra de navegación global-vertical-lateral dónde se encuentran las secciones principales de la interfaz del usuario. Estas secciones se navegan de la siguiente forma:
 
@@ -2061,7 +2113,7 @@ Por otro lado, en el caso del Web Application, se tiene una barra de navegación
 
 - **My profile:** Si el usuario desea editar su perfil solo debe ingresar a esta sección que se encuentra en la barra de navegación global-vertical-lateral.
 
-- **News:** Si el usuario desea ver una noticia relacionada a la salud solo debe ingresar a esta sección que se encuentra en la barra de navegación global-vertical-lateral y una vez dentro seleccionar la noticia de su interés. 
+- **News:** Si el usuario desea ver una noticia relacionada a la salud solo debe ingresar a esta sección que se encuentra en la barra de navegación global-vertical-lateral y una vez dentro seleccionar la noticia de su interés.
 
 - **Configuration:** Si el usuario desea editar la configuración de la interfaz solo debe ingresar a esta sección que se encuentra en la barra de navegación global-vertical-lateral y ajustar los cambios correspondientes.
 
@@ -2069,28 +2121,28 @@ Por otro lado, en el caso del Web Application, se tiene una barra de navegación
 
 - **Reviews:** Si el profesional de la salud desea revisar las reseñas que escriben sobre él solo debe ingresar a esta sección que se encuentra en la barra de navegación global-vertical-lateral.
 
+## 4.3. Landing Page UI Design
 
-## 4.3.	Landing Page UI Design
-
-Las Landing Pages son herramientas que se utilizan para convertir a los visitantes en potenciales clientes a través de diversas maneras como mensajes llamativos, información sobre tu producto entre otras cosas. Por ello se decidió hacer uso de esta herramienta, en la que diseñamos la versión preliminar para la versión del móvil y para computadoras.  
+Las Landing Pages son herramientas que se utilizan para convertir a los visitantes en potenciales clientes a través de diversas maneras como mensajes llamativos, información sobre tu producto entre otras cosas. Por ello se decidió hacer uso de esta herramienta, en la que diseñamos la versión preliminar para la versión del móvil y para computadoras.
 
 Para la versión móvil, se presenta el mismo contenido que en la versión de computadoras, pero esta presenta un diseño reorganizado para el tamaño de los dispositivos móviles, presentando un botón que el usuario podrá utilizar para navegar de una forma más cómoda a través de la Landing Page. Además de que es práctico el manejo de las opciones y el diseño que ayuda de forma visual para el usuario.
 
 Para la versión de computadora, se diseñó ventanas con opciones especificadas que ayuden al entendimiento del usuario, con la descripción de cada opción que posee el sitio web para que el usuario no tenga problemas, además la barra de navegación se encuentra en una posición estática para que se encuentre disponible para el usuario en todo momento y pueda navegar a través de la Landing Page de una forma cómoda.
 
-### 4.3.1.	Landing Page Wireframe.
+### 4.3.1. Landing Page Wireframe.
+
 En esta sección, se presentará base para el diseño del sitio web de nuestro software. Con bases que permitan dar una mejor idea del contenido que mostrará la plataforma y la versión móvil.
 
-El Landing Page debe ser del tamaño adecuado para las pantallas de cada ordenador por lo que la información estará centrada en la pantalla para que sea fácilmente visible para el usuario. 
+El Landing Page debe ser del tamaño adecuado para las pantallas de cada ordenador por lo que la información estará centrada en la pantalla para que sea fácilmente visible para el usuario.
 Buscamos colocar la información precisa sin abrumar para realizar este trabajo. Para esto ayudamos al usuario ofreciéndole una barra de navegación estática que lo facilitará en la navegación por la Landing Page.
 
 **Desktop Web**
 
 ![Imagen](/assets/4.3.1%20Desktop%20Web.png)
 
-Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.                 
+Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.
 
-![Imagen](/assets/4.3.1%20meet%20us.png)             
+![Imagen](/assets/4.3.1%20meet%20us.png)
 
 Opción que muestra datos para conocer mejor la plataforma.
 
@@ -2102,7 +2154,7 @@ Página de referencia para dar a conocer como contactar y la actualidad de la pl
 
 ![Imagen](/assets/4.3.1%20Contact%20us.png)
 
-Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1 ](https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1 )
+Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1 ](https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1)
 
 **Mobile Web**
 
@@ -2122,11 +2174,11 @@ Se muestra el bloque final de la aplicación, detallando contenido de comunicaci
 
 ![Imagen](/assets/4.3.1%20Mobile%20Web%204.png)
 
-Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1](https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1)  
+Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1](https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1)
 
-### 4.3.2.	Landing Page Mock-up.
+### 4.3.2. Landing Page Mock-up.
 
-Se presenta la versión preliminar en qué consistirá nuestro sitio web, detallando el contenido que tendrá, agregándole los colores respectivos según nuestra guía de estilos y añadiendo imágenes coherentes a la información mostrada para facilitar al usuario un entendimiento más claro de las ideas que tratamos de mostrar. 
+Se presenta la versión preliminar en qué consistirá nuestro sitio web, detallando el contenido que tendrá, agregándole los colores respectivos según nuestra guía de estilos y añadiendo imágenes coherentes a la información mostrada para facilitar al usuario un entendimiento más claro de las ideas que tratamos de mostrar.
 
 **Desktop Web Browser**
 
@@ -2137,7 +2189,7 @@ Se muestra la versión menú de la plataforma, detallando los principales conten
 Al elegir la opción “Meet Us” de la barra de herramientas del menú principal, se muestra 3 elecciones como adquisición del usuario que tendrá libertad de elegir cuál opción es su necesidad para informarse acerca de nuestro proyecto.
 
 ![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%202.png)
- 
+
 Se presenta los servicios que posee el usuario a lo largo del consumo del software.
 
 ![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%203.png)
@@ -2145,31 +2197,29 @@ Se presenta los servicios que posee el usuario a lo largo del consumo del softwa
 **Usuario: Familiares de los Pacientes**
 
 ![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%204.png)
- 
+
 **Usuario: Profesionales de Salud**
 
 ![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%205.png)
- 
+
 Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
 
 ![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%206.png)
- 
-Link: [https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1 ](https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1 )
 
-
+Link: [https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1 ](https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1)
 
 **Mobile Web Browser**
 
 Se presenta el bloque de menú principal de la Landing Page en su versión Mobile, junto con sus opciones de mayor interés para nuestro público objetivo y una breve descripción de nuestro software.
 
 ![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%201.png)
- 
+
 Se muestra el bloque de “Meet Us”, con información del proceso de nuestros tratamientos en base del profesional de salud asignado, consultas acerca de nuestro proceso del sistema, información de nuestra misión y de nuestras consultas.
 
 ![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%202.png)
 
 Se muestra el bloque de servicios que se ofrecen para los pacientes y los profesionales interesados en nuestro software.
- 
+
 ![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%203.png)
 
 ![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%204.png)
@@ -2181,120 +2231,116 @@ Se presenta como bloque final de la plataforma, información breve de contacto, 
 ![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%206.png)
 
 Link:
-https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1 
+https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1
 
-
-## 4.4.	Web Applications UX/UI Design
+## 4.4. Web Applications UX/UI Design
 
 A continuación, se presentan los diseños aplicados para nuestro Landing page y nuestro web Application.
 
+### 4.4.1. Web Applications Wireframes.
 
-### 4.4.1.	Web Applications Wireframes.
 **Segmento Objetivo familiares de pacientes o pacientes**
 
 ![Imagen](/assets/4.4.1%20Web%20Applications%20Wireframes.%201.png)
- 
+
 Link: https://www.figma.com/file/E3GznLyGX8hCczpdUo4fIu/Wireframes-Web-Design?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1
 
 **Segmento Objetivo profesionales de la salud**
 
 ![Imagen](/assets/4.4.1%20Web%20Applications%20Wireframes.%202.png)
- 
+
 Link: https://www.figma.com/file/E3GznLyGX8hCczpdUo4fIu/Wireframes-Web-Design?node-id=1%3A7007&t=nH5o2DX8ccnlARnb-1
- 
+
+
 
 **Mobile**
 
 ![Imagen](/assets/4.4.1%20Web%20Applications%20Wireframes.%203.png)
- 
-Link de los Wireframes: https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile-Wireframe?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1
- 
 
-### 4.4.2.	Web Applications Wireflow Diagrams.
+Link de los Wireframes: https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile-Wireframe?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1
+
+
+
+### 4.4.2. Web Applications Wireflow Diagrams.
 
 **Segmento Objetivo familiares de pacientes o pacientes**
 
 **User Goal:** Como paciente, deseo iniciar sesión para ingresar a DocSeeker
-**Descripción:** 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker. 
+**Descripción:**
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%201.png)
- 
+
 **User Goal:** Como paciente, deseo registrarme para ingresar a DocSeeker
 
-**Descripción:** 
+**Descripción:**
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder registrarse. Iniciará en el login, seleccionará la opción paciente y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%202.png)
 
- 
 **User Goal:** Como paciente deseo cambiar mi contraseña
 
 Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%203.png)
 
- 
 **User Goal:** Como paciente deseo visualizar mi historial médico.
 
-**Descripción:** 
+**Descripción:**
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en DocSeeker. 
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en DocSeeker.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%204.png)
- 
-**User Goal:**  Como paciente deseo subir mi historial médico.
 
-**Descripción:** 
+**User Goal:** Como paciente deseo subir mi historial médico.
+
+**Descripción:**
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder subir su historial médico dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Medical History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en DocSeeker.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%205.png)
- 
- 
+
 **User Goal:** Como paciente deseo visualizar el perfil de un profesional de la salud
 
-**Descripción:** 
+**Descripción:**
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de DocSeeker.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%206.png)
- 
+
 **User Goal:** Como paciente deseo ver las reseñas de un profesional de la salud
 
-**Descripción:** 
+**Descripción:**
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar las reseñas de un profesional de la salud. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de profesionales de la salud. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%207.png)
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%208.png)
- 
- 
+
 **User Goal:** Como paciente deseo publicar una nueva reseña a un profesional de la salud
 
-**Descripción:** 
+**Descripción:**
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder escribir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%209.png)
- 
- 
+
 **User Goal:** Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
-**Descripción:** 
+**Descripción:**
 
 En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2010.png)
- 
+
 **User Goal:** Como paciente deseo revisar mi perfil.
 
-**Descripción:** 
+**Descripción:**
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2011.png)
- 
+
 **User Goal:** Como paciente deseo editar mi información de perfil.
 
 **Descripción:**
@@ -2302,16 +2348,16 @@ En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Personal Information”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2012.png)
- 
+
 **User Goal:** Como paciente deseo revisar mi receta médica.
 
 **Descripción:**
 
-En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. 
+En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2013.png)
- 
-**User Goal:** Como paciente deseo ver noticias relacionadas con la salud. 
+
+**User Goal:** Como paciente deseo ver noticias relacionadas con la salud.
 
 **Descripción:**
 
@@ -2319,11 +2365,11 @@ En los presentes Wireflows se muestran las dos diferentes formas para realizar e
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2014.png)
- 
+
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2015.png)
- 
+
 **User Goal:** Como paciente, deseo pagar una cita escogida previamente para poder llevar a cabo el encuentro con el medico
 
 **Descripción:**
@@ -2331,7 +2377,7 @@ En el segundo, el proceso comienza en la sección de Inicio de sesión para lueg
 En el presente Wireflow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, se mostrará una ventana informando que el pago fue realizado correctamente.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2016.png)
- 
+
 **Segmento Objetivo profesionales de la salud**
 
 **User Goal:** Como profesional de la salud, deseo iniciar sesión para ingresar a DocSeeker
@@ -2341,18 +2387,18 @@ En el presente Wireflow, nos encontramos en la vista “Book your appointment”
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2017.png)
- 
+
 **User Goal:** Como profesional de la salud deseo registrarme para ingresar a DocSeeker
 
-**Descripción:** 
+**Descripción:**
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder registrarse. Iniciará en el login, seleccionará la opción profesional de la salud y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2018.png)
- 
+
 **User Goal:** Como profesional de la salud deseo cambiar mi contraseña
 
-**Descripción:** 
+**Descripción:**
 
 Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
@@ -2360,63 +2406,62 @@ Al momento de iniciar sesión, se presentará una opción de olvide mi contrase�
 
 **User Goal:** Como profesional de la salud, deseo ver todas las ofertas de citas médicas que me han llegado para aceptar o rechazarlas.
 
-**Descripción:** 
+**Descripción:**
 
-En el presente Wireflow, nos encontramos en la vista “My appointments”, donde se muestra todas las citas médicas que han sido solicitadas al médico. Al dar click a una de ellas, el sistema lleva al médico a la vista detallada de la cita médica, dónde podrá ver la razón de la cita, archivos adjuntos, entre otros. 
- 
+En el presente Wireflow, nos encontramos en la vista “My appointments”, donde se muestra todas las citas médicas que han sido solicitadas al médico. Al dar click a una de ellas, el sistema lleva al médico a la vista detallada de la cita médica, dónde podrá ver la razón de la cita, archivos adjuntos, entre otros.
+
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2020.png)
 
 **User Goal:** Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
 
-**Descripción:** 
+**Descripción:**
 
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de Dario Hernandez, un paciente en la aplicación web. Podemos visualizar sus datos personales, así como, todos los registros que han sido guardados cuándo se ha atendido con nosotros. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos explicando el problema y de qué trató la cita médica, se da click al botón “Save” para guardar el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio.
 Imagen
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2021.png)
- 
+
 **User Goal:** Como profesional deseo revisar mi perfil.
 
-**Descripción:** 
+**Descripción:**
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2022.png)
- 
+
 **User Goal:** Como profesional deseo revisar mi perfil.
 
-**Descripción:** 
+**Descripción:**
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Edit”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2023.png)
- 
+
 **User Goal:** Como profesional de la salud deseo revisar mis ingresos de la plataforma.
 
-**Descripción:** 
+**Descripción:**
 
-En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones. 
+En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2024.png)
-  
-**User Goal:** Como profesional de la salud deseo ver noticias relacionadas con la salud. 
 
-**Descripción:** 
+**User Goal:** Como profesional de la salud deseo ver noticias relacionadas con la salud.
+
+**Descripción:**
 
 En los presentes Wireflows se muestran las dos diferentes formas para realizar este User Goal.
 
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2025.png)
- 
+
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2026.png)
- 
-Link: https://lucid.app/lucidspark/587ceaf6-87a8-4ada-9d27-11b6501079c9/edit?viewport_loc=-7324%2C-3408%2C15705%2C7849%2C0_0&invitationId=inv_fa50f490-aa9e-4fba-9616-175c7053898a  
 
+Link: https://lucid.app/lucidspark/587ceaf6-87a8-4ada-9d27-11b6501079c9/edit?viewport_loc=-7324%2C-3408%2C15705%2C7849%2C0_0&invitationId=inv_fa50f490-aa9e-4fba-9616-175c7053898a
 
-### 4.4.3.	Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 **Segmento Objetivo familiares de pacientes o pacientes**
 
@@ -2425,35 +2470,35 @@ Link: https://lucid.app/lucidspark/587ceaf6-87a8-4ada-9d27-11b6501079c9/edit?vie
 Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=design&node-id=0%3A1&mode=design&t=7vGrKimkJOv1wYyG-1
 
 **Segmento Objetivo profesionales de la salud**
- 
+
 ![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%202.png)![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%203.png)
- 
+
 Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=design&node-id=0%3A1&mode=design&t=7vGrKimkJOv1wYyG-1
- 
+
+
 
 **Mobile**
 
 ![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%204.png)
- 
-Link: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0%3A1&t=9iKqBfkwK3Wpcjnb-1 
 
+Link: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0%3A1&t=9iKqBfkwK3Wpcjnb-1
 
-### 4.4.4.	Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
 **Segmento Objetivo familiares de pacientes o pacientes**
 
 **User Goal:** Como paciente, deseo iniciar sesión
 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta. 
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%201.png)
- 
-**User Goal:**  Como paciente deseo registrarme para ingresar a DocSeeker
 
-Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión. 
+**User Goal:** Como paciente deseo registrarme para ingresar a DocSeeker
+
+Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%202.png)
- 
+
 **User Goal:** Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
 **Descripción:**
@@ -2461,13 +2506,13 @@ Al momento de iniciar el registro, el usuario deberá ingresar todos los datos q
 En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día. Si el usuario da click a una fecha que no está disponible, el sistema le mostrará un mensaje de advertencia, diciéndole que esa fecha no se encuentra disponible.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%203.png)
- 
+
 **User Goal:** Como paciente deseo visualizar mi historial médico
 
 **Descripción:**
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
- 
+
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%204.png)
 
 **User Goal:** Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendarla
@@ -2477,54 +2522,51 @@ En el presente UserFlow, se presenta el camino que deberá seguir el usuario pac
 En el presente UserFlow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, si no hay problemas con el pago, se mostrara una ventana informando que el pago fue realizado correctamente, en caso contrario, se mostrara una ventana indicando que hubo un error.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%205.png)
- 
 
 **User Goal:** Como paciente deseo publicar una reseña a un profesional de la salud
 
 **Descripción:**
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder añadir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, donde se dirigirá al perfil del doctor. Al momento de entrar al apartado de reseñas mediante “See Reviews”, se presentarán dos posibles escenarios, uno en el que el médico cuenta con reseñas previas y se presentarán en una lista, y otro en el que no presenta aún ni una reseña y saldrá un mensaje que indica este hecho. En ambos casos, se presentará la opción de publicar una nueva con lo que saldrá el formulario de reseñas. Una vez se selecciona publicar la reseña saldrá un mensaje de confirmación.
- 
+
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%206.png)
 
 **User Goal:** Como paciente deseo ver mi perfil de usuario a detalle
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información deberá dar click al botón “Personal Information”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
- 
+
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%207.png)
 
- 
 **User Goal:** Como paciente deseo revisar mi receta médica.
 
 En el presente User Flow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. Sin embargo, se puede dar el caso de que aún no se haya realizado la primera prescripción dentro de nuestra plataforma, en ese caso se le mostrará un mensaje al usuario de que aún no hay prescripciones disponibles.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%208.png)
- 
-**User Goal:**  Como paciente deseo ver noticias relacionadas con la salud.
+
+**User Goal:** Como paciente deseo ver noticias relacionadas con la salud.
 
 En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal.
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%209.png)
- 
+
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
- 
+
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2010.png)
 
 **Segmento Objetivo profesionales de la salud**
 
 **User Goal:** Como profesionales de la salud, deseo iniciar sesión
 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesionales de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta. 
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesionales de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2011.png)
 
- 
 **User Goal:** Como profesionales de la salud deseo registrarme para ingresar a DocSeeker
 
-Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión. 
+Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
 
- ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2012.png)
+![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2012.png)
 
 **User Goal:** Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
 
@@ -2533,85 +2575,90 @@ Al momento de iniciar el registro, el usuario deberá ingresar todos los datos q
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y dar click al botón “Save”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da click al botón “Save”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2013.png)
- 
+
 **User Goal:** Como profesional deseo editar mi información de perfil
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la información de perfil y editarla si es que se desea. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información a detalle deberá dar click al botón “Edit”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2014.png)
- 
+
 **User Goal:** Como profesional deseo visualizar mis reseñas
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a las reseñas que ha recibido por su servicio. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y desde esta vista se puede visualizar las reseñas recientes, pero en caso se deseen visualizar todas a más detalle el usuario deberá dar click al botón “More”, en caso el usuario aún no tenga ninguna reseña se mostrará una ventana con un mensaje notificándolo, caso contrario se visualizarán todas las reseñas disponibles realizadas.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2015.png)
- 
+
 **User Goal:** Como profesional de la salud deseo revisar mis ingresos de la plataforma.
 
 En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones. Sin embargo, si aún no han recibido ninguna transacción entonces el cuadro estadístico no mostrará ninguna medición y el historial estará vacío.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2016.png)
- 
-**User Goal:**  Como profesional de la salud deseo ver noticias relacionadas con la salud.
+
+**User Goal:** Como profesional de la salud deseo ver noticias relacionadas con la salud.
 
 En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal.
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2017.png)
- 
+
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
- 
+
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2018.png)
 
 Link: https://lucid.app/lucidspark/6ad6cde8-3b52-4568-a875-363f1c082e24/edit?viewport_loc=-10887%2C-5365%2C23653%2C11820%2C0_0&invitationId=inv_fa5798b1-94ea-4e80-a88b-92c55dc10da8
 
-
-## 4.5.	Web Applications Prototyping
+## 4.5. Web Applications Prototyping
 
 A continuación, se detallarán los principales criterios para las decisiones de interacción (elementos de la interfaz y los principios aplicados a ellos) relacionados con la Arquitectura de información para nuestra aplicación en las plataformas IOS y Android. Asimismo, se adjuntarán dos videos evidenciando lo propuesto para una mejor comprensión. Cabe señalar que ambas plataformas móviles compartirán la misma estructura, salvo algunos detalles visuales.
 
 **Botones/Tarjetas del menú principal**
 
 Cada segmento objetivo tiene su propio menú principal con sus propios botones. Asimismo, incluimos unas tarjetas con las principales noticias. Para ello nos hemos basado en los siguientes principios:
- - **Principio de los objetos:** Agrupamos el contenido relacionado dentro de sus botones y tarjetas respectivas, los cuales se comportarán de una forma determinada. Asimismo, cada botón tendrá sus propios atributos respecto a cómo visualizar la información contenida en ellos.
+
+- **Principio de los objetos:** Agrupamos el contenido relacionado dentro de sus botones y tarjetas respectivas, los cuales se comportarán de una forma determinada. Asimismo, cada botón tendrá sus propios atributos respecto a cómo visualizar la información contenida en ellos.
 
 **Listas**
 
 Distintas secciones dentro de nuestra aplicación utilizan las listas, tales como: lista de pacientes, lista de profesionales de la salud, citas programadas, etc. Para ello nos hemos basado en los siguientes principios:
+
 - **Principio de las elecciones:** Darle al usuario final demasiadas opciones puede ser abrumador, así que nuestras listas tienen un límite de muestra, es decir, si tenemos muchos elementos en nuestra lista, entonces solo mostraremos diez de ellos, el usuario podrá decidir si le es necesario ver el resto a través de un botón (ver más).
-- **Principio del crecimiento:** Al utilizar las listas, no nos vemos afectados por el crecimiento, ya que, cualquier información nueva adicionada se colocará al final de la lista. 
+- **Principio del crecimiento:** Al utilizar las listas, no nos vemos afectados por el crecimiento, ya que, cualquier información nueva adicionada se colocará al final de la lista.
 
 **Filtros**
 
 Los filtros implementados están relacionados directamente con los elementos del punto anterior, ya que, siguen el siguiente principio:
+
 - **Principio de clasificación múltiple:** Debido a que las personas clasifican la información de manera diferente y tienden a tener múltiples sistemas de clasificación, hemos desarrollado filtros para las listas en base a los nombres, especialidades médicas, puntuación del profesional, etc.
 
 **Resúmenes de contenido**
 
 Estos resúmenes están estrechamente relacionados con las listas de pacientes o profesionales de salud, ya que, ambos necesitan un poco de información de la otra parte, ya sea para sacar cita médica o revisar la agenda de pacientes. Es por ello, por lo que se sigue el siguiente principio:
+
 - **Principio de divulgación:** Solo mostramos la información suficiente para ayudar a nuestros usuarios a comprender con qué tipo de paciente o profesional de la salud van a tratar. Si deciden profundizar más a detalle, lo seleccionarán y serán redirigidos a su perfil.
 
 **Etiquetas**
 
 Cada sección de nuestra aplicación está acompañada de una etiqueta superior con el nombre respectivo de la ventana dónde se encuentran los usuarios, respetando el siguiente principio:
+
 - **Principio de las puertas de entrada:** Cada sección/ventana de nuestra aplicación habla por sí, nuestras etiquetas permiten a nuestros usuarios establecer un sentido de lugar (es decir, dónde están y qué pueden hacer a continuación).
- 
+
 **Menús**
 
 Nuestra aplicación consta de 2 menús, uno se encuentra en la parte inferior de forma horizontal (secciones principales) y el otro en la parte lateral derecha de forma vertical (secciones secundarias). Esto debido al siguiente principio:
-- **Principio de navegación enfocada:** Debemos tener en cuenta como nuestros usuarios navegan por el contenido de nuestra aplicación, por lo que se implementaron estos dos menús. El objetivo fue tener dos diferentes menús para los dos diferentes tipos de información. 
-Introducción de los flujos de interacción mostrados en el video:
-- **Principales:**
-    - **Sacar cita:** El paciente saca una cita con un profesional de la salud escogiendo al profesional, la fecha, el horario y finalmente ingresando su medio de pago. Utilizando filtros en el proceso.
-    - **Generar un nuevo horario de atención:** El profesional de la salud escoge la fecha y la hora en la que quiere habilitar un horario de atención.
-    - **Subir los resultados del diagnóstico:** El profesional de la salud revisa su lista de pacientes y selecciona al paciente al que quiere enviarle los resultados de su diagnóstico. Utilizando filtros en el proceso.
-- **Secundarios:**
-    - **Ver perfil de usuario:** El usuario navega hacia su perfil a través del menú principal de la parte inferior.
-    - **Ver perfil del profesional de salud que se va a contratar:** El paciente revisa el perfil del profesional de la salud que quiere contratar para ver información más detallada sobre él.
-    - **Ver información completa de las tarjetas informativas:** El paciente ingresa a una de las tarjetas informativas de la venta principal, dónde puede revisar la información completa sobre la noticia.
-    - **Revisar citas pendientes** (esta no se incluyó en el video por pasarse de los 5 min): El profesional de la salud revisa la lista de pacientes que debe atender en un día en específico.
 
-Por otro lado, también se respetaron los principios y elementos del Style Guidelines detallado anteriormente (sección 4.1. Style Guidelines). Dentro de los cual se puede evidenciar la implementación de los colores rojo (#FD5D5D), azul (#0093AB), blanco (#FFFFFF) y gris (#E0E0E0), como también del logo, tipografía y espaciado de elementos con los tamaños y fuentes correspondientes a las plataformas IOS y Android. Asimismo, se insertaron los cuadros de selección (calendario de citas y lista de filtros), los botónes con sus bordes acorde a la plataforma, las tarjetas (tarjetas informativas en el menú principal), los Top Bar y el uso de opciones emergentes (ventanas de confirmación). 
+- **Principio de navegación enfocada:** Debemos tener en cuenta como nuestros usuarios navegan por el contenido de nuestra aplicación, por lo que se implementaron estos dos menús. El objetivo fue tener dos diferentes menús para los dos diferentes tipos de información.
+  Introducción de los flujos de interacción mostrados en el video:
+- **Principales:**
+  - **Sacar cita:** El paciente saca una cita con un profesional de la salud escogiendo al profesional, la fecha, el horario y finalmente ingresando su medio de pago. Utilizando filtros en el proceso.
+  - **Generar un nuevo horario de atención:** El profesional de la salud escoge la fecha y la hora en la que quiere habilitar un horario de atención.
+  - **Subir los resultados del diagnóstico:** El profesional de la salud revisa su lista de pacientes y selecciona al paciente al que quiere enviarle los resultados de su diagnóstico. Utilizando filtros en el proceso.
+- **Secundarios:**
+  - **Ver perfil de usuario:** El usuario navega hacia su perfil a través del menú principal de la parte inferior.
+  - **Ver perfil del profesional de salud que se va a contratar:** El paciente revisa el perfil del profesional de la salud que quiere contratar para ver información más detallada sobre él.
+  - **Ver información completa de las tarjetas informativas:** El paciente ingresa a una de las tarjetas informativas de la venta principal, dónde puede revisar la información completa sobre la noticia.
+  - **Revisar citas pendientes** (esta no se incluyó en el video por pasarse de los 5 min): El profesional de la salud revisa la lista de pacientes que debe atender en un día en específico.
+
+Por otro lado, también se respetaron los principios y elementos del Style Guidelines detallado anteriormente (sección 4.1. Style Guidelines). Dentro de los cual se puede evidenciar la implementación de los colores rojo (#FD5D5D), azul (#0093AB), blanco (#FFFFFF) y gris (#E0E0E0), como también del logo, tipografía y espaciado de elementos con los tamaños y fuentes correspondientes a las plataformas IOS y Android. Asimismo, se insertaron los cuadros de selección (calendario de citas y lista de filtros), los botónes con sus bordes acorde a la plataforma, las tarjetas (tarjetas informativas en el menú principal), los Top Bar y el uso de opciones emergentes (ventanas de confirmación).
 
 **Desktop Web Browser**
 
@@ -2626,199 +2673,217 @@ En el presente video se evidencia y detallan las opciones disponibles para ambos
 **Relaciones padre-hijo, cada objeto puede estar subordinado a un solo objeto principal:** Los elementos más representativos de esto serían los botones y la barra de navegación, ya que al ser replicadas en casi todos los mockups se desarrolló una relación padre-hijo para mantener el mismo diseño en cada uno de ellos.
 
 ![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%201.png)
- 
+
 Link del prototipo: https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-id=0%3A1&t=aRfojyUWKFxYKa5v-1
 
 **Evidencia visual del video o screenshoot:**
 
 ![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%202.png)
- 
-Link: https://web.microsoftstream.com/video/6dd0f3d0-869e-4faf-9c8c-d00f03e65a41 
- 
+
+Link: https://web.microsoftstream.com/video/6dd0f3d0-869e-4faf-9c8c-d00f03e65a41
+
+
 
 **Mobile Web Browser**
 
 ![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%203.png)
- 
+
 Link de prototipo Android y iOS: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0-1&t=2EP6wgOyjfHFJL31-0
 
 **Evidencia visual del video o screenshoot:**
 
 ![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%204.png)
- 
 
-  
-Link de Stream: https://web.microsoftstream.com/video/7fa44ae7-d482-4428-9d4c-12d42ff6329c 
+Link de Stream: https://web.microsoftstream.com/video/7fa44ae7-d482-4428-9d4c-12d42ff6329c
 
-## 4.6.	Domain-Driven Software Architecture
+## 4.6. Domain-Driven Software Architecture
 
-### 4.6.1.	Software Architecture Context Diagram
+### 4.6.1. Software Architecture Context Diagram
 
-En el presente diagrama se detallan cómo interactúan los usuarios (personas con dificultad para movilizarse y profesionales de la salud) con nuestro sistema de software y con sistemas externos, en este caso, el servicio de correos de Microsoft Exchange y el sistema de pasarela de pago. 
+En el presente diagrama se detallan cómo interactúan los usuarios (personas con dificultad para movilizarse y profesionales de la salud) con nuestro sistema de software y con sistemas externos, en este caso, el servicio de correos de Microsoft Exchange y el sistema de pasarela de pago.
 
 ![Imagen](/assets/4.6.1.%20Software%20Architecture%20Context%20Diagram%201.png)
- 
-### 4.6.2.	Software Architecture Container Diagrams
+
+
+
+### 4.6.2. Software Architecture Container Diagrams
+
 A continuación, se mostrará el diagrama de contenedores de nuestro sistema. Este artefacto es el segundo nivel del modelo C4 y presenta los componentes técnicos de manera más detallada, lo cual genera una ampliación en la visión de la arquitectura del software.
 
 ![Imagen](/assets/4.6.2.%20Software%20Architecture%20Container%20Diagrams%201.png)
 
-### 4.6.3.	Software Architecture Components Diagrams
+### 4.6.3. Software Architecture Components Diagrams
+
 En esta sección se presentará el diagrama de componentes de nuestra arquitectura de software, en este se detallan los componentes de nuestros contendores, asimismo, se indican sus responsabilidades y los detalles de tecnología e implementación.
 
 ![Imagen](/assets/4.6.3.%20Software%20Architecture%20Components%20Diagrams%201.png)
 
-## 4.7.	Software Object-Oriented Design
-### 4.7.1.	Class Diagrams
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
 
 ![Imagen](/assets/4.7.1.%20Class%20Diagrams%201.png)
- 
-### 4.7.2.	Class Dictionary
 
-User: esta clase será el padre de las clases Patient y HealthProfessional, se encargará de heredarles diversos métodos y atributos. Alguno de los atributos que les heredara son los de nombre, dni, edad, tipo de usuario, etc. De igual forma, les heredara los getter y setters de dichos atributos. 
 
-Patient:  Esta clase representará el usuario paciente y además de los atributos heredados por la clase padre, también poseerá los atributos de dirección, la historia médica y las distintas citas médicas que tiene programadas. Además, la historia medica es una clase que depende de la existencia de la clase paciente. Sus métodos son el constructor y ShowPatientInfo que se encargara de mostrar toda la información de dicho paciente.
+
+### 4.7.2. Class Dictionary
+
+User: esta clase será el padre de las clases Patient y HealthProfessional, se encargará de heredarles diversos métodos y atributos. Alguno de los atributos que les heredara son los de nombre, dni, edad, tipo de usuario, etc. De igual forma, les heredara los getter y setters de dichos atributos.
+
+Patient: Esta clase representará el usuario paciente y además de los atributos heredados por la clase padre, también poseerá los atributos de dirección, la historia médica y las distintas citas médicas que tiene programadas. Además, la historia medica es una clase que depende de la existencia de la clase paciente. Sus métodos son el constructor y ShowPatientInfo que se encargara de mostrar toda la información de dicho paciente.
 
 HealthProfessional: Esta clase representa el usuario profesional de la salud y además de los atributos heredados por la clase padre, también poseerá los atributos de especialidad, años de experiencia y, al igual que el paciente, las distintas citas médicas que tiene programadas. De igual forma, tiene un método llamado ShowHealthProfessionalInfo que muestra la información del profesional.
 
 MedicalAppointment: Esta clase depende de las clases Patient y HealthProfessional. Contiene atributo de tipo Patient, HealthProfessional y la fecha, costo e información de la cita médica. Se puede observar de igual forma que, un paciente y un profesional de la salud pueden tener de 0 a más citas médicas, sin embargo, una cita médica solo puede pertenecer a un solo paciente y profesional de la salud. Esta clase posee los métodos getNameProfessional que se encarga de devolver el nombre del profesional para la cita médica y también el getNamePatient que se encarga de devolver el nombre del paciente que tendrá la cita. Además, existe el método showAppointmentInfo que tiene como finalidad brindar la información completa sobre la cita médica.
 
 Pharmacy: Esta clase representa las farmacias dentro de la aplicación. Sus atributos son el nombre del negocio, la localización y un arreglo de productos de tipo HealthProduct. Asimismo, posee los métodos getters y setters correspondientes. Además, posee un método denominado addProduct para agregar más productos al inventario de la farmacia. De igual manera, tiene el método showProductList, el cual se encarga de mostrar todos los productos disponibles en la farmacia.
- 
+
 HealthProduct: Esta clase depende de la clase Pharmacy y puede pertenecer solo a un objeto de tipo Pharmacy. Además, una farmacia puede tener de 0 a más productos, sin embargo, un HealthProduct o producto médico, solo puede pertenecer a una farmacia. Sus atributos son el tipo de producto, el stock de dicho producto, el nombre del producto y el costo. Sus métodos son el constructor y el ShowProductInfo que se encarga de mostrar toda la información correspondiente al producto.
- 
-## 4.8.	Database Design
-### 4.8.1.	Database Diagram
+
+
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
 
 ![Imagen](/assets/4.8.1.%20Database%20Diagram%201.png)
- 
+
 Entidades de la base de datos
 
 **Appointment:**
 
 Esta entidad representa una cita médica y es la tabla que une a nuestra entidad Patient y Doctor. Esto se debe a que, una vez que el Patient haya sacado una cita, será enlazado con un Doctor. Los atributos de esta entidad son:
--	Date
--	Time
--	Description
--	PatientId
--	DoctorId
--	MedicineId
--	PaymentId
 
+- Date
+- Time
+- Description
+- PatientId
+- DoctorId
+- MedicineId
+- PaymentId
 
 **PaymentDetail**
 
 Esta entidad contiene los datos específicos del pago de la cita. Lo unimos a la entidad Appointment, ya que el pago puede variar dependiendo la razón y especialidad de la cita médica. Algunos de los atributos que identificamos son:
--	Subtotal
--	Discount
--	RetentionPercentage
--	RetentionAmount
+
+- Subtotal
+- Discount
+- RetentionPercentage
+- RetentionAmount
 
 **Doctor**
 
 Esta entidad es uno de nuestros segmentos objetivos: el usuario profesional de la salud. Los atributos más importantes y que queremos que perduren en el tiempo son:
--	Name
--	LastName
--	Specialty
+
+- Name
+- LastName
+- Specialty
 
 **Patient**
 
 Esta entidad representa uno de nuestros segmentos objetivos: el usuario paciente. Esta entidad tiene una relación de 1 a muchos con la tabla appointment, ya que un paciente puede sacar 1 o muchas citas médicas en la aplicación web. Sus entidades son:
--	Name
--	LastName
--	Age
--	DNI 
- 
+
+- Name
+- LastName
+- Age
+- DNI
+
+
 
 **Medicine**
 
 La entidad Medicine estará unida a Appointment por medio de una tabla puente. Tiene una relación de 0 a muchos porque, en una cita médica, un medicamento puede ser recetado, pero también puede ser que no se crea necesario recetar alguna medicina al paciente. Sus atributos son:
--	PharmacyId
--	Name
--	Price
--	Description
--	ShopURL
+
+- PharmacyId
+- Name
+- Price
+- Description
+- ShopURL
 
 **Pharmacy**
 
 Esta entidad nos permitirá almacenar los datos de la tienda donde la medicina se encuentra disponible. De esta forma podremos redirigir al paciente a la URL correcta cuando desee comprar algún medicamento. Los atributos son:
--	Name
--	Address
--	Description
--	WebsiteURL
+
+- Name
+- Address
+- Description
+- WebsiteURL
 
 **Record**
 
 Esta entidad es muy importante, ya que almacena una entrada del historial médico del paciente. En cada fila, se añadirá una cita médica con su descripción y esta será almacenada con el PatientId correspondiente. Los atributos que tiene son:
--	Date
--	Time
--	Description
 
-
+- Date
+- Time
+- Description
 
 # 5. Product Implementation, Validation & Deployment
+
 ## 5.1 Software Configuration Management
+
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
+
 ### 5.1.1. Software Development Environment Configuration.
-En esta sección se incluye los links de las aplicaciones, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron. 
+
+En esta sección se incluye los links de las aplicaciones, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron.
 
 Para ello se clasificará en las siguientes secciones:
 
 - Project Management
 - Requirements Management
-- Product UX/UI Design 
+- Product UX/UI Design
 - Software Development
 - Software Testing
 - Software Deployment
 - Software Documentation
 
-Y clasificar los elementos de las secciones si es ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software. 
+Y clasificar los elementos de las secciones si es ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software.
 
 **Project Management**
 
 Es la disciplina basada en la gestión de los proyectos, la cual tiene como objetivo principal mejorar los procesos y su entorno para alcanzar los resultados esperados.
 
-- Trello: Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application. 
+- Trello: Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application.
 
-<https://trello.com/es> 
+<https://trello.com/es>
 
 **Requirements Management**
 
 Es el proceso de garantizar que una organización documente verifique y satisfaga las necesidades, expectativas de sus clientes con las partes interesadas internas o externas.
 
-- **Pivotal Tracker:** Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándoles en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparte la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto. <https://www.pivotaltracker.com/n/projects/2603049> 
+- **Pivotal Tracker:** Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándoles en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparte la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto. <https://www.pivotaltracker.com/n/projects/2603049>
 
-**Product UX/UI Design** 
+**Product UX/UI Design**
 
-Esta herramienta permite desarrollar el modelo en nuestro producto de manera digital y forme parte de la vida del consumidor.  En este caso realizar un modelo de sitio web para computadoras y celulares.
+Esta herramienta permite desarrollar el modelo en nuestro producto de manera digital y forme parte de la vida del consumidor. En este caso realizar un modelo de sitio web para computadoras y celulares.
 
 - **Uxpressia:** es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.
 
-<https://uxpressia.com/> 
+<https://uxpressia.com/>
 
 - **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
 
-<https://miro.com/app/dashboard/> 
+<https://miro.com/app/dashboard/>
 
 - **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.
 
-<https://www.figma.com/design/> 
+<https://www.figma.com/design/>
 
 - **Lucid Chart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
 
-<https://lucid.app/documents#/dashboard> 
+<https://lucid.app/documents#/dashboard>
 
-- **Structurizr :** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
+- **Structurizr :** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución.
 
-<https://structurizr.com/> 
+<https://structurizr.com/>
 
 **Software Development**
 
 Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso.
 
-- **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas. 
+- **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas.
 
-<https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3> 
+<https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3>
 
 - **Web Storm:** Es un entorno de JetBrains, empresa desarrolladora de Software, orientado en el desarrollo web en JavaScript. Este nos ofrece facilidad en probar nuestro entorno web en navegadores como Google. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS , JavaScript y TypeScript.
 
@@ -2826,35 +2891,35 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
 
 - **Visual Studio Code:** Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea <a name="_hlk113961326"></a>más eficiente. Asimismo, se empleará para poder construir el backend de nuestro web Applications.
 
-<https://code.visualstudio.com/> 
+<https://code.visualstudio.com/>
 
 - **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web. Asimismo, la disponibilidad de trabajar HTML junto con CSS y JavaScript. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.
 
-<https://www.jetbrains.com/help/webstorm/editing-html-files.html> 
+<https://www.jetbrains.com/help/webstorm/editing-html-files.html>
 
 - **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. Además, se puede diseñar un estilo en CSS y compartirlo en el web elaborado en HTML. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.
 
-<https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion> 
+<https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion>
 
 - **JavaScript:** Es un lenguaje de programación que es analizado por otros programas. Este trabaja en POO (programación orientada en objetos) para prototipos sin implementación con clases. Este programa permite realizar dinámicas para el usuario a través de la lógica de la programación. Se utilizará para la elaboración de las dinámicas de la plataforma web.
 
-<https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html> 
+<https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html>
 
 - **Java:** Es un lenguaje de programación y una plataforma informática mundialmente conocida y favorito de muchos.
 
-<https://www.java.com/es/> 
+<https://www.java.com/es/>
 
 - **TypeScript:** Es un superset de JavaScript. Este lenguaje nos permite aplicar programas de javaScript, pero cabe resaltar que no funciona al revés. Su principal funcionalidad es que pone a disposición del desarrollador librerías y frameworks que existen para JavaScript.
 
-<https://www.typescriptlang.org/> 
+<https://www.typescriptlang.org/>
 
 - **Angular:** Framework de TypeScript, de código abierto, utilizado para desarrollar SPA.
 
-<https://angular.io> 
+<https://angular.io>
 
 **Software Testing**
 
-Es el acto de examinar los artefactos y el comportamiento del software bajo prueba mediante validación y verificación. 
+Es el acto de examinar los artefactos y el comportamiento del software bajo prueba mediante validación y verificación.
 
 - **Lenguaje Gherkins:** Es un DSL o Lenguaje Específico de Dominio (Domain-Specific Languaje), es decir, un lenguaje que está creado para resolver un problema. Además de ser interpretado en código, se puede agregar los users stories del programa con sus respectivas partes: Feature, Scenario, Example, Scenario Outline, Given, When, Then y And.
 
@@ -2868,26 +2933,25 @@ Es el acto de examinar los artefactos y el comportamiento del software bajo prue
 
 - **Firebase:** Servicio de firebase para poder alojar nuestra web Application front end.
 
-[**https://firebase.google.com/?hl=es](https://firebase.google.com/?hl=es)** 
+[\*\*https://firebase.google.com/?hl=es](https://firebase.google.com/?hl=es)\*\*
 
 **Software Documentation**
 
 Es un tipo de texto escrito o ilustración que acompaña al software de computadora o está incrustado en el código fuente. La documentación explica cómo funciona el software o cómo usarlo.
 
-- **OpenAPI Specification vía Swagger**: Es una especificación para archivos de interfaz legibles por máquina para describir, producir y visualizar servicios web RESTful. 
+- **OpenAPI Specification vía Swagger**: Es una especificación para archivos de interfaz legibles por máquina para describir, producir y visualizar servicios web RESTful.
 
-<https://swagger.io/specification/> 
-
-
+<https://swagger.io/specification/>
 
 ### 5.1.2. Source Code Management
+
 A continuación, se presenta la gestión de código fuente o como es conocido por sus siglas en ingles SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizara a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se empleará como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos **GitHub**.
 
-URL de la Organización: <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3> 
+URL de la Organización: <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3>
 
-URL del Repositorio del Landing Page: <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3/LandingPage-Medicare> 
+URL del Repositorio del Landing Page: <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3/LandingPage-Medicare>
 
-URL del Repositorio de Web Services: Por el momento el equipo no ha creado un repositorio, puesto que no comenzamos con la implementación. 
+URL del Repositorio de Web Services: Por el momento el equipo no ha creado un repositorio, puesto que no comenzamos con la implementación.
 
 URL del Repositorio de Frontend Web Applications: Por el momento el equipo no ha creado un repositorio, puesto que no se ha comenzado aún el desarrollo a código de este.
 
@@ -2895,7 +2959,7 @@ URL del Repositorio de las pruebas de aceptación: Por el momento el equipo no h
 
 **GitFlow**
 
-Es el modelo alternativo de creación de ramas en Git que en los últimos años se ha vuelto una herramienta indispensable para muchos desarrolladores. Este flujo de trabajo de control de versiones utiliza ramas y fue publicado y popularizado por Vincent Driessen. Su principal función es ayudar en la organización de la versión de un código, permitiendo la creación de nuevos Features y Hotfixes de manera organizada. 
+Es el modelo alternativo de creación de ramas en Git que en los últimos años se ha vuelto una herramienta indispensable para muchos desarrolladores. Este flujo de trabajo de control de versiones utiliza ramas y fue publicado y popularizado por Vincent Driessen. Su principal función es ayudar en la organización de la versión de un código, permitiendo la creación de nuevos Features y Hotfixes de manera organizada.
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.001.png)
 
@@ -2903,26 +2967,24 @@ Como se mencionó anteriormente, GitFlow trabaja con branches o ramas. A continu
 
 - Main Branches
   - main: es la rama principal, a partir de ella se recorrerán todas las ramas y contendrá la última versión y las anteriores creadas por los desarrolladores. Almacenara el historial de publicación oficial.
-  - Develop: Esta rama puede ser creada a partir de la master Branch, contara con todos los Features estables. Esto significa que a través de esta rama el equipo podrá integrar las funciones. 
+  - Develop: Esta rama puede ser creada a partir de la master Branch, contara con todos los Features estables. Esto significa que a través de esta rama el equipo podrá integrar las funciones.
 - Support Branches
 
 A diferencia de las ramas principales, estas branches tienen un tiempo de vida limitado, ya que se eliminar al realizar el merge con sus ramas primarias.
 
-- Feature: 
+- Feature:
   - Se ramifica de: develop
   - Debe fusionarse de nuevo en: develop
 
-Se emplean para desarrollar las nuevas funciones que se integraran en una versión siguiente. Cabe resaltar, que esta rama existe mientras este en proceso de desarrollo. Sin embargo, cuando el desarrollador culmine con esa función, se fusionará nuevamente a develop. 
+Se emplean para desarrollar las nuevas funciones que se integraran en una versión siguiente. Cabe resaltar, que esta rama existe mientras este en proceso de desarrollo. Sin embargo, cuando el desarrollador culmine con esa función, se fusionará nuevamente a develop.
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.002.png)
 
-
-
-- Realease: 
+- Realease:
   - Se ramifica de: develop
   - Debe fusionarse de nuevo en: develop / master
 
-Son aquellas que admiten la preparación de una nueva versión de producción. A través de esta rama, se permite corregir errores menores que surgieron en la etapa de desarrollo y preparar metadatos para su lanzamiento. Esto último genera que la develop Branch se autoriza para recibir nuevas funciones para la próxima versión, pues se generara cuando se acerque una fecha de publicación determinada. 
+Son aquellas que admiten la preparación de una nueva versión de producción. A través de esta rama, se permite corregir errores menores que surgieron en la etapa de desarrollo y preparar metadatos para su lanzamiento. Esto último genera que la develop Branch se autoriza para recibir nuevas funciones para la próxima versión, pues se generara cuando se acerque una fecha de publicación determinada.
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.003.png)
 
@@ -2930,8 +2992,7 @@ Son aquellas que admiten la preparación de una nueva versión de producción. A
   - Se ramifica de: master
   - Debe fusionarse de nuevo en: develop y master
 
-Estas ramas son muy similares a las reléase branches, ya que también están destinadas para una nueva versión de producción, pero con la diferencia que se ramifican de master y no de develop. Son llamadas como ramas de mantenimiento, corrección o soo hotfix. Su principal función, es reparar rápidamente las publicaciones de producción. Al terminar la corrección, debe fusionarse con master y esta debe etiquetarse con un nuevo número de versión. 
-
+Estas ramas son muy similares a las reléase branches, ya que también están destinadas para una nueva versión de producción, pero con la diferencia que se ramifican de master y no de develop. Son llamadas como ramas de mantenimiento, corrección o soo hotfix. Su principal función, es reparar rápidamente las publicaciones de producción. Al terminar la corrección, debe fusionarse con master y esta debe etiquetarse con un nuevo número de versión.
 
 **Principales motivos por los que el equipo empleara GitFlow.**
 
@@ -2944,44 +3005,44 @@ Estas ramas son muy similares a las reléase branches, ya que también están de
 
 **Feature Branch:** feature/name
 
-**Example:** 
+**Example:**
 
-1. feature/welcome, 
-1. feature/about, 
+1. feature/welcome,
+1. feature/about,
 1. feature/myfeature
 
-Antes de mostrar las convenciones para nombrar los reléase and hotfix branches. We have to mostrar cómo es que funciona el **Semantic Versioning Specification.** 
+Antes de mostrar las convenciones para nombrar los reléase and hotfix branches. We have to mostrar cómo es que funciona el **Semantic Versioning Specification.**
 
 Este es un sistema de versiones, cuyo uso ha ido aumentando con el transcurso del tiempo por los desarrolladores. Con ello, developers pueden visualizar la extensión de los cambios en el código fuente del proyecto.
 
-Inicialmente, la versión se basa de MAJOR.MINOR.PATCH (X.Y.Z). Asimismo, para comenzar a usar este sistema de versiones debemos declarar una API publica precisa y comprensible. Esta forma debe aumentar numéricamente según lo desarrollado por el equipo de software. 
+Inicialmente, la versión se basa de MAJOR.MINOR.PATCH (X.Y.Z). Asimismo, para comenzar a usar este sistema de versiones debemos declarar una API publica precisa y comprensible. Esta forma debe aumentar numéricamente según lo desarrollado por el equipo de software.
 
-El proyecto inicia su desarrollo con la versión 0.y.z, luego pasara a ser 1.0.0 cuando se defina la API pública. Siguientemente, se seguirán los criterios mostrados a continuación para incrementar la versión. 
+El proyecto inicia su desarrollo con la versión 0.y.z, luego pasara a ser 1.0.0 cuando se defina la API pública. Siguientemente, se seguirán los criterios mostrados a continuación para incrementar la versión.
 
 **Patch version** (Z), debe incrementarse si solo se introducen correcciones de errores compatibles con versiones anteriores.
 
-**Minor version** (Y), debe incrementarse si el equipo integra una nueva funcionalidad compatible con versiones anteriores en la API pública. Si alguna funcionalidad es obsoleta o si se introducen nuevas funcionalidades en el código privado. 
+**Minor version** (Y), debe incrementarse si el equipo integra una nueva funcionalidad compatible con versiones anteriores en la API pública. Si alguna funcionalidad es obsoleta o si se introducen nuevas funcionalidades en el código privado.
 
 Si se incrementa, la version del parche debe volver a 0.
 
-**Major version** (X), debe incrementarse si se generan cambios deslindados a versiones anteriores en la API pública. 
+**Major version** (X), debe incrementarse si se generan cambios deslindados a versiones anteriores en la API pública.
 
 Si se incrementa, Patch version y la minor version debe volver a 0.
 
-Existen etiquetas adicionales para los metadatos de compilación. 
+Existen etiquetas adicionales para los metadatos de compilación.
 
-**Ejemplo:**  MAJOR.MINOR. PATCH (X.Y.Z)
+**Ejemplo:** MAJOR.MINOR. PATCH (X.Y.Z)
 
 1. 1.9.0
 1. 1.10.0
 1. 2.0.0
 1. 1.0.0-alfa
 
-**Release Branch:**  release-\* (\* se cambia por la versión semántica).
+**Release Branch:** release-\* (\* se cambia por la versión semántica).
 
 **Ejemplo:** release-1.2.0
 
-**Hotfix Branch:**  hotfix-\* (\* se cambia por la versión semántica).
+**Hotfix Branch:** hotfix-\* (\* se cambia por la versión semántica).
 
 **Ejemplo:** hotfix-1.2.1
 
@@ -2997,7 +3058,7 @@ El commit debe estructurarse de la siguiente manera:
 
 Cabe recalcar que debe estar en “lower case”.
 
-**Type:** 
+**Type:**
 
 feat: Cuando se agrega un nuevo feature.
 
@@ -3011,7 +3072,7 @@ docs: commits que afectan solo a la documentación.
 
 refractor: commits que reescriben o reestructura el código, pero no cambia el comportamiento.
 
-perf: commits especiales que mejoran el rendimiento. 
+perf: commits especiales que mejoran el rendimiento.
 
 style: commits que no afectan el programa. (espacios en blanco, formato, puntos o comas faltantes).
 
@@ -3019,15 +3080,13 @@ test: commits que agregan pruebas.
 
 **Scope**
 
-Proporciona información contextual adicional, si bien es opcional, es bueno colocarlo para que el desarrollador lea un commit más específico. 
+Proporciona información contextual adicional, si bien es opcional, es bueno colocarlo para que el desarrollador lea un commit más específico.
 
-
-Es una parte obligatoria del formato de los commits, siempre debemos usar imperativo y no escribir en mayúsculas. 
+Es una parte obligatoria del formato de los commits, siempre debemos usar imperativo y no escribir en mayúsculas.
 
 Debe incluirse la motivación para el cambio y contrastarse con el comportamiento anterior. Es opcional y si lo usa debe usar el imperativo y es ideal para mencionar los identificadores de problemas y sus relaciones.
 
-
-Cualquier información sobre cambios importantes. Es opcional, puede incluir referencia al problema por su id y en esta sección se incluyen los BREAKING CHANGES: seguido de un espacio o dos satos de línea. 
+Cualquier información sobre cambios importantes. Es opcional, puede incluir referencia al problema por su id y en esta sección se incluyen los BREAKING CHANGES: seguido de un espacio o dos satos de línea.
 
 ` `Ejemplos:
 
@@ -3042,8 +3101,8 @@ refers to JIRA-1337
 
 BREAKING CHANGES: ticket enpoints no longer supports list all entites.
 
-
 ### 5.1.3. Source Code Style Guide & Conventions
+
 En esta sección se mostrarán las pautas, convenciones, estilos y principios que se utilizarán para cada uno de los lenguajes que se emplearán en la creación de nuestra aplicación, Medicare. La práctica de este conjunto de reglas es de suma importancia, ya que estas tienen el propósito de conservar la calidad estructural del software, dar una mayor legibilidad al código fuente y facilitar el mantenimiento del código.
 
 Dado que en este proyecto se utilizarán HTML, CSS y JavaScript para la codificación de la plataforma web y Gherkins para el proceso de prueba del programa; a continuación, se nombrarán y describirán las reglas y recomendaciones generales que tomaremos en cuenta al momento de usarlos.
@@ -3072,6 +3131,7 @@ Ejemplo de nomenclatura estándar de la sangría en HTML según W3Schools (s.f.)
 `    `<th>Description</th>
 
 `  `</tr>
+
 </table>
 
 Ejemplo de nomenclatura estándar de la sangría en CSS según W3Schools (s.f.):
@@ -3087,22 +3147,21 @@ function toCelsius(fahrenheit) {
 `  `return (5 / 9) \* (fahrenheit - 32);
 }
 
-Seguidamente, explicaremos las reglas específicas que se necesitan en cada lenguaje para entender el código de nuestro programa, Medicare.  
+Seguidamente, explicaremos las reglas específicas que se necesitan en cada lenguaje para entender el código de nuestro programa, Medicare.
 
 **HTML**
 
 Llamado así por las siglas del nombre en inglés HyperText Markup Language. HTML es un lenguaje de marcado que define la estructura de una página web. Además, cuenta con funciones capaces de determinar el comportamiento de distintas partes del contenido de la página, tales como el cambiar el tamaño del texto, aplicar cursiva, entre otros. Nosotros emplearemos HTML5, y las características y pautas a seguir para hacer uso de este lenguaje son las siguientes:
 
-
 - **Declare Document Type**
 
 El tipo de documento debe declararse en la primera línea de código. De acuerdo con Google (s.f.) HTML5 es de preferencia la mejor sintaxis para todo documento HTML, para declararla sólo es necesario copiar lo siguiente:
 
-<!DOCTYPE html> 
+<!DOCTYPE html>
 
-- **Blank Lines** 
+- **Blank Lines**
 
-Cada vez que, luego de un bloque, lista o tabla de gran longitud se inicie uno nuevo, se debe saltar la siguiente línea y dejarla en blanco para brindar mayor legibilidad y amenidad, así manifiesta W3Schools (s.f.).  
+Cada vez que, luego de un bloque, lista o tabla de gran longitud se inicie uno nuevo, se debe saltar la siguiente línea y dejarla en blanco para brindar mayor legibilidad y amenidad, así manifiesta W3Schools (s.f.).
 
 Ejemplo:
 
@@ -3126,9 +3185,8 @@ Ejemplo:
 Para los valores de los atributos se utilizan comillas dobles alrededor. De acuerdo con W3Schools (s.f.) Aunque esta característica no sea obligatoria, le da más legibilidad al código y es muy frecuente entre los desarrolladores.
 
 Ejemplo:
+
 <table class="striped">
-
-
 
 - **Multimedia Fallback**
 
@@ -3152,15 +3210,11 @@ El hecho de que en un documento HTML no haya un límite de palabras por línea, 
 
 Ejemplo según Google (s.f.):
 
-><button mat-icon-button color="primary" class="menu-button"(click)= "openMenu()"><mat-icon>menu< /mat-icon>< /button>
-
-
+> <button mat-icon-button color="primary" class="menu-button"(click)= "openMenu()"><mat-icon>menu< /mat-icon>< /button>
 
 **CSS**
 
 Llamado así por las siglas del nombre en inglés Cascading Style Sheets. CSS es un lenguaje de marcado que se centra en definir y mejorar la presentación de un documento que se basa en HTML. Las pautas que a seguir al momento de usar CSS son las siguientes:
-
-
 
 - **Shorthand Properties**
 
@@ -3170,7 +3224,7 @@ Ejemplo:
 
 border-top: 0;
 
-font: 100%/1.6 palatino, georgia, serif; 
+font: 100%/1.6 palatino, georgia, serif;
 
 padding: 0 1em 2em;
 
@@ -3184,8 +3238,6 @@ html {
 `  `background: #fff;
 `  `color: #404;
 }
-
-
 
 - **Property Name Stops**
 
@@ -3219,8 +3271,6 @@ html {
 `  `font-family: ‘open sans’, arial, sans-serif;
 }
 
-
-
 **JavaScript**
 
 Es un lenguaje de programación que otorga la posibilidad de indicar exactamente las acciones que debe ejecutar el navegador, indicando el orden de las tareas y el número de veces que se realizarán. Las indicaciones para usar JavaScript en nuestro proyecto son las siguientes:
@@ -3253,11 +3303,9 @@ function toCelsius(fahrenheit) {
 `  `return (5 / 9) \* (fahrenheit - 32);
 }
 
-
-
 - **Object Rules**
 
-Para la construcción de un objeto, al igual que en una función, se comienza con una llave al final de la primera línea, pero, esta vez, la llave de cierre debe estar acompañada de un punto y coma. Para las propiedades, se colocan dos puntos y un espacio para indicar su valor, el cual debe estar entre comillas dobles si este es un *string*.
+Para la construcción de un objeto, al igual que en una función, se comienza con una llave al final de la primera línea, pero, esta vez, la llave de cierre debe estar acompañada de un punto y coma. Para las propiedades, se colocan dos puntos y un espacio para indicar su valor, el cual debe estar entre comillas dobles si este es un _string_.
 
 Ejemplo estándar según W3School (s.f.):
 
@@ -3270,11 +3318,11 @@ const person = {
 
 **Gherkin**
 
-Es un Lenguaje Específico de Dominio (DSL por sus siglas en inglés) que tiene como objetivo la resolución de un problema en específico. Para ello, se generan casos para la validación de la característica en distintos escenarios. Gherkin cuenta con múltiples elementos, de los cuales, los más famosos y, además, más utilizados son *Feature, Scenario, Example, Scenario, Given, When* y *Then.* Las indicaciones para tomar en cuenta en el uso de Gherkin en nuestro código son las siguientes.
+Es un Lenguaje Específico de Dominio (DSL por sus siglas en inglés) que tiene como objetivo la resolución de un problema en específico. Para ello, se generan casos para la validación de la característica en distintos escenarios. Gherkin cuenta con múltiples elementos, de los cuales, los más famosos y, además, más utilizados son *Feature, Scenario, Example, Scenario, Given, When* y _Then._ Las indicaciones para tomar en cuenta en el uso de Gherkin en nuestro código son las siguientes.
 
 - **Discernible Given-When-Then Blocks**
 
-Aplicar sangría para los elementos que indiquen pasos a seguir del escenario. En el caso de *And*, aplicar dos veces. De acuerdo con Keiblinger (2021), Esto ayuda a detectar rápidamente las partes que forman un escenario.
+Aplicar sangría para los elementos que indiquen pasos a seguir del escenario. En el caso de _And_, aplicar dos veces. De acuerdo con Keiblinger (2021), Esto ayuda a detectar rápidamente las partes que forman un escenario.
 
 Ejemplo:
 
@@ -3284,23 +3332,23 @@ Ejemplo:
 
 `        `When escribo claramente los requisitos
 
-`        `Then se mostrará el mensaje 
+`        `Then se mostrará el mensaje
 
-`        `And mi oferta solo aparecerá a quienes cumplan con estos      
+`        `And mi oferta solo aparecerá a quienes cumplan con estos
 
 `        `And se habilita la opción
 
 - **Step with Tables**
 
-Según Keiblinger (2021), para las partes del escenario que necesiten la introducción de valores, hay que agregar una tabla o crear un propio formulario que recree esa parte del escenario. Antes de esta representación se deben colocar dos puntos. 
+Según Keiblinger (2021), para las partes del escenario que necesiten la introducción de valores, hay que agregar una tabla o crear un propio formulario que recree esa parte del escenario. Antes de esta representación se deben colocar dos puntos.
 
 Ejemplo:
 
 `        `Then se mostrará el mensaje:
 
-| mensaje                                          |                        
+| mensaje |
 
-| Se completaron los requisitos adecuadamente      | 
+| Se completaron los requisitos adecuadamente |
 
 - **Reducing Noise**
 
@@ -3314,8 +3362,6 @@ Ejemplo:
 
 Para la separación de dos escenarios, se debe insertar un salto de línea y, según Keiblinger (2021), de ser posible, hay que agregar una línea de comentario para facilitar la visualización de estos. De esta forma se halla rápidamente el inicio y fin de un escenario.
 
-
-
 Ejemplo:
 
 `          `#-----------------------------------------------------------------------------------
@@ -3326,13 +3372,11 @@ Ejemplo:
 
 `        `When escribo claramente los requisitos
 
-`        `Then se mostrará el mensaje 
+`        `Then se mostrará el mensaje
 
-`        `And mi oferta solo aparecerá a quienes cumplan con estos      
+`        `And mi oferta solo aparecerá a quienes cumplan con estos
 
 `        `And se habilita la opción
-
-
 
 `          `#-----------------------------------------------------------------------------------
 
@@ -3342,9 +3386,9 @@ Ejemplo:
 
 `        `When escribo claramente los requisitos
 
-`        `Then se mostrará el mensaje 
+`        `Then se mostrará el mensaje
 
-`        `And mi oferta solo aparecerá a quienes cumplan con estos      
+`        `And mi oferta solo aparecerá a quienes cumplan con estos
 
 `        `And se habilita la opción
 
@@ -3354,9 +3398,9 @@ El equipo usara los siguientes estilos para determinadas categorías:
 
 **UpperCamelCase:** clase/interfaz/tipo/enum/decorador/parámetros de tipo
 
-**lowerCamelCase**: variable / parámetro / función / método / propiedad / alias de módulo 
+**lowerCamelCase**: variable / parámetro / función / método / propiedad / alias de módulo
 
-**CONSTANT\_CASE:** valores constantes globales, incluidos los valores de enumeración
+**CONSTANT_CASE:** valores constantes globales, incluidos los valores de enumeración
 
 \*Nunca se utilizan identificadores privados.
 
@@ -3404,7 +3448,7 @@ getFullName(){}
 
 }
 
-- Interfaces 
+- Interfaces
 
 No emplear el prefijo I para nombrar interfaces
 
@@ -3424,7 +3468,7 @@ name:string;
 
 }
 
-- Enums 
+- Enums
 
 No emplear el prefijo I para nombrar interfaces
 
@@ -3448,7 +3492,7 @@ Age = “A”;
 
 }
 
-- Visibility 
+- Visibility
 
 Restringir la visibilidad de propiedades, métodos y tipos ayudaran a mantener el código desacoplado.
 
@@ -3498,22 +3542,22 @@ set someMember(newValue:string){
 
 Uso de const o let para declarar variables. Utilice const de forma predeterminada, a menos que sea necesario reasignar una variable.
 
-No usar var para declarar variables. 
+No usar var para declarar variables.
 
 **Nomenclatura:**
 
-- const foo = otherValue;  // Use if "foo" never changes.
-- let bar = someValue;     // Use if "bar" is ever assigned into later on.
+- const foo = otherValue; // Use if "foo" never changes.
+- let bar = someValue; // Use if "bar" is ever assigned into later on.
 
-- Imports                  Nomenclatura 
+- Imports Nomenclatura
 
-**Module**:	        import \* as foo from '...';
+**Module**: import \* as foo from '...';
 
-**Destructuring**:  import {SomeThing} from '...';	
+**Destructuring**: import {SomeThing} from '...';
 
-**Default**:	        import SomeThing from '...';	
+**Default**: import SomeThing from '...';
 
-**Side-effect:**	        import '...';	Only to import libraries for their side-effects on load (such as custom elements)
+**Side-effect:** import '...'; Only to import libraries for their side-effects on load (such as custom elements)
 
 **Angular**
 
@@ -3529,13 +3573,11 @@ Para el Feature de Information: “Information.component.ts”.
 
 Para la selección de componentes en el código se usará la estructura “dased-case” él tiene como estructura: “feature-case.component”.
 
-
-
 - **Naming Services:**
 
 Se utilizará un formato estándar para el nombre de los servicios. Se agregará el sufijo de “Service” y además cada palabra iniciará con mayúscula, por ejemplo “DataService” o “PaymentService”.
 
-- **Unit Test File Names** 
+- **Unit Test File Names**
 
 Se utilizará el mismo formato de Component para la creación de Test Files, con la diferencia que estos tendrán un “.spec” antes del “ts” al final.
 
@@ -3553,7 +3595,7 @@ Se seguirán las siguientes características para declarar una function:
 
 - Siempre especifique la visibilidad del método (público, protegido o privado).
 - En caso de múltiples operadores, especifique el orden usando corchetes.
-- Evite escribir “this.” cuando sea posible. 
+- Evite escribir “this.” cuando sea posible.
 
 Un ejemplo correcto de la declaración de una función sería:
 
@@ -3570,27 +3612,25 @@ Cuando una expresión no alcance en una sola línea de código se seguirán las 
 - **Loop Counters**
 
 Las variables locales en Loop siempre deberán llamarse **i, j, k, l** en todos los casos.
-**
-
+\*\*
 
 ### 5.1.4. Software Deployment Configuration.
-Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: https://meditech-open-source-wx52-grupo-3.github.io/LandingPage-Medicare/public/ 
 
-Para el desarrollo del Landing Page de Medicare se han utilizado las siguientes herramientas: 
+Como ya se ha mencionado, la gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará GitHub Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: https://meditech-open-source-wx52-grupo-3.github.io/LandingPage-Medicare/public/
+
+Para el desarrollo del Landing Page de Medicare se han utilizado las siguientes herramientas:
 
 - Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
 
-Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual. 
+Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual.
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.005.png)
 
-- Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale. 
+- Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale.
 
-Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html. 
+Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
 
 ![ref1]
-
-
 
 - JS: Nos ayudó a desarrollar la lógica necesaria para el Landing Page
 
@@ -3600,7 +3640,7 @@ Evidencia: Se muestra el documento main.js.
 
 El despliegue del Landing Page de Medicare no pudo ser posible sin utilizar las siguientes tecnologías:
 
-- Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page. 
+- Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
 
 ![Logo Git PNG transparente - StickPNG]
 
@@ -3616,7 +3656,7 @@ El despliegue del Landing Page de Medicare no pudo ser posible sin utilizar las 
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.010.jpeg)
 
-Asimismo, se han realizado los siguientes pasos: 
+Asimismo, se han realizado los siguientes pasos:
 
 - **Dirigirse al repositorio de la página**
 
@@ -3636,36 +3676,36 @@ Dentro de pages, se debe seleccionar la rama o branch que se va a publicar en el
 
 ![ref4]
 
-Siguiendo este proceso, obtuvimos el siguiente enlace: <https://meditech-open-source-wx52-grupo-3.github.io/LandingPage-Medicare/public/> 
-
-
+Siguiendo este proceso, obtuvimos el siguiente enlace: <https://meditech-open-source-wx52-grupo-3.github.io/LandingPage-Medicare/public/>
 
 **Evidencia de Deployment**
 
-![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.014.png)Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x. 
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.014.png)Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x.
 
 Se muestran las acciones realizadas en el github para el lanzamiento del Landing Page.
 
 ![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.015.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning
 
-|Sprint |Sprint 1|
-| :- | :- |
-|Sprint Planning Background||
-|Date|2023-09-09|
-|Time|04:00 PM|
-|Location|Servidor de Discord del Equipo|
-|Prepared By|Clara Angie Valverde Salazar|
-|Attendees (to planning meeting|Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar|
-| Sprint n Review Summary|En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.|
-|Sprint n Retrospective Summary|En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.|
-|Sprint Goal & User Stories||
-|Sprint 1 Goal|La meta de este Sprint es la planificacion de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa.|
-| Sprint 1 Velocity| 7 Velocity|
-| Sum of Story Points| 7 Story points|
+| Sprint                         | Sprint 1                                                                                                                                                                                                |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sprint Planning Background     |                                                                                                                                                                                                         |
+| Date                           | 2023-09-09                                                                                                                                                                                              |
+| Time                           | 04:00 PM                                                                                                                                                                                                |
+| Location                       | Servidor de Discord del Equipo                                                                                                                                                                          |
+| Prepared By                    | Clara Angie Valverde Salazar                                                                                                                                                                            |
+| Attendees (to planning meeting | Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar                                                    |
+| Sprint n Review Summary        | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.                                                                                                                    |
+| Sprint n Retrospective Summary | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.                                                                                                                    |
+| Sprint Goal & User Stories     |                                                                                                                                                                                                         |
+| Sprint 1 Goal                  | La meta de este Sprint es la planificacion de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. |
+| Sprint 1 Velocity              | 7 Velocity                                                                                                                                                                                              |
+| Sum of Story Points            | 7 Story points                                                                                                                                                                                          |
 
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -3680,7 +3720,6 @@ En esta sección, se presentará la evidencia del progreso y desarrollo del soft
 ![](assets/Equipo.PNG)
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-
 
 Aquí se proporcionará información sobre las pruebas realizadas durante el sprint. Se detallarán las pruebas funcionales, de rendimiento y de seguridad que se han llevado a cabo para garantizar la calidad del software. Se incluirán los resultados de estas pruebas y cualquier corrección o mejora realizada en función de los hallazgos.
 
@@ -3717,24 +3756,24 @@ Se proporcionarán detalles sobre la colaboración y la comunicación dentro del
 [ref3]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.012.png
 [ref4]: assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.013.png
 
-### 5.2.2.	Sprint 2
+### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2
 
-|Sprint |Sprint 2|
-| :- | :- |
-|Sprint Planning Background||
-|Date|2023-09-25|
-|Time|04:00 PM|
-|Location|Servidor de Discord del Equipo|
-|Prepared By|Clara Angie Valverde Salazar|
-|Attendees (to planning meeting|Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar|
-| Sprint n Review Summary|Observacion en el formato de la documentacion para el proyecto.|
-|Sprint n Retrospective Summary|Se corrigió los errores del anterior del anterior sprint.|
-|Sprint Goal & User Stories||
-|Sprint 1 Goal|La meta de este Sprint es el despliegue de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. Además, se realizó los wireframes y mockups para la aplicación web del proyecto |
-| Sprint 2 Velocity| 11 Velocity|
-| Sum of Story Points| 20 Story points|
+| Sprint                         | Sprint 2                                                                                                                                                                                                                                                                             |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background     |                                                                                                                                                                                                                                                                                      |
+| Date                           | 2023-09-25                                                                                                                                                                                                                                                                           |
+| Time                           | 04:00 PM                                                                                                                                                                                                                                                                             |
+| Location                       | Servidor de Discord del Equipo                                                                                                                                                                                                                                                       |
+| Prepared By                    | Clara Angie Valverde Salazar                                                                                                                                                                                                                                                         |
+| Attendees (to planning meeting | Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar                                                                                                                                 |
+| Sprint n Review Summary        | Observacion en el formato de la documentacion para el proyecto.                                                                                                                                                                                                                      |
+| Sprint n Retrospective Summary | Se corrigió los errores del anterior del anterior sprint.                                                                                                                                                                                                                            |
+| Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                      |
+| Sprint 1 Goal                  | La meta de este Sprint es el despliegue de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. Además, se realizó los wireframes y mockups para la aplicación web del proyecto |
+| Sprint 2 Velocity              | 11 Velocity                                                                                                                                                                                                                                                                          |
+| Sum of Story Points            | 20 Story points                                                                                                                                                                                                                                                                      |
 
 #### 5.2.2.2. Sprint Backlog 2
 
@@ -3748,7 +3787,6 @@ En esta sección, se presentará la evidencia del progreso y desarrollo del soft
 
 Aquí podemos observar el despliegue de nuestra landing page en la version escritorio.
 ![](assets/landingpage_sprint2.PNG)
-
 
 Aquí podemos observar el despliegue de nuestra landing page en la version móvil.
 ![](assets/landingpage_mobile_sprint2.PNG)
@@ -3766,8 +3804,54 @@ Se realizó la validación de ingreso de caracteres válidos sobre el campo corr
 Se realizó la validación de ingreso de caracteres válidos sobre el campo contraseña para la aplicación web.
 ![](assets/validacion3_sprint2.PNG)
 
-
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
 A continuación, observamos una evidencia del perfil de un doctor para la actualización de datos del usuario.
 ![](assets/profile_doctor_sprint2.PNG)
+
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con Web Applications.
+
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+La gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará Github Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: https://si729-2302-wx52-grupo-3.github.io/LandinPage/public
+
+Para el desarrollo del Landing Page de MediCare se han utilizado las siguientes herramientas:
+• Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
+Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual.
+
+![](assets/landing_medicare_code.png)
+
+El despliegue del Landing Page de DosSeeker no puod ser poible sin utilizar las siguientes tecnologías:
+• Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
+
+![](assets/git.png)
+
+• GitHub: Plataforma de desarrollo colaborativo.
+
+![](assets/github.png)
+
+• Git Hub Pages: Servicio de Github que nos permitió alojar nuestra lading page.
+
+![](assets/github_pages.jpg)
+
+###Evidencia de Deployment
+
+![](assets/medicare_landing.png)
+
+##### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Organización creada en GitHub, con dominio público para que el profesor pueda visualizar el proyecto.
+
+#####Integrantes y aportantes:
+
+![](assets/integrantes.png)
+
+Semana de desarrollo para el Sprint 1: se puede ver que todos los integrantes contribuyeron.
+
+![](assets/sprint1.png)
+
+Network: se muestran los últimos commits, los push y los merge que el equipo desarrollador efectuó.
+
+![](assets/network.png)
