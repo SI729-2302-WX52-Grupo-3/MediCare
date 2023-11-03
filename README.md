@@ -1,4 +1,5 @@
-# INTRODUCTION
+
+# 1. INTRODUCTION
 
 ## 1.1. Startup Profile
 
@@ -3003,12 +3004,14 @@ Estas ramas son muy similares a las reléase branches, ya que también están de
 
 **Convenciones para nombrar los Features, reléase y hotfix branches:**
 
-**Feature Branch:** feature/name
-
+**Feature Branch:** 
+```
+feature/name
+```
 **Example:**
 
-1. feature/welcome,
-1. feature/about,
+1. feature/welcome
+1. feature/about
 1. feature/myfeature
 
 Antes de mostrar las convenciones para nombrar los reléase and hotfix branches. We have to mostrar cómo es que funciona el **Semantic Versioning Specification.**
@@ -3038,12 +3041,16 @@ Existen etiquetas adicionales para los metadatos de compilación.
 1. 2.0.0
 1. 1.0.0-alfa
 
-**Release Branch:** release-\* (\* se cambia por la versión semántica).
-
+**Release Branch:** 
+```github
+release-\* (\* se cambia por la versión semántica).
+```
 **Ejemplo:** release-1.2.0
 
-**Hotfix Branch:** hotfix-\* (\* se cambia por la versión semántica).
-
+**Hotfix Branch:** 
+```github
+hotfix-\* (\* se cambia por la versión semántica).
+```
 **Ejemplo:** hotfix-1.2.1
 
 **Conventional Commits**
@@ -3088,7 +3095,7 @@ Debe incluirse la motivación para el cambio y contrastarse con el comportamient
 
 Cualquier información sobre cambios importantes. Es opcional, puede incluir referencia al problema por su id y en esta sección se incluyen los BREAKING CHANGES: seguido de un espacio o dos satos de línea.
 
-` `Ejemplos:
+Ejemplos:
 
 1. feat(welcome): add welcome section
 1. build(release): bump version to 1.0.0
@@ -3112,41 +3119,39 @@ Dado que en este proyecto se utilizarán HTML, CSS y JavaScript para la codifica
 A los nombres de las variables, objetos, elementos y funciones que se utilicen, se les designarán términos en inglés que estén relacionados y puedan describir a lo que están representando. No se usarán mayúsculas porque de acuerdo con W3Schools (s.f.), la mezcla de estas con las letras minúsculas luce mal y, además, el uso exclusivo de minúsculas otorga mayor legibilidad al código.
 
 Ejemplo de nomenclatura estándar según Google (s.f.):
-
+```css
 .gallery {}
 
 .video {}
 
 .login {}
-
+```
 **Sangría**
 
 En el momento de utilizar HTML, CSS y/o JavaScript se aplicará un espaciado antes de cada línea que se encuentre dentro de un bloque. Este espacio debe ser de dos y según W3Schools (s.f.) no se debe hacer uso de la tecla “Tabulación”.
 
 Ejemplo de nomenclatura estándar de la sangría en HTML según W3Schools (s.f.):
-
+```html
 <table>
-`  `<tr>
-`    `<th>Name</th>
-`    `<th>Description</th>
-
-`  `</tr>
-
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
 </table>
-
+```
 Ejemplo de nomenclatura estándar de la sangría en CSS según W3Schools (s.f.):
-
+```html
 html {
-`  `background: #fff;
-`  `color: #404;
+    background: #fff;
+    color: #404;
 }
-
+```
 Ejemplo de nomenclatura estándar de la sangría en JavaScript según W3Schools (s.f.):
-
+```JavaScript
 function toCelsius(fahrenheit) {
-`  `return (5 / 9) \* (fahrenheit - 32);
+    return (5 / 9) \* (fahrenheit - 32);
 }
-
+```
 Seguidamente, explicaremos las reglas específicas que se necesitan en cada lenguaje para entender el código de nuestro programa, Medicare.
 
 **HTML**
@@ -3164,7 +3169,7 @@ El tipo de documento debe declararse en la primera línea de código. De acuerdo
 Cada vez que, luego de un bloque, lista o tabla de gran longitud se inicie uno nuevo, se debe saltar la siguiente línea y dejarla en blanco para brindar mayor legibilidad y amenidad, así manifiesta W3Schools (s.f.).
 
 Ejemplo:
-
+```html
 <body>
 
 <h1>Famous Cities</h1>
@@ -3179,39 +3184,39 @@ Ejemplo:
 <p>Paris is the capital of France. The Paris area is one of the largest population centers in Europe.</p>
 
 </body>
-
+```
 - **Quote Attribute Values**
 
 Para los valores de los atributos se utilizan comillas dobles alrededor. De acuerdo con W3Schools (s.f.) Aunque esta característica no sea obligatoria, le da más legibilidad al código y es muy frecuente entre los desarrolladores.
 
 Ejemplo:
-
+```html
 <table class="striped">
-
+```
 - **Multimedia Fallback**
 
 Asegurar un acceso alterno a los objetos multimedia por si este fallara al cargar. De la misma forma, según la W3Schools (s.f.), es recomendable añadir las dimensiones del elemento porque así los navegadores guardan el espacio que utilizará antes de comenzar a cargarlo.
 
 Ejemplo:
-
+```html
 <img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
-
+```
 - **Never Skip the <tittle> Element**
 
 El elemento <tittle> permite que las páginas aparezcan en la lista de resultados al momento de buscar en un navegador web. Asimismo, esta es la que da el nombre de la página si se la añade a favoritos.
 
 Ejemplo:
-
+```html
 <title>HTML Style Guide and Coding Conventions</title>
-
+```
 - **HTML Line-Wrapping**
 
 El hecho de que en un documento HTML no haya un límite de palabras por línea, no quiere decir que sea recomendable generar líneas muy extensas de código. Al contrario, esto dificulta la lectura del código. Para pasar a la siguiente línea es necesario utilizar al menos cuatro espacios para diferenciar de elementos hijos.
 
 Ejemplo según Google (s.f.):
-
-> <button mat-icon-button color="primary" class="menu-button"(click)= "openMenu()"><mat-icon>menu< /mat-icon>< /button>
-
+```html
+<button mat-icon-button color="primary" class="menu-button"(click)= "openMenu()"><mat-icon>menu< /mat-icon></button>
+```
 **CSS**
 
 Llamado así por las siglas del nombre en inglés Cascading Style Sheets. CSS es un lenguaje de marcado que se centra en definir y mejorar la presentación de un documento que se basa en HTML. Las pautas que a seguir al momento de usar CSS son las siguientes:
@@ -3221,56 +3226,56 @@ Llamado así por las siglas del nombre en inglés Cascading Style Sheets. CSS es
 Hay que utilizar abreviación de propiedades, declarar los campos de los elementos en la menor cantidad de líneas posibles. De acuerdo con Google (s.f.), esto aumenta la eficacia del código y lo hace más entendible. De la misma manera, debemos evitar el colocar las unidades luego del valor cero.
 
 Ejemplo:
-
+```css
 border-top: 0;
 
 font: 100%/1.6 palatino, georgia, serif;
 
 padding: 0 1em 2em;
-
+```
 - **Declaration Stops**
 
 Hay que colocar un punto y coma luego de cada declaración al igual que gran parte de lenguajes de programación. Según Google (s.f.). esta característica ayuda a que haya más consistencia en el código
 
 Ejemplo:
-
+```css
 html {
-`  `background: #fff;
-`  `color: #404;
+      background: #fff;
+      color: #404;
 }
-
+```
 - **Property Name Stops**
 
 Debe existir un espacio entre los dos puntos que están luego del nombre de una propiedad y el valor ingresado. Siempre solo un espacio luego de los dos puntos, mas no antes.
 
 Ejemplo estándar según Google (s.f.):
-
+```css
 html {
-`  `background: #fff;
-`  `color: #404;
+      background: #fff;
+      color: #404;
 }
-
+```
 - **Declaration Block Separation**
 
 El uso de un separador de un espacio es necesario luego del nombre de un elemento seleccionado y la llave que inicia un bloque. Además, esta llave tiene que estar en la misma línea.
 
 Ejemplo estándar según Google (s.f.):
-
+```css
 html {
-`  `background: #fff;
-`  `color: #404;
+      background: #fff;
+      color: #404;
 }
-
+```
 - **CSS Quotation Marks**
 
 No se deben emplear las comillas dobles (“”), solo están permitidas las simples (‘’) para el uso exclusivo de selectores de atributos y valores de propiedades.
 
 Ejemplo estándar según Google (s.f.):
-
+```css
 html {
-`  `font-family: ‘open sans’, arial, sans-serif;
+      font-family: ‘open sans’, arial, sans-serif;
 }
-
+```
 **JavaScript**
 
 Es un lenguaje de programación que otorga la posibilidad de indicar exactamente las acciones que debe ejecutar el navegador, indicando el orden de las tareas y el número de veces que se realizarán. Las indicaciones para usar JavaScript en nuestro proyecto son las siguientes:
@@ -3280,42 +3285,42 @@ Es un lenguaje de programación que otorga la posibilidad de indicar exactamente
 Se debe colocar un espacio alrededor de cada operador matemático que se introduzca en el código. Esto también aplica a las comas.
 
 Ejemplo estándar según W3Schools (s.f.):
-
+```JavaScript
 let x = y + z;
 const myArray = ["Volvo", "Saab", "Fiat"];
-
+```
 - **Simple Statement’s End**
 
 Una indicación simple debe terminar en un punto y coma, esto se cumple también en muchos otros lenguajes de programación.
 
 Ejemplo estándar según W3Schools (s.f.):
-
+```JavaScript
 let x = y + z;
 const myArray = ["Volvo", "Saab", "Fiat"];
-
+```
 - **Beginning and End of a Function**
 
 Un bloque de función debe contar con una llave al final de la primera línea, para que el cierre de esta se encuentre sola en la última. Una función termina en llave y no en punto y coma. Lo mismo aplica para condicionales o bucles.
 
 Ejemplo estándar según W3Schhol (s.f):
-
+```JavaScript
 function toCelsius(fahrenheit) {
 `  `return (5 / 9) \* (fahrenheit - 32);
 }
-
+```
 - **Object Rules**
 
 Para la construcción de un objeto, al igual que en una función, se comienza con una llave al final de la primera línea, pero, esta vez, la llave de cierre debe estar acompañada de un punto y coma. Para las propiedades, se colocan dos puntos y un espacio para indicar su valor, el cual debe estar entre comillas dobles si este es un _string_.
 
 Ejemplo estándar según W3School (s.f.):
-
+```JavaScript
 const person = {
-`  `firstName: "John",
-`  `lastName: "Doe",
-`  `age: 50,
-`  `eyeColor: "blue"
+    firstName: "John",
+    lastName: "Doe",
+    age: 50,
+    eyeColor: "blue"
 };
-
+```
 **Gherkin**
 
 Es un Lenguaje Específico de Dominio (DSL por sus siglas en inglés) que tiene como objetivo la resolución de un problema en específico. Para ello, se generan casos para la validación de la característica en distintos escenarios. Gherkin cuenta con múltiples elementos, de los cuales, los más famosos y, además, más utilizados son *Feature, Scenario, Example, Scenario, Given, When* y _Then._ Las indicaciones para tomar en cuenta en el uso de Gherkin en nuestro código son las siguientes.
@@ -3326,44 +3331,44 @@ Aplicar sangría para los elementos que indiquen pasos a seguir del escenario. E
 
 Ejemplo:
 
-`    `Scenario: Ingreso los requisitos con claridad
+**Scenario**: Ingreso los requisitos con claridad
 
-`        `Given que en el formulario de ingreso de oferta laboral
+**Given** que en el formulario de ingreso de oferta laboral
 
-`        `When escribo claramente los requisitos
+**When** escribo claramente los requisitos
 
-`        `Then se mostrará el mensaje
+**Then** se mostrará el mensaje
 
-`        `And mi oferta solo aparecerá a quienes cumplan con estos
+**And** mi oferta solo aparecerá a quienes cumplan con estos
 
-`        `And se habilita la opción
+**And** se habilita la opción
 
 - **Step with Tables**
 
 Según Keiblinger (2021), para las partes del escenario que necesiten la introducción de valores, hay que agregar una tabla o crear un propio formulario que recree esa parte del escenario. Antes de esta representación se deben colocar dos puntos.
 
 Ejemplo:
-
-`        `Then se mostrará el mensaje:
+```
+Then se mostrará el mensaje:
 
 | mensaje |
 
 | Se completaron los requisitos adecuadamente |
-
+```
 - **Reducing Noise**
 
 Con el fin de reducir la acumulación de demasiadas líneas de código en un escenario, se deben colocar valores por defecto dentro de los pasos para los campos que no sean muy relevantes para este. Los valores “estándar” que coloquemos, deben ir entre comillas simples. De acuerdo con Keiblinger (2021), esta acción reduce considerablemente el tamaño del código.
 
 Ejemplo:
-
-`        `When escribo claramente los requisitos ‘dominio en C’
-
+```
+When escribo claramente los requisitos ‘dominio en C’
+```
 - **Scenarios Separator**
 
 Para la separación de dos escenarios, se debe insertar un salto de línea y, según Keiblinger (2021), de ser posible, hay que agregar una línea de comentario para facilitar la visualización de estos. De esta forma se halla rápidamente el inicio y fin de un escenario.
 
 Ejemplo:
-
+```
 `          `#-----------------------------------------------------------------------------------
 
 `    `Scenario: Ingreso los requisitos con claridad
@@ -3391,7 +3396,7 @@ Ejemplo:
 `        `And mi oferta solo aparecerá a quienes cumplan con estos
 
 `        `And se habilita la opción
-
+```
 **TypeScript**
 
 El equipo usara los siguientes estilos para determinadas categorías:
@@ -3402,34 +3407,34 @@ El equipo usara los siguientes estilos para determinadas categorías:
 
 **CONSTANT_CASE:** valores constantes globales, incluidos los valores de enumeración
 
-\*Nunca se utilizan identificadores privados.
+Nunca se utilizan identificadores privados.
 
 - Variables y Funciones
 
 **Mala Nomenclatura:**
-
+```
 - let RandomName: string = ‘Juan’;
 - function RandomFunction() {}
-
+```
 **Buena Nomenclatura:**
-
+```
 - let randomName: string = ‘Juan’;
 - function randomFunction() {}
-
+```
 - Clases
 
 **Mala Nomenclatura:**
-
+```
 - class view{}
-
+```
 **Buena Nomenclatura:**
-
+```
 - class View{}
-
+```
 Propiedades y métodos de la clase
 
 **Mala Nomenclatura:**
-
+```
 - class test{
 
 Name: string;
@@ -3437,9 +3442,9 @@ Name: string;
 GetFullName(){}
 
 }
-
+```
 **Buena Nomenclatura:**
-
+```
 - class test{
 
 name: string;
@@ -3447,33 +3452,33 @@ name: string;
 getFullName(){}
 
 }
-
+```
 - Interfaces
 
 No emplear el prefijo I para nombrar interfaces
 
 **Mala Nomenclatura:**
-
+```
 - interface IPerson{
 
 Name:string;
 
 }
-
+```
 **Buena Nomenclatura:**
-
+```
 - interface Person{
 
 name:string;
 
 }
-
+```
 - Enums
 
 No emplear el prefijo I para nombrar interfaces
 
 **Mala Nomenclatura:**
-
+```
 - enum clientType{
 
 person = “p”;
@@ -3481,9 +3486,9 @@ person = “p”;
 business = “b”;
 
 }
-
+```
 **Buena Nomenclatura:**
-
+```
 - enum ClientType{
 
 Person = “P”;
@@ -3491,13 +3496,13 @@ Person = “P”;
 Age = “A”;
 
 }
-
+```
 - Visibility
 
 Restringir la visibilidad de propiedades, métodos y tipos ayudaran a mantener el código desacoplado.
 
 **Mala Nomenclatura:**
-
+```
 - enum clientType{
 
 person = “p”;
@@ -3505,9 +3510,9 @@ person = “p”;
 business = “b”;
 
 }
-
+```
 **Buena Nomenclatura:**
-
+```
 - enum ClientType{
 
 Person = “P”;
@@ -3515,13 +3520,13 @@ Person = “P”;
 Age = “A”;
 
 }
-
+```
 - Getters and Setters
 
 Se pueden utilizar los getters y setters para los miembros de la clase. También son útiles como medio para restringir la visibilidad de los detalles de implementación internos, aplicando la Programación Orientada a Objetos;
 
 **Nomenclatura:**
-
+```
 - Class Foo {
 
 constructor(private readonly someService:SomeService) {}
@@ -3537,7 +3542,7 @@ set someMember(newValue:string){
 `  `this.someService.someVariable = newValue;
 
 }
-
+```
 - Variables
 
 Uso de const o let para declarar variables. Utilice const de forma predeterminada, a menos que sea necesario reasignar una variable.
@@ -3545,19 +3550,19 @@ Uso de const o let para declarar variables. Utilice const de forma predeterminad
 No usar var para declarar variables.
 
 **Nomenclatura:**
-
+```
 - const foo = otherValue; // Use if "foo" never changes.
 - let bar = someValue; // Use if "bar" is ever assigned into later on.
-
+```
 - Imports Nomenclatura
 
-**Module**: import \* as foo from '...';
+**Module**:``` import \* as foo from '...';```
 
-**Destructuring**: import {SomeThing} from '...';
+**Destructuring**:``` import {SomeThing} from '...';```
 
-**Default**: import SomeThing from '...';
+**Default**:``` import SomeThing from '...';```
 
-**Side-effect:** import '...'; Only to import libraries for their side-effects on load (such as custom elements)
+**Side-effect:**``` import '...'; Only to import libraries for their side-effects on load (such as custom elements)```
 
 **Angular**
 
@@ -3612,7 +3617,7 @@ Cuando una expresión no alcance en una sola línea de código se seguirán las 
 - **Loop Counters**
 
 Las variables locales en Loop siempre deberán llamarse **i, j, k, l** en todos los casos.
-\*\*
+
 
 ### 5.1.4. Software Deployment Configuration.
 
