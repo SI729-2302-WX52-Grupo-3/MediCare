@@ -1,3 +1,4 @@
+![Caratula](/assets/caratula.jpg)
 
 # 1. INTRODUCTION
 
@@ -1792,9 +1793,8 @@ Una vez ya redactadas todas las User Stories, debemos priorizarlas. El Product B
 | 28      | HU09          | Cambio de Correo Afiliado                              | Como usuario, deseo cambiar de correo afiliado a mi cuenta para que esta se encuentre vinculada al que más utilizo.                                                              | 1                                |
 | 29      | HU10          | Cambio de Nombre                                       | Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.                                                                             | 1                                |
 
-# CHAPTER 4
 
-# PRODUCT DESIGN
+# 4. PRODUCT DESIGN
 
 ## 4.1. Style Guidelines.
 
@@ -2044,7 +2044,7 @@ A continuación, se mostrarán los SEO Tags y Meta Tags utilizados en el Landing
 
 Landing Page:
 
-```
+```html
 <!DOCTYPE html>
 
 <html lang="en">
@@ -3841,7 +3841,7 @@ El despliegue del Landing Page de DosSeeker no puod ser poible sin utilizar las 
 
 ![](assets/github_pages.jpg)
 
-###Evidencia de Deployment
+Evidencia de Deployment
 
 ![](assets/medicare_landing.png)
 
@@ -3849,7 +3849,7 @@ El despliegue del Landing Page de DosSeeker no puod ser poible sin utilizar las 
 
 Organización creada en GitHub, con dominio público para que el profesor pueda visualizar el proyecto.
 
-#####Integrantes y aportantes:
+Integrantes y aportantes:
 
 ![](assets/integrantes.png)
 
@@ -3860,3 +3860,21 @@ Semana de desarrollo para el Sprint 1: se puede ver que todos los integrantes co
 Network: se muestran los últimos commits, los push y los merge que el equipo desarrollador efectuó.
 
 ![](assets/network.png)
+
+####5.2.3. Sprint 3
+
+####5.2.3.1. Sprint Planning 3
+
+####5.2.3.2. Sprint Backlog 3
+
+####5.2.3.3. Development Evidence for Sprint Review
+
+####5.2.3.4. Testing Suite Evidence for Sprint Review
+
+####5.2.3.5. Execution Evidence for Sprint Review
+
+####5.2.3.6. Services Documentation Evidence for Sprint Review
+
+####5.2.3.7. Software Deployment Evidence for Sprint Review
+
+####5.2.3.8. Team Collaboration Insights during Sprint
