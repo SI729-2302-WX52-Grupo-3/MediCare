@@ -4022,7 +4022,7 @@ Edad: 21
 Distrito: Ate
 Evidencia de Reunión:
 
-![](assets/entrevista2_willy.PNG)
+![](assets/entrevista2_willy.png)
 
 URL:
 https://drive.google.com/file/d/1-zVPxNlj1Aaykda9obU5hMpr_GuKMDz9/view?usp=sharing 
