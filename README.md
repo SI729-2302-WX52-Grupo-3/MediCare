@@ -4014,6 +4014,22 @@ Tiempo: 6:00
 Resumen: El entrevistado tiene una imagen positiva acerca del proyecto. Lo califico como muy interesane, intuitiva y atractica. Edwin nos recomienda tener una caracteristica sobre los doctores acerca de calificarlos y tener validados su informacion profesional. Por ultimo, hizo enfasis en la seguridad de los datos compartidos por los pacientes.
 
 
+
+Entrevistado 2:
+
+Nombre y Apellidos: Johan Moreno Vergara
+Edad: 21
+Distrito: Ate
+Evidencia de Reunión:
+
+![](assets/entrevista2_willy.PNG)
+
+URL:
+https://drive.google.com/file/d/1-zVPxNlj1Aaykda9obU5hMpr_GuKMDz9/view?usp=sharing 
+
+Tiempo: 7:20
+Resumen: Johan nos comenta que nuestra aplicación web le pareció muy intuitiva y llamativa debido a los colores, las imágenes, los tamaños de letra y por el diseño en general. Además, él sí está de acuerdo en que sus datos podrían guardarse dentro de nuestros sistema puesto que funciona como si fuera un hospital lo cual la única funcionalidad sería ayudar al paciente. Finalmente, nos recomendó algunas funcionalidades extra como es el caso de poder pagar no solo con VISA como la mayoría de plataformas sino que innovar con otros medio de pagos como sería PAGOEFECTIVO, YAPE o PLIN.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 En esta sección se realizará el reporte de Heurísticas de usabilidad que se encontraron en la realización de la validación con posibles usuarios según su segmento.
