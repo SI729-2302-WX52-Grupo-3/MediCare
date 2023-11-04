@@ -4070,3 +4070,11 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/EWZnl3Xp
 Duración: 3:32 
 Resumen del video: 
 En el video, se muestra nuestra aplicación, dando uso a las funcionalidades implementadas y la manera en la que el paciente la utilzaría y lo que visualizaría. 
+
+# Anexos
+
+Link del Github-Backend: https://github.com/SI729-2302-WX52-Grupo-3/Backend
+
+Link del Github-Frontend: https://github.com/SI729-2302-WX52-Grupo-3/Frontend
+
+Link del Github-LandingPage: https://github.com/SI729-2302-WX52-Grupo-3/LandinPage
