@@ -3958,3 +3958,73 @@ Evidencia de Deployment
 A continuación, mostramos los commits elaborados por el equipo para el desarrollo del backend para el proyecto.
 
 ![](assets/colaboration_sprint3.PNG)
+
+## 5.3. Validation Interviews 
+
+### 5.3.1. Diseño de Entrevistas 
+
+**Buenas días / tardes / noches, el propósito de esta entrevista es conocer tu apreciación acerca de nuestra plataforma web que he creado con mis compañeros en el curso de Open Source en la universidad. Por ello, a continuación, te haré unas breves preguntas sobre tu información personal y luego te mostraré nuestra aplicación web para que puedas darnos tus apreciaciones:**
+
+Datos iniciales:
+
+¿Cuál es tu nombre completo?
+
+¿Cuántos años tienes?
+
+¿En qué distrito vives?
+
+**A continuación, se procederá a compartir pantalla, mostrando la plataforma web de Medicare. Hay que pedir las apreciaciones de cada vista de la aplicación web, se puede tomar como referencia las siguientes preguntas:**
+
+¿Qué opinas de la facilidad de uso de la aplicación para programar una cita con un médico?
+
+¿Encuentras que la interfaz de usuario es intuitiva y atractiva?
+
+¿Cómo calificarías la experiencia de buscar y seleccionar un médico en la plataforma?
+
+¿Crees que la información médica, como el historial de citas y resultados de exámenes, es fácil de acceder y entender?
+
+¿Hay alguna característica adicional que te gustaría ver en la aplicación para mejorar la experiencia de reserva de citas?
+
+¿Qué opinas sobre la seguridad y privacidad de tus datos médicos en la aplicación?
+
+¿Cómo te sientes acerca de la capacidad de comunicarte con los médicos de manera virtual a través de la plataforma?
+
+¿La aplicación te proporciona la información necesaria sobre los médicos, como sus especialidades y calificaciones?
+
+¿Qué sugerencias tienes para mejorar la aplicación y hacerla más útil para los usuarios?
+
+**Muchas gracias por tu tiempo, la entrevista realizada nos será de muchísima utilidad para mejorar nuestra plataforma web. Hasta luego.**
+
+### 5.3.2. Registro de Entrevistas 
+
+### 5.3.3. Evaluaciones según heurísticas
+
+En esta sección se realizará el reporte de Heurísticas de usabilidad que se encontraron en la realización de la validación con posibles usuarios según su segmento.
+
+#### 5.3.3.1. Escalas de severidad
+
+|Nivel|Descripcion|
+|--|--|
+|1|Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+#### 5.3.3.2. Tabla de heurísticas
+
+|#|Problema|Escala de severidad|Heuristica violada|
+|--|--|--|--|
+|1|La recuperación de contraseña debería permitir un factor de autenticación más que solo el correo.|3|Consistencia y estándares|
+|2|No hay botón para editar el historial de un paciente.|2|Flexibilidad y eficiencia de uso|
+|3|La sección de perfil de un médico debería                    mostrar más detalle de su experiencia laboral.|4|Visibilidad del estado del sistema|
+
+## 5.4. Video About-the-Product 
+
+Evidencia: 
+
+				IMAGEN
+        
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/EWZnl3XpW7hPrKA3kX2GAGIBKnRL_XptDqSt9JNNesikoQ?e=sba7Gp 
+Duración: 3:32 
+Resumen del video: 
+En el video, se muestra nuestra aplicación, dando uso a las funcionalidades implementadas y la manera en la que el paciente la utilzaría y lo que visualizaría. 
