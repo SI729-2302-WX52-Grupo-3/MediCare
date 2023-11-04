@@ -1490,7 +1490,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Recuperación de datos correcta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio que almacena credenciales para&nbsp;&nbsp;&nbsp;el inicio de sesión está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando recupero correctamente los datos de inicio&nbsp;&nbsp;&nbsp;de sesión del usuario <br>&nbsp;&nbsp;&nbsp;<br>Entonces se envían los datos solicitados a través del&nbsp;&nbsp;&nbsp;protocolo HTTP <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Recuperación de datos incorrecta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que existe un servicio que almacena credenciales&nbsp;&nbsp;&nbsp;para el inicio de sesión <br>&nbsp;&nbsp;&nbsp;<br>Cuando no se encuentran datos que concuerden con&nbsp;&nbsp;&nbsp;las credenciales ingresadas por el usuario dentro de la tabla Usuarios en la&nbsp;&nbsp;&nbsp;base de datos de DocSeeker <br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces&nbsp;&nbsp;&nbsp;se presenta el mensaje que indica “error 404(Not Found)”. </span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Recuperación de datos correcta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio que almacena credenciales para&nbsp;&nbsp;&nbsp;el inicio de sesión está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando recupero correctamente los datos de inicio&nbsp;&nbsp;&nbsp;de sesión del usuario <br>&nbsp;&nbsp;&nbsp;<br>Entonces se envían los datos solicitados a través del&nbsp;&nbsp;&nbsp;protocolo HTTP <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Recuperación de datos incorrecta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que existe un servicio que almacena credenciales&nbsp;&nbsp;&nbsp;para el inicio de sesión <br>&nbsp;&nbsp;&nbsp;<br>Cuando no se encuentran datos que concuerden con&nbsp;&nbsp;&nbsp;las credenciales ingresadas por el usuario dentro de la tabla Usuarios en la&nbsp;&nbsp;&nbsp;base de datos de MediCare <br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces&nbsp;&nbsp;&nbsp;se presenta el mensaje que indica “error 404(Not Found)”. </span>&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1517,7 +1517,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Envío de datos correcto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de registro de cuenta está&nbsp;&nbsp;&nbsp;disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos de registro &nbsp;&nbsp;&nbsp;Y se almacenan en una tupla <br>&nbsp;&nbsp;&nbsp;<br>Entonces se añaden en la tabla Usuarios de la base de&nbsp;&nbsp;&nbsp;datos de DocSeeker. <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Envío de datos incorrecto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio registro de cuenta está&nbsp;&nbsp;&nbsp;disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos de registro &nbsp;&nbsp;&nbsp;Y el protocolo HTTP no logra conectarse con&nbsp;&nbsp;&nbsp;la base de datos <br>&nbsp;&nbsp;&nbsp;<br>Entonces sale un mensaje que indica “error 404(Not&nbsp;&nbsp;&nbsp;Found)”. &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Envío de datos correcto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de registro de cuenta está&nbsp;&nbsp;&nbsp;disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos de registro &nbsp;&nbsp;&nbsp;Y se almacenan en una tupla <br>&nbsp;&nbsp;&nbsp;<br>Entonces se añaden en la tabla Usuarios de la base de&nbsp;&nbsp;&nbsp;datos de MediCare. <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Envío de datos incorrecto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio registro de cuenta está&nbsp;&nbsp;&nbsp;disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos de registro &nbsp;&nbsp;&nbsp;Y el protocolo HTTP no logra conectarse con&nbsp;&nbsp;&nbsp;la base de datos <br>&nbsp;&nbsp;&nbsp;<br>Entonces sale un mensaje que indica “error 404(Not&nbsp;&nbsp;&nbsp;Found)”. &nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1544,7 +1544,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Recuperación de datos correcta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio que almacena datos personales&nbsp;&nbsp;&nbsp;para el inicio de sesión está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando recupero correctamente los datos personales&nbsp;&nbsp;&nbsp;del usuario <br>&nbsp;&nbsp;&nbsp;<br>Entonces se envían los datos solicitados a través del&nbsp;&nbsp;&nbsp;protocolo HTTP <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Recuperación de datos incorrecta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio que almacena credenciales para&nbsp;&nbsp;&nbsp;el inicio de sesión está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando no se encuentran los datos que concuerden&nbsp;&nbsp;&nbsp;con las credenciales ingresadas por el usuario dentro de la tabla Usuarios en&nbsp;&nbsp;&nbsp;la base de datos de DocSeeker <br>&nbsp;&nbsp;&nbsp;<br>Entonces se presenta el mensaje que indica “error&nbsp;&nbsp;&nbsp;404(Not Found)”. &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Recuperación de datos correcta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio que almacena datos personales&nbsp;&nbsp;&nbsp;para el inicio de sesión está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando recupero correctamente los datos personales&nbsp;&nbsp;&nbsp;del usuario <br>&nbsp;&nbsp;&nbsp;<br>Entonces se envían los datos solicitados a través del&nbsp;&nbsp;&nbsp;protocolo HTTP <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Recuperación de datos incorrecta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio que almacena credenciales para&nbsp;&nbsp;&nbsp;el inicio de sesión está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando no se encuentran los datos que concuerden&nbsp;&nbsp;&nbsp;con las credenciales ingresadas por el usuario dentro de la tabla Usuarios en&nbsp;&nbsp;&nbsp;la base de datos de MediCare <br>&nbsp;&nbsp;&nbsp;<br>Entonces se presenta el mensaje que indica “error&nbsp;&nbsp;&nbsp;404(Not Found)”. &nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1571,7 +1571,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Envío de datos correcto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de registro de historial médico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los nuevos datos &nbsp;&nbsp;&nbsp;Y se almacenan en una tupla <br>&nbsp;&nbsp;&nbsp;<br>Entonces se modifica correctamente el historial en la&nbsp;&nbsp;&nbsp;base de datos de DocSeeker  <br>&nbsp;&nbsp;&nbsp;<br>Y muestra el mensaje “200”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Envío de datos incorrecto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de registro de historial médico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los nuevos datos &nbsp;&nbsp;&nbsp;Y el protocolo HTTP no logra conectarse con&nbsp;&nbsp;&nbsp;la base de datos <br>&nbsp;&nbsp;&nbsp;<br>Entonces sale un mensaje que indica “error 404”. &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Envío de datos correcto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de registro de historial médico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los nuevos datos &nbsp;&nbsp;&nbsp;Y se almacenan en una tupla <br>&nbsp;&nbsp;&nbsp;<br>Entonces se modifica correctamente el historial en la&nbsp;&nbsp;&nbsp;base de datos de MediCare  <br>&nbsp;&nbsp;&nbsp;<br>Y muestra el mensaje “200”. <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Envío de datos incorrecto </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de registro de historial médico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los nuevos datos &nbsp;&nbsp;&nbsp;Y el protocolo HTTP no logra conectarse con&nbsp;&nbsp;&nbsp;la base de datos <br>&nbsp;&nbsp;&nbsp;<br>Entonces sale un mensaje que indica “error 404”. &nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1598,7 +1598,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Almacenamiento correcto del archivo  </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de agregación de diagnóstico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos del nuevo diagnóstico &nbsp;&nbsp;&nbsp;Y se almacenan en una tupla <br>&nbsp;&nbsp;&nbsp;<br>Entonces se añade en la tabla Diagnósticos de la base&nbsp;&nbsp;&nbsp;de datos de DocSeeker <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Almacenamiento incorrecto del archivo </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de agregación de diagnóstico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos y el protocolo HTPP no&nbsp;&nbsp;&nbsp;logra encontrar a la base de datos <br>&nbsp;&nbsp;&nbsp;<br>Entonces sale un mensaje que indica “error 404(Not&nbsp;&nbsp;&nbsp;Found)”. &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Almacenamiento correcto del archivo  </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de agregación de diagnóstico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos del nuevo diagnóstico &nbsp;&nbsp;&nbsp;Y se almacenan en una tupla <br>&nbsp;&nbsp;&nbsp;<br>Entonces se añade en la tabla Diagnósticos de la base&nbsp;&nbsp;&nbsp;de datos de MediCare <br>&nbsp;&nbsp;&nbsp;<br>Y se presenta el mensaje que indica “200(OK)”. <br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Almacenamiento incorrecto del archivo </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br>Dado que el servicio de agregación de diagnóstico&nbsp;&nbsp;&nbsp;está disponible <br>&nbsp;&nbsp;&nbsp;<br>Cuando se envían los datos y el protocolo HTPP no&nbsp;&nbsp;&nbsp;logra encontrar a la base de datos <br>&nbsp;&nbsp;&nbsp;<br>Entonces sale un mensaje que indica “error 404(Not&nbsp;&nbsp;&nbsp;Found)”. &nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1625,7 +1625,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Recuperación de datos correcta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Dado que el servicio que almacena datos&nbsp;&nbsp;&nbsp;de las consultas realizadas está disponible </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Cuando recupero correctamente los datos&nbsp;&nbsp;&nbsp;de la consulta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Entonces se envían los datos solicitados&nbsp;&nbsp;&nbsp;a través del protocolo HTTP </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Y se presenta el mensaje que&nbsp;&nbsp;&nbsp;indica “200(OK)”. </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Recuperación de datos incorrecta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Dado que el servicio que almacena datos&nbsp;&nbsp;&nbsp;de las consultas realizadas está disponible </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Cuando no encuentro los datos de&nbsp;&nbsp;&nbsp;acuerdo con las credenciales ingresadas por el usuario dentro de la tabla&nbsp;&nbsp;&nbsp;Consultas en la base de datos de DocSeeker </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Entonces se presenta el mensaje que&nbsp;&nbsp;&nbsp;indica “error 404(Not Found)”. </span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Recuperación de datos correcta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01: </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Dado que el servicio que almacena datos&nbsp;&nbsp;&nbsp;de las consultas realizadas está disponible </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Cuando recupero correctamente los datos&nbsp;&nbsp;&nbsp;de la consulta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Entonces se envían los datos solicitados&nbsp;&nbsp;&nbsp;a través del protocolo HTTP </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Y se presenta el mensaje que&nbsp;&nbsp;&nbsp;indica “200(OK)”. </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0"> </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Recuperación de datos incorrecta </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02: </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Dado que el servicio que almacena datos&nbsp;&nbsp;&nbsp;de las consultas realizadas está disponible </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Cuando no encuentro los datos de&nbsp;&nbsp;&nbsp;acuerdo con las credenciales ingresadas por el usuario dentro de la tabla&nbsp;&nbsp;&nbsp;Consultas en la base de datos de MediCare </span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:black">Entonces se presenta el mensaje que&nbsp;&nbsp;&nbsp;indica “error 404(Not Found)”. </span>&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1652,7 +1652,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">   <br><span style="color:#0070C0">E01: Ingreso desde el   buscador</span><br>   <br><span style="color:#00B050">CA01</span><span style="color:windowtext">:</span><br>   <br><span style="color:windowtext">Dado que el usuario</span> <span style="color:windowtext">se encuentra en un   buscador</span><br>   <br><span style="color:windowtext">Cuando ingresa al dominio de MediCare</span><br>   <br><span style="color:windowtext">Entonces aparece el LandingPage de la plataforma</span><br>   <br> <br>   <br><span style="color:#0070C0">E02: Ingreso desde el   Menú de Inicio</span><br>   <br><span style="color:#00B050">CA02:</span><br>   <br><span style="color:windowtext">Dado que el usuario se encuentra en el menú   principal de DocSeeker</span><br>   <br><span style="color:windowtext">Cuando presiona selecciona la opción de más   información</span><br>   <br><span style="color:windowtext">Entonces aparece el LandingPage de la plataforma</span>   </td>
+    <td class="tg-lboi" colspan="4">   <br><span style="color:#0070C0">E01: Ingreso desde el   buscador</span><br>   <br><span style="color:#00B050">CA01</span><span style="color:windowtext">:</span><br>   <br><span style="color:windowtext">Dado que el usuario</span> <span style="color:windowtext">se encuentra en un   buscador</span><br>   <br><span style="color:windowtext">Cuando ingresa al dominio de MediCare</span><br>   <br><span style="color:windowtext">Entonces aparece el LandingPage de la plataforma</span><br>   <br> <br>   <br><span style="color:#0070C0">E02: Ingreso desde el   Menú de Inicio</span><br>   <br><span style="color:#00B050">CA02:</span><br>   <br><span style="color:windowtext">Dado que el usuario se encuentra en el menú   principal de MediCare</span><br>   <br><span style="color:windowtext">Cuando presiona selecciona la opción de más   información</span><br>   <br><span style="color:windowtext">Entonces aparece el LandingPage de la plataforma</span>   </td>
   </tr>
 </tbody>
 </table>
@@ -1679,7 +1679,7 @@ A continuación, se redactarán las historias de usuario de nuestra aplicación.
     <td class="tg-0pky" colspan="4">   <br>Acceptance criteria   </td>
   </tr>
   <tr>
-    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Ingreso de datos correcto</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01:</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Dado que el usuario se encuentra en el formulario de&nbsp;&nbsp;&nbsp;mensaje a DocSeeker</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Cuando ingresa un asunto y mensaje correctos</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces se envía el mensaje a la plataforma</span><br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Ingreso de datos&nbsp;&nbsp;&nbsp;incorrecto</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02:</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Dado que el usuario se encuentra en el formulario de&nbsp;&nbsp;&nbsp;mensaje a DocSeeker</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Cuando ingresa un asunto correcto, pero un mensaje&nbsp;&nbsp;&nbsp;con caracteres no permitidos</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces sale un mensaje que advierte que se&nbsp;&nbsp;&nbsp;ingresaron caracteres no permitidos en el mensaje</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA03:</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Dado que el usuario se encuentra en el formulario de&nbsp;&nbsp;&nbsp;mensaje a DocSeeker</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Cuando ingresa un mensaje correcto, pero un asunto&nbsp;&nbsp;&nbsp;con caracteres no permitidos</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces sale un mensaje que advierte que se&nbsp;&nbsp;&nbsp;ingresaron caracteres no permitidos en el asunto</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-lboi" colspan="4">&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E01: Ingreso de datos correcto</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA01:</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Dado que el usuario se encuentra en el formulario de&nbsp;&nbsp;&nbsp;mensaje a MediCare</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Cuando ingresa un asunto y mensaje correctos</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces se envía el mensaje a la plataforma</span><br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br><span style="color:#0070C0">E02: Ingreso de datos&nbsp;&nbsp;&nbsp;incorrecto</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA02:</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Dado que el usuario se encuentra en el formulario de&nbsp;&nbsp;&nbsp;mensaje a MediCare</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Cuando ingresa un asunto correcto, pero un mensaje&nbsp;&nbsp;&nbsp;con caracteres no permitidos</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces sale un mensaje que advierte que se&nbsp;&nbsp;&nbsp;ingresaron caracteres no permitidos en el mensaje</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:#00B050">CA03:</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Dado que el usuario se encuentra en el formulario de&nbsp;&nbsp;&nbsp;mensaje a MediCare</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Cuando ingresa un mensaje correcto, pero un asunto&nbsp;&nbsp;&nbsp;con caracteres no permitidos</span><br>&nbsp;&nbsp;&nbsp;<br><span style="color:windowtext">Entonces sale un mensaje que advierte que se&nbsp;&nbsp;&nbsp;ingresaron caracteres no permitidos en el asunto</span>&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
@@ -1805,11 +1805,11 @@ A continuación, se presentará un repositorio central y organizado que servirá
 **Brand Overview**
 
 La necesidad de una atención integra y eficaz hacia a un familiar adulto mayor o con alguna limitación física o mental en domicilio, se hace cada vez más imprescindible en nuestra sociedad. Las teles consultas y atención por redes sociales como WhatsApp son soluciones inmediatas al presente problema, pero con ciertas inconsistencias y limitaciones de servicios.
-Nuestra solución (DocSeeker), nace en la misma necesidad de atención médica a domicilio. Nuestro equipo ha identificado un efectivo producto para llevar a profesionales de la salud certificados al hogar de los limeños que requieran este tipo de servicios de forma segura y con una gran calidad.
+Nuestra solución (MediCare), nace en la misma necesidad de atención médica a domicilio. Nuestro equipo ha identificado un efectivo producto para llevar a profesionales de la salud certificados al hogar de los limeños que requieran este tipo de servicios de forma segura y con una gran calidad.
 
 **Brand Name**
 
-El nombre del software identificado es DocSeeker. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal médico especializado y por ello se optó por búsqueda de doctores. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. El equipo espera que la gente vincule a los doctores y el proceso de búsqueda cuando escuche el nombre de la solución, para que tenga una idea de que encontrara en nuestra interfaz.
+El nombre del software identificado es MediCare. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal médico especializado y por ello se optó por búsqueda de doctores. Específicamente en el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. El equipo espera que la gente vincule a los doctores y el proceso de búsqueda cuando escuche el nombre de la solución, para que tenga una idea de que encontrara en nuestra interfaz.
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
@@ -2062,14 +2062,14 @@ Landing Page:
 <meta name="description" content="Landing page aimed at health professionals and people who cannot get around. We will inform you about who we are, what our services are and how you can contact us."/>
 
 
-<meta name="keywords" content="DocSeeker, Home, About us, Services, Contact, Landing Page "/>
+<meta name="keywords" content="MediCare, Home, About us, Services, Contact, Landing Page "/>
 
 
 <meta name="author" content="MEDITECH team"/>
 
 
 
-<title> DocSeeker the best home health care website. </title>
+<title> MediCare the best home health care website. </title>
 
 
 </head>
@@ -2266,13 +2266,13 @@ Link de los Wireframes: https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile
 
 **Segmento Objetivo familiares de pacientes o pacientes**
 
-**User Goal:** Como paciente, deseo iniciar sesión para ingresar a DocSeeker
+**User Goal:** Como paciente, deseo iniciar sesión para ingresar a MediCare
 **Descripción:**
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker.
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a MediCare.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%201.png)
 
-**User Goal:** Como paciente, deseo registrarme para ingresar a DocSeeker
+**User Goal:** Como paciente, deseo registrarme para ingresar a MediCare
 
 **Descripción:**
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder registrarse. Iniciará en el login, seleccionará la opción paciente y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
@@ -2289,7 +2289,7 @@ Al momento de iniciar sesión, se presentará una opción de olvide mi contrase�
 
 **Descripción:**
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en DocSeeker.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en MediCare.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%204.png)
 
@@ -2297,7 +2297,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 **Descripción:**
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder subir su historial médico dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Medical History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en DocSeeker.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder subir su historial médico dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Medical History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en MediCare.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%205.png)
 
@@ -2305,7 +2305,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 **Descripción:**
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de DocSeeker.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%206.png)
 
@@ -2381,15 +2381,15 @@ En el presente Wireflow, nos encontramos en la vista “Book your appointment”
 
 **Segmento Objetivo profesionales de la salud**
 
-**User Goal:** Como profesional de la salud, deseo iniciar sesión para ingresar a DocSeeker
+**User Goal:** Como profesional de la salud, deseo iniciar sesión para ingresar a MediCare
 
 **Descripción:**
 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a DocSeeker.
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a MediCare.
 
 ![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2017.png)
 
-**User Goal:** Como profesional de la salud deseo registrarme para ingresar a DocSeeker
+**User Goal:** Como profesional de la salud deseo registrarme para ingresar a MediCare
 
 **Descripción:**
 
@@ -2490,11 +2490,11 @@ Link: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0%
 
 **User Goal:** Como paciente, deseo iniciar sesión
 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%201.png)
 
-**User Goal:** Como paciente deseo registrarme para ingresar a DocSeeker
+**User Goal:** Como paciente deseo registrarme para ingresar a MediCare
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
 
@@ -2559,11 +2559,11 @@ En el segundo, el proceso comienza en la sección de Inicio de sesión para lueg
 
 **User Goal:** Como profesionales de la salud, deseo iniciar sesión
 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesionales de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a DocSeeker, de lo contrario se mostrarán mensajes de alerta.
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesionales de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
 
 ![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2011.png)
 
-**User Goal:** Como profesionales de la salud deseo registrarme para ingresar a DocSeeker
+**User Goal:** Como profesionales de la salud deseo registrarme para ingresar a MediCare
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
 
@@ -3828,7 +3828,7 @@ Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes
 
 ![](assets/landing_medicare_code.png)
 
-El despliegue del Landing Page de DosSeeker no puod ser poible sin utilizar las siguientes tecnologías:
+El despliegue del Landing Page de MediCare no puod ser poible sin utilizar las siguientes tecnologías:
 • Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
 
 ![](assets/git.png)
@@ -3911,8 +3911,50 @@ Se realizó la validación de ingreso de caracteres válidos sobre el campo cont
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+A continuación, observamos una evidencia del perfil de un doctor para la actualización de datos del usuario.
+![](assets/profile_doctor_sprint2.PNG)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Se desarrolló en este sprint las entidades de Patient para el backend del proyecto MediCare, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con Web Applications.
+
+![](assets/deployment_sprint3.PNG)
+
+![](assets/deployment_patient_sprint3.PNG)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+La gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará Github Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: https://si729-2302-wx52-grupo-3.github.io/LandinPage/public
+
+Para el desarrollo del Landing Page de MediCare se han utilizado las siguientes herramientas:
+• Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
+Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual.
+
+![](assets/landing_medicare_code.png)
+
+Java: es el lenguaje de marcado que estructuro nuesro backend para el proyecto.
+
+![](assets/deployment_sprint3.PNG)
+
+El despliegue del Landing Page y Backend de MediCare no pudo ser poible sin utilizar las siguientes tecnologías:
+• Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
+
+![](assets/git.png)
+
+• GitHub: Plataforma de desarrollo colaborativo.
+
+![](assets/github.png)
+
+• Git Hub Pages: Servicio de Github que nos permitió alojar nuestra lading page.
+
+![](assets/github_pages.jpg)
+
+Evidencia de Deployment
+
+![](assets/medicare_landing.png)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+A continuación, mostramos los commits elaborados por el equipo para el desarrollo del backend para el proyecto.
+
+![](assets/colaboration_sprint3.PNG)
