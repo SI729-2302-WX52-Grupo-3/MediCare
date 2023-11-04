@@ -3997,6 +3997,23 @@ Datos iniciales:
 
 ### 5.3.2. Registro de Entrevistas 
 
+Entrevistado 1:
+
+Nombre y Apellidos: Edwin Lopez Huaman
+Edad: 22
+Distrito: Surco
+Evidencia de reunion:
+
+![](assets/entrevista1.PNG)
+
+URL:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201616054_upc_edu_pe/EfGRhElkzHBArbcdiWLi7wsB2rouCWoJCx85VUvhOJIjjg?e=GjOe8Q&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+Tiempo: 6:00
+Resumen: El entrevistado tiene una imagen positiva acerca del proyecto. Lo califico como muy interesane, intuitiva y atractica. Edwin nos recomienda tener una caracteristica sobre los doctores acerca de calificarlos y tener validados su informacion profesional. Por ultimo, hizo enfasis en la seguridad de los datos compartidos por los pacientes.
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 En esta sección se realizará el reporte de Heurísticas de usabilidad que se encontraron en la realización de la validación con posibles usuarios según su segmento.
@@ -4023,8 +4040,11 @@ En esta sección se realizará el reporte de Heurísticas de usabilidad que se e
 Evidencia: 
 
 				IMAGEN
-        
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/EWZnl3XpW7hPrKA3kX2GAGIBKnRL_XptDqSt9JNNesikoQ?e=sba7Gp 
+
+URL: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/EWZnl3XpW7hPrKA3kX2GAGIBKnRL_XptDqSt9JNNesikoQ?e=sba7Gp 
+
 Duración: 3:32 
 Resumen del video: 
 En el video, se muestra nuestra aplicación, dando uso a las funcionalidades implementadas y la manera en la que el paciente la utilzaría y lo que visualizaría. 
