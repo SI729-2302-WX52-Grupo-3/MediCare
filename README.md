@@ -1,4 +1,4 @@
-![Caratula](/assets/caratula.jpg)
+![](assets/caratula.jpg)
 
 # 1. INTRODUCTION
 
@@ -1813,13 +1813,13 @@ El nombre del software identificado es MediCare. Originalmente surgió a partir 
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
-![Imagen de Branding](/assets/logo.png)
+![Imagen de Branding](assets/logo.png)
 
 **Typography**
 
 La tipografía es necesaria para estructurar y organizar el lenguaje visual de todas las plataformas que se desarrollaran para cumplir con las características principales de la aplicación. Se ha tomado en cuenta que las fuentes deben ser legibles y deben aportar a la experiencia del usuario, por ello se optó por estos tipos de letra.
 
-![Imagen de Typography](/assets/typography.png)
+![Imagen de Typography](assets/typography.png)
 
 **Head**
 
@@ -1913,11 +1913,11 @@ La tipografía es necesaria para estructurar y organizar el lenguaje visual de t
 
 **Colors**
 
-![Imagen de Colors](/assets/4.1.1%20Colors.png)
+![Imagen de Colors](assets/4.1.1%20Colors.png)
 
 **Spacing**
 
-![Imagen de Spacing](/assets/4.1.1%20Spacing.png)
+![Imagen de Spacing](assets/4.1.1%20Spacing.png)
 
 **Tono de comunicación y lenguaje aplicado**
 
@@ -1936,21 +1936,21 @@ Se tomaron en cuenta algunos elementos de diseño para optimizar la interfaz, pe
 
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
 
-![Imagen de Introduccion](/assets/4.1.2%20Introduccion.png)
+![Imagen de Introduccion](assets/4.1.2%20Introduccion.png)
 
 Emplearemos el patrón Z, pues de esta manera identificaran nuestra marca o logo que se encontrara en la esquina superior izquierda, donde comenzara la interacción del usuario. Luego, se desplazará hacia la derecha donde visualizará las diferentes opciones que ofreceremos como como About, Reserve su cita o el área de configuración. Siguientemente, el usuario se desplazará verticalmente hacia abajo para seguir interactuando con el contenido de la aplicación. Finalmente, el usuario llegará a la esquina inferior derecha donde podrá visualizar todas nuestras redes sociales y nuestros medios de contacto.
 
-![Imagen de Patron z](/assets/4.1.2%20patron%20z%20.png)
+![Imagen de Patron z](assets/4.1.2%20patron%20z%20.png)
 
 Siguientemente, el diseño de nuestra aplicación contara con colores que motiven al usuario a seguir interactuando con la plataforma. Asimismo, se contará con sombras y espacios que favorezcan la lectura de la información y limiten el contenido para no abrumar al navegante.
 Se emplearán algunos de los siguientes elementos:
 
-![Imagen de Cuadros de Seleccion](/assets/4.1.2%20cuadros%20de%20seleccion.png)
-![Imagen de Botones](/assets/4.1.2%20botones.png)
+![Imagen de Cuadros de Seleccion](assets/4.1.2%20cuadros%20de%20seleccion.png)
+![Imagen de Botones](assets/4.1.2%20botones.png)
 
-![Imagen de Elementos Grandes](/assets/4.1.2%20elementos%20grandes.png)
+![Imagen de Elementos Grandes](assets/4.1.2%20elementos%20grandes.png)
 
-![Imagen](/assets/4.1.2%20tarjetas.png)
+![Imagen](assets/4.1.2%20tarjetas.png)
 
 Link para visualizar el figma con el Style Guidelines general:
 [https://www.figma.com/file/TJyGTgCV9lIF2z9YxlJOCi/Web-%26-Mobile-Style-Guidelines?node-id=1%3A152&t=2yc9uFV3BG287eKC-1](https://www.figma.com/file/TJyGTgCV9lIF2z9YxlJOCi/Web-%26-Mobile-Style-Guidelines?node-id=1%3A152&t=2yc9uFV3BG287eKC-1)
@@ -2139,21 +2139,21 @@ Buscamos colocar la información precisa sin abrumar para realizar este trabajo.
 
 **Desktop Web**
 
-![Imagen](/assets/4.3.1%20Desktop%20Web.png)
+![Imagen](assets/4.3.1%20Desktop%20Web.png)
 
 Diseño del menú del sitio web: Se presenta la base que incluirá las opciones más destacadas para la atención del usuario.
 
-![Imagen](/assets/4.3.1%20meet%20us.png)
+![Imagen](assets/4.3.1%20meet%20us.png)
 
 Opción que muestra datos para conocer mejor la plataforma.
 
 Servicios para ambos segmentos:
 
-![Imagen](/assets/4.3.1%20Patience%20Service.png)
+![Imagen](assets/4.3.1%20Patience%20Service.png)
 
 Página de referencia para dar a conocer como contactar y la actualidad de la plataforma.
 
-![Imagen](/assets/4.3.1%20Contact%20us.png)
+![Imagen](assets/4.3.1%20Contact%20us.png)
 
 Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1 ](https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1)
 
@@ -2161,19 +2161,19 @@ Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?
 
 Se observa el diseño del bloque de menú de inicio para la accesibilidad del usuario, mostrando el botón que despliega las opciones de navegación.
 
-![Imagen](/assets/4.3.1%20Mobile%20Web%201.png)
+![Imagen](assets/4.3.1%20Mobile%20Web%201.png)
 
 Se visualiza un bloque que indica opciones que incluye en la lista de herramientas del servidor, en un caso determinado, información de la aplicación.
 
-![Imagen](/assets/4.3.1%20Mobile%20Web%202.png)
+![Imagen](assets/4.3.1%20Mobile%20Web%202.png)
 
 Se visualiza los servicios para ambos segmentos objetivos.
 
-![Imagen](/assets/4.3.1%20Mobile%20Web%203.png)
+![Imagen](assets/4.3.1%20Mobile%20Web%203.png)
 
 Se muestra el bloque final de la aplicación, detallando contenido de comunicación del servicio y el usuario.
 
-![Imagen](/assets/4.3.1%20Mobile%20Web%204.png)
+![Imagen](assets/4.3.1%20Mobile%20Web%204.png)
 
 Link: [https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1](https://www.figma.com/file/3pY3tmV0UMKkfQpWxngbBN/WireFrame-Landing-Page?t=2yc9uFV3BG287eKC-1)
 
@@ -2185,27 +2185,27 @@ Se presenta la versión preliminar en qué consistirá nuestro sitio web, detall
 
 Se muestra la versión menú de la plataforma, detallando los principales contenidos, opciones que permiten conocer más nuestro sistema al usuario.
 
-![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%201.png)
+![Imagen](assets/4.3.2%20Landing%20Page%20Mockup%201.png)
 
 Al elegir la opción “Meet Us” de la barra de herramientas del menú principal, se muestra 3 elecciones como adquisición del usuario que tendrá libertad de elegir cuál opción es su necesidad para informarse acerca de nuestro proyecto.
 
-![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%202.png)
+![Imagen](assets/4.3.2%20Landing%20Page%20Mockup%202.png)
 
 Se presenta los servicios que posee el usuario a lo largo del consumo del software.
 
-![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%203.png)
+![Imagen](assets/4.3.2%20Landing%20Page%20Mockup%203.png)
 
 **Usuario: Familiares de los Pacientes**
 
-![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%204.png)
+![Imagen](assets/4.3.2%20Landing%20Page%20Mockup%204.png)
 
 **Usuario: Profesionales de Salud**
 
-![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%205.png)
+![Imagen](assets/4.3.2%20Landing%20Page%20Mockup%205.png)
 
 Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
 
-![Imagen](/assets/4.3.2%20Landing%20Page%20Mockup%206.png)
+![Imagen](assets/4.3.2%20Landing%20Page%20Mockup%206.png)
 
 Link: [https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1 ](https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1)
 
@@ -2213,23 +2213,23 @@ Link: [https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?nod
 
 Se presenta el bloque de menú principal de la Landing Page en su versión Mobile, junto con sus opciones de mayor interés para nuestro público objetivo y una breve descripción de nuestro software.
 
-![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%201.png)
+![Imagen](assets/4.3.2%20Mobile%20Web%20Browser%201.png)
 
 Se muestra el bloque de “Meet Us”, con información del proceso de nuestros tratamientos en base del profesional de salud asignado, consultas acerca de nuestro proceso del sistema, información de nuestra misión y de nuestras consultas.
 
-![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%202.png)
+![Imagen](assets/4.3.2%20Mobile%20Web%20Browser%202.png)
 
 Se muestra el bloque de servicios que se ofrecen para los pacientes y los profesionales interesados en nuestro software.
 
-![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%203.png)
+![Imagen](assets/4.3.2%20Mobile%20Web%20Browser%203.png)
 
-![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%204.png)
+![Imagen](assets/4.3.2%20Mobile%20Web%20Browser%204.png)
 
-![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%205.png)
+![Imagen](assets/4.3.2%20Mobile%20Web%20Browser%205.png)
 
 Se presenta como bloque final de la plataforma, información breve de contacto, y la opción de contactarnos y comentarnos sus dudas y/o necesidades.
 
-![Imagen](/assets/4.3.2%20Mobile%20Web%20Browser%206.png)
+![Imagen](assets/4.3.2%20Mobile%20Web%20Browser%206.png)
 
 Link:
 https://www.figma.com/file/svXeYjsftBbmjDcr3ofBq1/Mockup-Landing-Page?node-id=0%3A1&t=GBbuKtIeiaN6zfZx-1
@@ -2242,13 +2242,13 @@ A continuación, se presentan los diseños aplicados para nuestro Landing page y
 
 **Segmento Objetivo familiares de pacientes o pacientes**
 
-![Imagen](/assets/4.4.1%20Web%20Applications%20Wireframes.%201.png)
+![Imagen](assets/4.4.1%20Web%20Applications%20Wireframes.%201.png)
 
 Link: https://www.figma.com/file/E3GznLyGX8hCczpdUo4fIu/Wireframes-Web-Design?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1
 
 **Segmento Objetivo profesionales de la salud**
 
-![Imagen](/assets/4.4.1%20Web%20Applications%20Wireframes.%202.png)
+![Imagen](assets/4.4.1%20Web%20Applications%20Wireframes.%202.png)
 
 Link: https://www.figma.com/file/E3GznLyGX8hCczpdUo4fIu/Wireframes-Web-Design?node-id=1%3A7007&t=nH5o2DX8ccnlARnb-1
 
@@ -2256,7 +2256,7 @@ Link: https://www.figma.com/file/E3GznLyGX8hCczpdUo4fIu/Wireframes-Web-Design?no
 
 **Mobile**
 
-![Imagen](/assets/4.4.1%20Web%20Applications%20Wireframes.%203.png)
+![Imagen](assets/4.4.1%20Web%20Applications%20Wireframes.%203.png)
 
 Link de los Wireframes: https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile-Wireframe?node-id=0%3A1&t=nH5o2DX8ccnlARnb-1
 
@@ -2270,20 +2270,20 @@ Link de los Wireframes: https://www.figma.com/file/n15JEWQuYtY5BHqyds6KxI/Mobile
 **Descripción:**
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a MediCare.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%201.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%201.png)
 
 **User Goal:** Como paciente, deseo registrarme para ingresar a MediCare
 
 **Descripción:**
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente o su familiar para poder registrarse. Iniciará en el login, seleccionará la opción paciente y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%202.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%202.png)
 
 **User Goal:** Como paciente deseo cambiar mi contraseña
 
 Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%203.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%203.png)
 
 **User Goal:** Como paciente deseo visualizar mi historial médico.
 
@@ -2291,7 +2291,7 @@ Al momento de iniciar sesión, se presentará una opción de olvide mi contrase�
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History” para poder obtener su historial médico presente en MediCare.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%204.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%204.png)
 
 **User Goal:** Como paciente deseo subir mi historial médico.
 
@@ -2299,7 +2299,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder subir su historial médico dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Medical History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en MediCare.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%205.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%205.png)
 
 **User Goal:** Como paciente deseo visualizar el perfil de un profesional de la salud
 
@@ -2307,7 +2307,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%206.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%206.png)
 
 **User Goal:** Como paciente deseo ver las reseñas de un profesional de la salud
 
@@ -2315,8 +2315,8 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar las reseñas de un profesional de la salud. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de profesionales de la salud. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%207.png)
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%208.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%207.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%208.png)
 
 **User Goal:** Como paciente deseo publicar una nueva reseña a un profesional de la salud
 
@@ -2324,7 +2324,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario paciente para poder escribir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%209.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%209.png)
 
 **User Goal:** Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
@@ -2332,7 +2332,7 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2010.png)
+![Imagen](assets/4.4.2 Web Applications Wireflow Diagrams. 10.png)
 
 **User Goal:** Como paciente deseo revisar mi perfil.
 
@@ -2340,7 +2340,7 @@ En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aqu�
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2011.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2011.png)
 
 **User Goal:** Como paciente deseo editar mi información de perfil.
 
@@ -2348,7 +2348,7 @@ En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente 
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Personal Information”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2012.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2012.png)
 
 **User Goal:** Como paciente deseo revisar mi receta médica.
 
@@ -2356,7 +2356,7 @@ En este Wireflow, se visualiza el proceso que debe realizar el usuario paciente 
 
 En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2013.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2013.png)
 
 **User Goal:** Como paciente deseo ver noticias relacionadas con la salud.
 
@@ -2365,11 +2365,11 @@ En el presente Wireflow, el proceso comienza en la sección principal de la plat
 En los presentes Wireflows se muestran las dos diferentes formas para realizar este User Goal.
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2014.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2014.png)
 
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2015.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2015.png)
 
 **User Goal:** Como paciente, deseo pagar una cita escogida previamente para poder llevar a cabo el encuentro con el medico
 
@@ -2377,7 +2377,7 @@ En el segundo, el proceso comienza en la sección de Inicio de sesión para lueg
 
 En el presente Wireflow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, se mostrará una ventana informando que el pago fue realizado correctamente.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2016.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2016.png)
 
 **Segmento Objetivo profesionales de la salud**
 
@@ -2387,7 +2387,7 @@ En el presente Wireflow, nos encontramos en la vista “Book your appointment”
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña, para poder ingresar a MediCare.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2017.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2017.png)
 
 **User Goal:** Como profesional de la salud deseo registrarme para ingresar a MediCare
 
@@ -2395,7 +2395,7 @@ En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesion
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder registrarse. Iniciará en el login, seleccionará la opción profesional de la salud y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2018.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2018.png)
 
 **User Goal:** Como profesional de la salud deseo cambiar mi contraseña
 
@@ -2403,7 +2403,7 @@ En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesion
 
 Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2019.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2019.png)
 
 **User Goal:** Como profesional de la salud, deseo ver todas las ofertas de citas médicas que me han llegado para aceptar o rechazarlas.
 
@@ -2411,7 +2411,7 @@ Al momento de iniciar sesión, se presentará una opción de olvide mi contrase�
 
 En el presente Wireflow, nos encontramos en la vista “My appointments”, donde se muestra todas las citas médicas que han sido solicitadas al médico. Al dar click a una de ellas, el sistema lleva al médico a la vista detallada de la cita médica, dónde podrá ver la razón de la cita, archivos adjuntos, entre otros.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2020.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2020.png)
 
 **User Goal:** Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
 
@@ -2420,7 +2420,7 @@ En el presente Wireflow, nos encontramos en la vista “My appointments”, dond
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de Dario Hernandez, un paciente en la aplicación web. Podemos visualizar sus datos personales, así como, todos los registros que han sido guardados cuándo se ha atendido con nosotros. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos explicando el problema y de qué trató la cita médica, se da click al botón “Save” para guardar el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio.
 Imagen
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2021.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2021.png)
 
 **User Goal:** Como profesional deseo revisar mi perfil.
 
@@ -2428,7 +2428,7 @@ Imagen
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2022.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2022.png)
 
 **User Goal:** Como profesional deseo revisar mi perfil.
 
@@ -2436,7 +2436,7 @@ En este Wireflow, se visualiza el proceso que debe realizar el usuario profesion
 
 En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Edit”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2023.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2023.png)
 
 **User Goal:** Como profesional de la salud deseo revisar mis ingresos de la plataforma.
 
@@ -2444,7 +2444,7 @@ En este Wireflow, se visualiza el proceso que debe realizar el usuario profesion
 
 En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2024.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2024.png)
 
 **User Goal:** Como profesional de la salud deseo ver noticias relacionadas con la salud.
 
@@ -2454,11 +2454,11 @@ En los presentes Wireflows se muestran las dos diferentes formas para realizar e
 
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2025.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2025.png)
 
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
 
-![Imagen](/assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2026.png)
+![Imagen](assets/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%2026.png)
 
 Link: https://lucid.app/lucidspark/587ceaf6-87a8-4ada-9d27-11b6501079c9/edit?viewport_loc=-7324%2C-3408%2C15705%2C7849%2C0_0&invitationId=inv_fa50f490-aa9e-4fba-9616-175c7053898a
 
@@ -2466,13 +2466,13 @@ Link: https://lucid.app/lucidspark/587ceaf6-87a8-4ada-9d27-11b6501079c9/edit?vie
 
 **Segmento Objetivo familiares de pacientes o pacientes**
 
-![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%201.png)
+![Imagen](assets/4.4.3.%20Web%20Applications%20Mock-ups.%201.png)
 
 Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=design&node-id=0%3A1&mode=design&t=7vGrKimkJOv1wYyG-1
 
 **Segmento Objetivo profesionales de la salud**
 
-![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%202.png)![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%203.png)
+![Imagen](assets/4.4.3.%20Web%20Applications%20Mock-ups.%202.png)![Imagen](assets/4.4.3.%20Web%20Applications%20Mock-ups.%203.png)
 
 Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=design&node-id=0%3A1&mode=design&t=7vGrKimkJOv1wYyG-1
 
@@ -2480,7 +2480,7 @@ Link: https://www.figma.com/file/4QGuABqYMe2Qlg1gcVC7Hi/Mockup-Web-Design?type=d
 
 **Mobile**
 
-![Imagen](/assets/4.4.3.%20Web%20Applications%20Mock-ups.%204.png)
+![Imagen](assets/4.4.3.%20Web%20Applications%20Mock-ups.%204.png)
 
 Link: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0%3A1&t=9iKqBfkwK3Wpcjnb-1
 
@@ -2492,13 +2492,13 @@ Link: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0%
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%201.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%201.png)
 
 **User Goal:** Como paciente deseo registrarme para ingresar a MediCare
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%202.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%202.png)
 
 **User Goal:** Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
@@ -2506,7 +2506,7 @@ Al momento de iniciar el registro, el usuario deberá ingresar todos los datos q
 
 En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día. Si el usuario da click a una fecha que no está disponible, el sistema le mostrará un mensaje de advertencia, diciéndole que esa fecha no se encuentra disponible.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%203.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%203.png)
 
 **User Goal:** Como paciente deseo visualizar mi historial médico
 
@@ -2514,7 +2514,7 @@ En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aqu�
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%204.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%204.png)
 
 **User Goal:** Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendarla
 
@@ -2522,7 +2522,7 @@ En el presente UserFlow, se presenta el camino que deberá seguir el usuario pac
 
 En el presente UserFlow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, si no hay problemas con el pago, se mostrara una ventana informando que el pago fue realizado correctamente, en caso contrario, se mostrara una ventana indicando que hubo un error.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%205.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%205.png)
 
 **User Goal:** Como paciente deseo publicar una reseña a un profesional de la salud
 
@@ -2530,30 +2530,30 @@ En el presente UserFlow, nos encontramos en la vista “Book your appointment”
 
 En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder añadir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, donde se dirigirá al perfil del doctor. Al momento de entrar al apartado de reseñas mediante “See Reviews”, se presentarán dos posibles escenarios, uno en el que el médico cuenta con reseñas previas y se presentarán en una lista, y otro en el que no presenta aún ni una reseña y saldrá un mensaje que indica este hecho. En ambos casos, se presentará la opción de publicar una nueva con lo que saldrá el formulario de reseñas. Una vez se selecciona publicar la reseña saldrá un mensaje de confirmación.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%206.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%206.png)
 
 **User Goal:** Como paciente deseo ver mi perfil de usuario a detalle
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información deberá dar click al botón “Personal Information”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%207.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%207.png)
 
 **User Goal:** Como paciente deseo revisar mi receta médica.
 
 En el presente User Flow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. Sin embargo, se puede dar el caso de que aún no se haya realizado la primera prescripción dentro de nuestra plataforma, en ese caso se le mostrará un mensaje al usuario de que aún no hay prescripciones disponibles.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%208.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%208.png)
 
 **User Goal:** Como paciente deseo ver noticias relacionadas con la salud.
 
 En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal.
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%209.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%209.png)
 
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2010.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2010.png)
 
 **Segmento Objetivo profesionales de la salud**
 
@@ -2561,13 +2561,13 @@ En el segundo, el proceso comienza en la sección de Inicio de sesión para lueg
 
 En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesionales de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2011.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2011.png)
 
 **User Goal:** Como profesionales de la salud deseo registrarme para ingresar a MediCare
 
 Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2012.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2012.png)
 
 **User Goal:** Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
 
@@ -2575,36 +2575,36 @@ Al momento de iniciar el registro, el usuario deberá ingresar todos los datos q
 
 En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y dar click al botón “Save”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da click al botón “Save”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2013.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2013.png)
 
 **User Goal:** Como profesional deseo editar mi información de perfil
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la información de perfil y editarla si es que se desea. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información a detalle deberá dar click al botón “Edit”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2014.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2014.png)
 
 **User Goal:** Como profesional deseo visualizar mis reseñas
 
 En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a las reseñas que ha recibido por su servicio. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y desde esta vista se puede visualizar las reseñas recientes, pero en caso se deseen visualizar todas a más detalle el usuario deberá dar click al botón “More”, en caso el usuario aún no tenga ninguna reseña se mostrará una ventana con un mensaje notificándolo, caso contrario se visualizarán todas las reseñas disponibles realizadas.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2015.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2015.png)
 
 **User Goal:** Como profesional de la salud deseo revisar mis ingresos de la plataforma.
 
 En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones. Sin embargo, si aún no han recibido ninguna transacción entonces el cuadro estadístico no mostrará ninguna medición y el historial estará vacío.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2016.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2016.png)
 
 **User Goal:** Como profesional de la salud deseo ver noticias relacionadas con la salud.
 
 En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal.
 En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2017.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2017.png)
 
 En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
 
-![Imagen](/assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2018.png)
+![Imagen](assets/4.4.4.%20Web%20Applications%20User%20Flow%20Diagrams%2018.png)
 
 Link: https://lucid.app/lucidspark/6ad6cde8-3b52-4568-a875-363f1c082e24/edit?viewport_loc=-10887%2C-5365%2C23653%2C11820%2C0_0&invitationId=inv_fa5798b1-94ea-4e80-a88b-92c55dc10da8
 
@@ -2673,13 +2673,13 @@ En el presente video se evidencia y detallan las opciones disponibles para ambos
 
 **Relaciones padre-hijo, cada objeto puede estar subordinado a un solo objeto principal:** Los elementos más representativos de esto serían los botones y la barra de navegación, ya que al ser replicadas en casi todos los mockups se desarrolló una relación padre-hijo para mantener el mismo diseño en cada uno de ellos.
 
-![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%201.png)
+![Imagen](assets/4.5.%20Web%20Applications%20Prototyping%201.png)
 
 Link del prototipo: https://www.figma.com/file/vw5U3k1RrZNwLDbCj77Woy/Mockup-Web-Design?node-id=0%3A1&t=aRfojyUWKFxYKa5v-1
 
 **Evidencia visual del video o screenshoot:**
 
-![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%202.png)
+![Imagen](assets/4.5.%20Web%20Applications%20Prototyping%202.png)
 
 Link: https://web.microsoftstream.com/video/6dd0f3d0-869e-4faf-9c8c-d00f03e65a41
 
@@ -2687,13 +2687,13 @@ Link: https://web.microsoftstream.com/video/6dd0f3d0-869e-4faf-9c8c-d00f03e65a41
 
 **Mobile Web Browser**
 
-![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%203.png)
+![Imagen](assets/4.5.%20Web%20Applications%20Prototyping%203.png)
 
 Link de prototipo Android y iOS: https://www.figma.com/file/9YxpaL9WMw6CKxwo5rCyDC/Mobile-Mockup?node-id=0-1&t=2EP6wgOyjfHFJL31-0
 
 **Evidencia visual del video o screenshoot:**
 
-![Imagen](/assets/4.5.%20Web%20Applications%20Prototyping%204.png)
+![Imagen](assets/4.5.%20Web%20Applications%20Prototyping%204.png)
 
 Link de Stream: https://web.microsoftstream.com/video/7fa44ae7-d482-4428-9d4c-12d42ff6329c
 
@@ -2703,7 +2703,7 @@ Link de Stream: https://web.microsoftstream.com/video/7fa44ae7-d482-4428-9d4c-12
 
 En el presente diagrama se detallan cómo interactúan los usuarios (personas con dificultad para movilizarse y profesionales de la salud) con nuestro sistema de software y con sistemas externos, en este caso, el servicio de correos de Microsoft Exchange y el sistema de pasarela de pago.
 
-![Imagen](/assets/4.6.1.%20Software%20Architecture%20Context%20Diagram%201.png)
+![Imagen](assets/4.6.1.%20Software%20Architecture%20Context%20Diagram%201.png)
 
 
 
@@ -2711,19 +2711,19 @@ En el presente diagrama se detallan cómo interactúan los usuarios (personas co
 
 A continuación, se mostrará el diagrama de contenedores de nuestro sistema. Este artefacto es el segundo nivel del modelo C4 y presenta los componentes técnicos de manera más detallada, lo cual genera una ampliación en la visión de la arquitectura del software.
 
-![Imagen](/assets/4.6.2.%20Software%20Architecture%20Container%20Diagrams%201.png)
+![Imagen](assets/4.6.2.%20Software%20Architecture%20Container%20Diagrams%201.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 En esta sección se presentará el diagrama de componentes de nuestra arquitectura de software, en este se detallan los componentes de nuestros contendores, asimismo, se indican sus responsabilidades y los detalles de tecnología e implementación.
 
-![Imagen](/assets/4.6.3.%20Software%20Architecture%20Components%20Diagrams%201.png)
+![Imagen](assets/4.6.3.%20Software%20Architecture%20Components%20Diagrams%201.png)
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-![Imagen](/assets/4.7.1.%20Class%20Diagrams%201.png)
+![](assets/4.7.1.%20Class%20Diagrams%201.png)
 
 
 
@@ -2747,7 +2747,7 @@ HealthProduct: Esta clase depende de la clase Pharmacy y puede pertenecer solo a
 
 ### 4.8.1. Database Diagram
 
-![Imagen](/assets/4.8.1.%20Database%20Diagram%201.png)
+![Imagen](assets/4.8.1.%20Database%20Diagram%201.png)
 
 Entidades de la base de datos
 
