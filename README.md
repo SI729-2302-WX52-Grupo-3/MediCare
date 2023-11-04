@@ -3914,6 +3914,8 @@ Se realizó la validación de ingreso de caracteres válidos sobre el campo cont
 A continuación, observamos una evidencia del perfil de un doctor para la actualización de datos del usuario.
 ![](assets/profile_doctor_sprint2.PNG)
 
+![](assets/evidencia_aplicacion.PNG)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Se desarrolló en este sprint las entidades de Patient para el backend del proyecto MediCare, pues en esta sección presentaremos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint y con Web Applications.
