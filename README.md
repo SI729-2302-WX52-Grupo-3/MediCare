@@ -3865,11 +3865,49 @@ Network: se muestran los últimos commits, los push y los merge que el equipo de
 
 #### 5.2.3.1. Sprint Planning 3
 
+| Sprint                         | Sprint 3                                                                                                                                                                                                                                                                             |
+|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background     |                                                                                                                                                                                                                                                                                      |
+| Date                           | 2023-11-03                                                                                                                                                                                                                                                                           |
+| Time                           | 04:00 PM                                                                                                                                                                                                                                                                             |
+| Location                       | Servidor de Discord del Equipo                                                                                                                                                                                                                                                       |
+| Prepared By                    | Clara Angie Valverde Salazar                                                                                                                                                                                                                                                         |
+| Attendees (to planning meeting | Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar                                                                                                                                 |
+| Sprint 3 Review Summary        | Observacion en el formato de la documentacion para el proyecto y correccón de errores del código                                                                                                                                                                                     |
+| Sprint 3 Retrospective Summary | Se corrigió los errores del anterior del anterior sprint.                                                                                                                                                                                                                            |
+| Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                      |
+| Sprint 3 Goal                  | La meta de este Sprint es el despliegue de la Landing Page, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. Además, se realizó los wireframes y mockups para la aplicación web del proyecto |
+| Sprint 3 Velocity              | 13 Velocity                                                                                                                                                                                                                                                                          |
+| Sum of Story Points            | 24 Story points                                                                                                                                                                                                                                                                      |
+
 #### 5.2.3.2. Sprint Backlog 3
+
+En esta tercera entrega, tuvimos como objetivo implementar el diseño de nuestro Landing Page mediante la utilización de WebStorm y la elaboracion de wireframes y mockups del software. Es decir, todas las secciones deben estar terminadas al finalizar el Sprint, ya sea inicio, conócenos, servicios o contáctanos. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.016.png)
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+En esta sección, se presentará la evidencia del progreso y desarrollo del software. Se incluirán detalles sobre las características específicas que se han implementado durante el sprint actual, destacando cualquier avance significativo en la plataforma.
+
+Aquí podemos observar el despliegue de nuestra landing page en la version escritorio.
+![](assets/landingpage_sprint2.PNG)
+
+Aquí podemos observar el despliegue de nuestra landing page en la version móvil.
+![](assets/landingpage_mobile_sprint2.PNG)
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Se realizó las pruebas funcionales sobre la aplicación web del proyecto.
+
+Se realizó la validación de ingreso de caracteres válidos sobre el campo nombre para la aplicación web.
+![](assets/validacion_sprint2.PNG)
+
+Se realizó la validación de ingreso de caracteres válidos sobre el campo correo para la aplicación web.
+![](assets/validacion2_sprint2.PNG)
+
+Se realizó la validación de ingreso de caracteres válidos sobre el campo contraseña para la aplicación web.
+![](assets/validacion3_sprint2.PNG)
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
