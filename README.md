@@ -2845,7 +2845,6 @@ Y clasificar los elementos de las secciones si es ruta de referencia (para softw
 Es la disciplina basada en la gestión de los proyectos, la cual tiene como objetivo principal mejorar los procesos y su entorno para alcanzar los resultados esperados.
 
 - Trello: Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application.
-
 <https://trello.com/es>
 
 **Requirements Management**
@@ -2859,23 +2858,22 @@ Es el proceso de garantizar que una organización documente verifique y satisfag
 Esta herramienta permite desarrollar el modelo en nuestro producto de manera digital y forme parte de la vida del consumidor. En este caso realizar un modelo de sitio web para computadoras y celulares.
 
 - **Uxpressia:** es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map.
-
 <https://uxpressia.com/>
 
-- **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
 
+- **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
 <https://miro.com/app/dashboard/>
 
-- **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.
 
+- **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Mobile Browser.
 <https://www.figma.com/design/>
 
-- **Lucid Chart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
 
+- **Lucid Chart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama.
 <https://lucid.app/documents#/dashboard>
 
-- **Structurizr :** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución.
 
+- **Structurizr :** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución.
 <https://structurizr.com/>
 
 **Software Development**
@@ -2883,39 +2881,38 @@ Esta herramienta permite desarrollar el modelo en nuestro producto de manera dig
 Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso.
 
 - **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas.
-
 <https://github.com/MEDITECH-Open-Source-WX52-GRUPO-3>
 
-- **Web Storm:** Es un entorno de JetBrains, empresa desarrolladora de Software, orientado en el desarrollo web en JavaScript. Este nos ofrece facilidad en probar nuestro entorno web en navegadores como Google. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS , JavaScript y TypeScript.
 
+- **Web Storm:** Es un entorno de JetBrains, empresa desarrolladora de Software, orientado en el desarrollo web en JavaScript. Este nos ofrece facilidad en probar nuestro entorno web en navegadores como Google. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS , JavaScript y TypeScript.
 <https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=9641686239&term=webstorm&gclid=CjwKCAjwv-GUBhAzEiwASUMm4ncU-aP3HPxUWVYTPMthApgSMowOvvfEAoJMFvwf1O_gQdv0HtWOrhoCdacQAvD_BwE>
 
-- **Visual Studio Code:** Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea <a name="_hlk113961326"></a>más eficiente. Asimismo, se empleará para poder construir el backend de nuestro web Applications.
 
+- **Visual Studio Code:** Es un editor potente que brinda extensiones que nos permiten personalizar y agregar funcionalidades para que la función del desarrollador sea <a name="_hlk113961326"></a>más eficiente. Asimismo, se empleará para poder construir el backend de nuestro web Applications.
 <https://code.visualstudio.com/>
 
-- **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web. Asimismo, la disponibilidad de trabajar HTML junto con CSS y JavaScript. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.
 
+- **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web. Asimismo, la disponibilidad de trabajar HTML junto con CSS y JavaScript. Este lenguaje será utilizado en el presente proyecto para implementar la documentación de la página web.
 <https://www.jetbrains.com/help/webstorm/editing-html-files.html>
 
-- **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. Además, se puede diseñar un estilo en CSS y compartirlo en el web elaborado en HTML. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.
 
+- **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. Además, se puede diseñar un estilo en CSS y compartirlo en el web elaborado en HTML. Este lenguaje se utilizará para la implementación del diseño de nuestra plataforma web.
 <https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion>
 
-- **JavaScript:** Es un lenguaje de programación que es analizado por otros programas. Este trabaja en POO (programación orientada en objetos) para prototipos sin implementación con clases. Este programa permite realizar dinámicas para el usuario a través de la lógica de la programación. Se utilizará para la elaboración de las dinámicas de la plataforma web.
 
+- **JavaScript:** Es un lenguaje de programación que es analizado por otros programas. Este trabaja en POO (programación orientada en objetos) para prototipos sin implementación con clases. Este programa permite realizar dinámicas para el usuario a través de la lógica de la programación. Se utilizará para la elaboración de las dinámicas de la plataforma web.
 <https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html>
 
-- **Java:** Es un lenguaje de programación y una plataforma informática mundialmente conocida y favorito de muchos.
 
+- **Java:** Es un lenguaje de programación y una plataforma informática mundialmente conocida y favorito de muchos.
 <https://www.java.com/es/>
 
-- **TypeScript:** Es un superset de JavaScript. Este lenguaje nos permite aplicar programas de javaScript, pero cabe resaltar que no funciona al revés. Su principal funcionalidad es que pone a disposición del desarrollador librerías y frameworks que existen para JavaScript.
 
+- **TypeScript:** Es un superset de JavaScript. Este lenguaje nos permite aplicar programas de javaScript, pero cabe resaltar que no funciona al revés. Su principal funcionalidad es que pone a disposición del desarrollador librerías y frameworks que existen para JavaScript.
 <https://www.typescriptlang.org/>
 
-- **Angular:** Framework de TypeScript, de código abierto, utilizado para desarrollar SPA.
 
+- **Angular:** Framework de TypeScript, de código abierto, utilizado para desarrollar SPA.
 <https://angular.io>
 
 **Software Testing**
@@ -2927,13 +2924,11 @@ Es el acto de examinar los artefactos y el comportamiento del software bajo prue
 **Software Deployment**
 
 - **Github pages:** Servicio de Github que nos permitió alojar nuestra lading page y nos permitirá alojar nuestro web applications.
-
 [https://pages.github.com/](https://pages.github.com/)
-
 [https://github.com/](https://github.com/)
 
-- **Firebase:** Servicio de firebase para poder alojar nuestra web Application front end.
 
+- **Firebase:** Servicio de firebase para poder alojar nuestra web Application front end.
 [\*\*https://firebase.google.com/?hl=es](https://firebase.google.com/?hl=es)\*\*
 
 **Software Documentation**
@@ -2941,7 +2936,6 @@ Es el acto de examinar los artefactos y el comportamiento del software bajo prue
 Es un tipo de texto escrito o ilustración que acompaña al software de computadora o está incrustado en el código fuente. La documentación explica cómo funciona el software o cómo usarlo.
 
 - **OpenAPI Specification vía Swagger**: Es una especificación para archivos de interfaz legibles por máquina para describir, producir y visualizar servicios web RESTful.
-
 <https://swagger.io/specification/>
 
 ### 5.1.2. Source Code Management
