@@ -4030,6 +4030,27 @@ https://drive.google.com/file/d/1-zVPxNlj1Aaykda9obU5hMpr_GuKMDz9/view?usp=shari
 Tiempo: 7:20
 Resumen: Johan nos comenta que nuestra aplicación web le pareció muy intuitiva y llamativa debido a los colores, las imágenes, los tamaños de letra y por el diseño en general. Además, él sí está de acuerdo en que sus datos podrían guardarse dentro de nuestros sistema puesto que funciona como si fuera un hospital lo cual la única funcionalidad sería ayudar al paciente. Finalmente, nos recomendó algunas funcionalidades extra como es el caso de poder pagar no solo con VISA como la mayoría de plataformas sino que innovar con otros medio de pagos como sería PAGOEFECTIVO, YAPE o PLIN.
 
+
+Entrevistado 3:
+
+
+Nombre y Apellidos: Alexis Frogoziolo Chavez
+
+Edad: 25
+
+Distrito: San Borja
+
+Evidencia de Reunión:
+
+![](assets/Entrevista_Alexis.png)
+
+URL:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911924_upc_edu_pe/EaeCdDwKL1JIrb0F9Iy_QmMB10pKk-7jVyaoNN1kfQAOxw?e=CfAGYk
+
+Tiempo: 4:31
+
+Resumen: Alexis nos comenta que nuestra aplicación web le pareció muy intuitiva y llamativa debido a los colores, además de las facilidades que encuentra en esta. Por último, nos comenta las mejoras que podriamos realizar a esta misma.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 En esta sección se realizará el reporte de Heurísticas de usabilidad que se encontraron en la realización de la validación con posibles usuarios según su segmento.
