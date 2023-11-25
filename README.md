@@ -1,5 +1,12 @@
 ![](assets/caratula.jpg)
 
+# Student Outcome
+
+|   Criterio   |    Participación  |
+|-|-|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería| Me comunico utilizando códigos adecuados según la audiencia a la que me dirijo, asegurándome de que el mensaje se haya recibido de manera satisfactoria. Utilizo medios audiovisuales apropiados de acuerdo con el mensaje que intento transmitir, validando que la comunicación haya sido exitosa. Dirijo mi comunicación hacia los objetivos específicos de cada presentación de resultados, garantizando que el mensaje se haya entendido correctamente. Antes de emitir mi juicio crítico, escucho a los demás de manera objetiva y luego busco la conciliación. |
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería|Preparo informes técnicos conforme a los estándares establecidos para la ejecución de las tareas, asegurándome de validar sus atributos de calidad antes de la presentación. Muestro de manera empática mi capacidad de sintetizar ideas y conceptos fundamentales según el público objetivo. Utilizo de manera sistemática un lenguaje escrito y medios apropiados para la audiencia a la que me dirijo, verificando los atributos de calidad antes de realizar la presentación. |
+
 # 1. INTRODUCTION
 
 ## 1.1. Startup Profile
