@@ -3990,6 +3990,24 @@ En esta cuarta entrega, tuvimos como objetivo implementar el swagger en nuestro 
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+
+|    Repository    |    Branch    |    Commit Id   |    Commit message    |    Committed on(date)    |
+|---|---|---|---|---|
+|Backend|feature/willy_valentin|18400df |add appointment | 22-11-2023|
+|Backend|feature/sergio_bazan|fd19078 |add payment | 22-11-2023|
+|Backend|feature/clara_valverde| 15354b3|add record | 22-11-2023|
+|Backend|feature/alfredo_farro|8ff92eb |add patient | 22-11-2023|
+|Backend|feature/jorge_laban| 09b305e|add doctor | 22-11-2023|
+
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+No se desarrolló en este sprint, pues en esta parte se presentarán los Unit Tests, Integration Tests y Acceptance Tests automatizados, para Web Services.
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
 En esta sección, se presentará la evidencia del progreso y desarrollo del software. Se incluirán detalles sobre las características específicas que se han implementado durante el sprint actual, destacando cualquier avance significativo en la plataforma.
 
 A continuación, podemos observar la pantalla de bienvenida para el paciente
@@ -4010,22 +4028,40 @@ Una vez seleccionado nuestro doctor de interes procederemos a realizar la cita d
 Por ultimo, hemos adicionado los metodos de pago dentro de la aplicacion donde se estan aceptando tarjetas de debido o credito y Paypal
 ![](assets/pago%20sprint%204.jpg)
 
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review
-
-
-
-#### 5.2.4.5. Execution Evidence for Sprint Review
-
-
-
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-
+No se desarrolló en este sprint, pues en esta sección presentaremos la relación de Endpoints documentados con Swagger, relacionados con el alcance del Sprint y con Web Applications.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+La gestión de nuestro código fuente se realizará a través de GitHub. Asimismo, se utilizará Github Pages para la publicación y despliegue de la página. Cada sección del Landing Page que se ha creado deberá aparecer en el siguiente vínculo: https://si729-2302-wx52-grupo-3.github.io/LandinPage/public
 
+Para el desarrollo del Landing Page de MediCare se han utilizado las siguientes herramientas:
+• Html: Es el lenguaje de marcado que estructuro nuestro Landing Page.
+Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenido realizado en su rama individual.
+
+![](assets/landing_medicare_code.png)
+
+Java: es el lenguaje de marcado que estructuro nuesro backend para el proyecto.
+
+![](assets/deployment_sprint3.PNG)
+
+El despliegue del Landing Page y Backend de MediCare no pudo ser poible sin utilizar las siguientes tecnologías:
+• Git: Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
+
+![](assets/git.png)
+
+• GitHub: Plataforma de desarrollo colaborativo.
+
+![](assets/github.png)
+
+• Git Hub Pages: Servicio de Github que nos permitió alojar nuestra lading page.
+
+![](assets/github_pages.jpg)
+
+Evidencia de Deployment
+
+![](assets/medicare_landing.png)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
