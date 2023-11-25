@@ -2754,7 +2754,7 @@ HealthProduct: Esta clase depende de la clase Pharmacy y puede pertenecer solo a
 
 ### 4.8.1. Database Diagram
 
-![Imagen](assets/4.8.1.%20Database%20Diagram%201.png)
+![Imagen](assets/Diagrama%20en%20bd.jpeg)
 
 Entidades de la base de datos
 
