@@ -3955,6 +3955,77 @@ A continuación, mostramos los commits elaborados por el equipo para el desarrol
 
 ![](assets/colaboration_sprint3.PNG)
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+| Sprint                         | Sprint 4                                                                                                                                                                                                                                                                             |
+|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background     |                                                                                                                                                                                                                                                                                      |
+| Date                           | 2023-11-24                                                                                                                                                                                                                                                                           |
+| Time                           | 04:00 PM                                                                                                                                                                                                                                                                             |
+| Location                       | Servidor de Discord del Equipo                                                                                                                                                                                                                                                       |
+| Prepared By                    | Clara Angie Valverde Salazar                                                                                                                                                                                                                                                         |
+| Attendees (to planning meeting | Clara Angie Valverde Salazar/ Willy David Valentin Ricaldi/ Alfredo Nolberto Farro Caballero/ Sergio Julio Bazan Revollar/ Jorge Armando Laban Hijar                                                                                                                                 |
+| Sprint 4 Review Summary        | Observacion en el formato de la documentacion para el proyecto y correccón de errores del código
+| | Agregamos Swagger a nuestro proyecto para tener una documentacion clara y facil de entender de nuestra API                                                                                                                                                                                    |
+| Sprint 4 Retrospective Summary | Se corrigió los errores del anterior del anterior sprint.                                                                                                                                                                                                                            |
+| Sprint Goal & User Stories     |                                                                                                                                                                                                                                                                                      |
+| Sprint 4 Goal                  | La meta de este Sprint es el despliegue compleo de nuestra aplicación tanto como fronted y backend de la aplicación web |
+| Sprint 4 Velocity              | 13 Velocity                                                                                                                                                                                                                                                                          |
+| Sum of Story Points            | 24 Story points                                                                                                                                                                                                                                                                      |
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta cuarta entrega, tuvimos como objetivo implementar el swagger en nuestro proyecto para asi tener una documentacion clara y facil de entender sobre nuestra API. Además, se agregaron las clases de forma completa en la aplicacion. Por ultimo, estamos obteniendo por nuestra aplicacion funcionando completamente. A continuación, se presentan fotos que evidencian nuestro manejo de Trello.
+
+![](assets/Aspose.Words.3eb1f330-4dcc-4813-8a0d-3f5c18cd7cfd.016.png)
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+En esta sección, se presentará la evidencia del progreso y desarrollo del software. Se incluirán detalles sobre las características específicas que se han implementado durante el sprint actual, destacando cualquier avance significativo en la plataforma.
+
+A continuación, podemos observar la pantalla de bienvenida para el paciente
+![](assets/bienvenida%20sprint%204.jpg)
+
+Luego de haber seleccionado la opcion "Doctors" aparecera la siguiente interfaz mostrandonos los perfiles de los doctores
+![](assets/select%20doctor%20sprint%204.jpg)
+
+Si tenemos interes de algun doctor podemos hacer clic sobre uno de los cards y asi poder ver su perfil del doctor
+![](assets/profile%20doctor%20sprint%204.jpg)
+
+En la siguiente imagen podemos observar la vista del perfil del paciente dentro de nuestra aplicacion
+![](assets/profile%20patient%20sprint%204.jpg)
+
+Una vez seleccionado nuestro doctor de interes procederemos a realizar la cita donde ingresaremos la fecha y una descripcion
+![](assets/appointment%20sprint%204.jpg)
+
+Por ultimo, hemos adicionado los metodos de pago dentro de la aplicacion donde se estan aceptando tarjetas de debido o credito y Paypal
+![](assets/pago%20sprint%204.jpg)
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+A continuación, mostramos los commits elaborados por el equipo para el desarrollo del backend para el proyecto.
+
+![](assets/insight%20sprint%204.PNG)
+
 ## 5.3. Validation Interviews 
 
 ### 5.3.1. Diseño de Entrevistas 
